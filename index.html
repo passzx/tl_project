@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Homepage</title>
+        <link rel="stylesheet" href="./main/styles.css">
+        <link rel="stylesheet" href="./story/story.css">
+    </head>
+
+    <body>
+      <header class="main-header" id="mainHeader">
+        <nav class="main-nav">
+          <div class="nav-left">
+            <button class="hamburger-menu" aria-label="Open menu" id="hamburgerMenu">
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+            </button>
+          </div>
+          <div class="nav-right header-buttons-group">
+            <button id="homeButton" aria-label="Home">🏠</button>
+            <button id="renamePlayerButton" aria-label="Rename Player">✏️</button>
+            <button id="darkModeToggle" aria-label="Dark Mode">🌙</button>
+          </div>
+        </nav>
+      </header>
+
+      <aside class="sidebar" id="sidebar">
+        <nav class="sidebar-nav">
+            <h3>Works</h3>
+          <ul class="chapter-list">
+            <li><a href="./story/we_traveler/about.html">[LAH] World End Travelers</a></li>
+            <li><a href="./story/choco_volcano/about.html">[LAH] From Choco Volcano, with Love</a></li>
+          </ul>
+        </nav>
+      </aside>
+
+      <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+      <main class="main-content container">
+        <section class="info-sections">
+          <div class="info-box">
+            <h2>About</h2>
+            <p>hi
+            <br>the person with zero to no experience attempts translating</p>
+            <p>I'm not a native speaker in either English nor Japanese, so please pardon any mistakes, and if it's too wrong, you can always contact me for some emergency fixes</p>
+            <p>for any requests or questions, contact <a href="https://x.com/passzx">@passzx</a> on Twitter (I'm not calling it X)</p>
+            <p>fun fact: I made this entire website and started translating because I got a bit too smitten with one character in particular (bonus points if you can figure out)</p>
+          </div>
+          <div class="info-box">
+            <h2>Guidelines</h2>
+            <p>please take a moment to read these guidelines:</p>
+            <p>- you can link, quote my translations (if anyone actually wants to) as long as you credit me appropriately
+            <br>- you can use my translations to re-translate to another language
+            <br>- do not make profits out of them, as the original materials are copyrighted, and I do not own them in any way
+            <br>- (please) don't train AIs with my translations.</p>
+
+            <p>that's it, really.</p>
+          </div>
+          <div class="info-box">
+            <h2>Progress</h2>
+            <p>World End Travelers:
+            <br>- Event Quests 9/9
+            <br>- Epilogue Quests 4/4</p>
+            <p>From Choco Volcano, with Love:
+            <br>- Event Quests 0/8
+            <br>- Epilogue Quests 2/18</p>
+            <p style="font-size: 0.8em; opacity: 0.5; text-align: center;">in progress...<br>isn't it funny that I want to do epilogues before the main quests?</p>
+            <p>character expressions: nowhere near done</p>
+          </div>
+        </section>
+
+        <section class="works-section">
+          <div class="works-grid">
+            <a href="./story/we_traveler/about.html" class="work-box">
+              <div class="work-box-image">
+                <img src="./titles/we_traveler.jpg" alt="World End Travelers Logo">
+              </div>
+              <div class="work-box-details">
+                <h3>ワールドエンド・トラベラーズ<br>(World End Travelers)</h3>
+                <p class="dates">30/04/2025 -> 28/05/2025</p>
+                <p class="quote">"O Brave Hero who crossed the rainbow,<br>please, save this world-"</p>
+                <p style="font-size: 0.8em; opacity: 0.5; text-align: center;">From ライブ・ア・ヒーロー！(©2020 Lifewonders, LLC)</p>
+              </div>
+            </a>
+
+            <a href="./story/choco_volcano/about.html" class="work-box">
+              <div class="work-box-image">
+                <img src="./titles/choco_volcano.jpg" alt="From Choco Volcano, with Love Logo">
+              </div>
+              <div class="work-box-details">
+                <h3>チョコ・ヴォルカーノより愛を込めて<br>(From Choco Volcano, with Love)</h3>
+                <p class="dates">Original: 27/02/2024 -> 26/03/2024 <br> Reprint: 19/03/2025 -> 10/04/2025</p>
+                <p class="quote">"On a special day, to give chocolate filled with one's feelings."</p>
+                <p style="font-size: 0.8em; opacity: 0.5; text-align: center;">From ライブ・ア・ヒーロー！(©2020 Lifewonders, LLC)</p>
+              </div>
+            </a>
+            </div>
+        </section>
+        
+      </main>
+      <script src="./story/about.js"></script>
+      </body>
+</html>
