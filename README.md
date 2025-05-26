@@ -6,4 +6,3 @@ for any requests or questions, contact <a href="https://x.com/passzx">@passzx</a
 
 a portion of this was copied from my midterms...<br>
 I'm so environmentally friendly I'm recycling all the time
-
