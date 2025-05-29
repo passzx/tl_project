@@ -210,7 +210,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       } catch (error) {
           console.error('Error loading story:', error);
-          eventPageContent.innerHTML = '<p>Failed to load story content.</p>';
+          eventPageContent.innerHTML = '<p>failed to load story content.<br>please contact the dumbass who made this website.</p>';
       }
     }
 

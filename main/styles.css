@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Red Hat Display';
+  src: url(RedHatDisplay.ttf);
+}
+
 :root {
   --primary-color: #3498db;
   --primary-color-darker: #2980b9;
@@ -9,22 +14,22 @@
   --shadow-color: rgba(0, 0, 0, 0.05);
   --base-font-size: 16px;
   --header-height: 75px;
-  --font-main: 'Bahnschrift Light', sans-serif;
+  --font-main: 'Bahnschrift Light', 'Red Hat Display', sans-serif;
 }
 
 html {
-  background-color: var(--background-light); /* Ensure html also picks up the theme background */
+  background-color: var(--background-light);
 }
 
 body[data-theme='dark'] {
-  --primary-color: #92d1ff; /* Lighter blue for dark mode */
-  --primary-color-darker: #6cb3e0; /* Slightly darker lighter blue */
-  --secondary-color: #f1c40f; /* Keep yellow, or adjust if needed */
-  --text-color: #e0e0e0; /* Light gray text */
-  --text-color-light: #b0b0b0; /* Lighter gray text */
-  --border-color: #444; /* Darker border */
-  --background-light: #2c2c2c; /* Dark background */
-  --shadow-color: rgba(0, 0, 0, 0.3); /* More prominent shadow for dark elements */
+  --primary-color: #92d1ff;
+  --primary-color-darker: #6cb3e0;
+  --secondary-color: #f1c40f;
+  --text-color: #e0e0e0;
+  --text-color-light: #b0b0b0;
+  --border-color: #444;
+  --background-light: #2c2c2c;
+  --shadow-color: rgba(0, 0, 0, 0.3);
 }
 
 *,
