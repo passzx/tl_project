@@ -653,7 +653,7 @@
       "type": "character",
       "name": "Mysterious Man",
       "avatar": "./char/broker.png",
-      "text": "Without my intervention...<br>How did they outsmart the surveillance of *that monster*?"
+      "text": "Without my intervention...<br>How did they outsmart the surveillance of \"that monster\"?"
     },
     {
       "type": "character",

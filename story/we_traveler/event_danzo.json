@@ -491,7 +491,7 @@
     },
     {
       "type": "choice",
-      "note": "(I don't have *that* sprite just yet, but it'll be there!)",
+      "note": "(I don't have \"that\" sprite just yet, but it'll be there!)",
       "options": [
         {
           "text": "Eh...!?"
