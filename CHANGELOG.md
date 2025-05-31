@@ -4,6 +4,9 @@
 - character expressions (I don't think I can do this one but I'll just put it here)
 - better website deployment
 
+- considering changing all instances of "monster" to "Kaibutsu"?
+(I know Kaibutsu's the official term, but...)
+
 -------------------------------------------
 
 29/05/2025
