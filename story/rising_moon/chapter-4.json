@@ -6,19 +6,19 @@
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "...This is strange.<br>Pubraseer-san hasn't returned."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "Ah, since the civilian role isn't here,<br>there's really a limit to how much we can just<br>pick fights with examinees for no reason..."
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "Apparently, [Player]-san sent a message<br>saying they were caught in some trouble,<br>and were going to help out..."
     },
     {
@@ -28,25 +28,25 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "...Geez, can't be helped.<br>Let's move around a bit and<br>try to find Pubraseer."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "[Player] is also there, so<br>they should be able to transform,<br>I don't think that'll be a problem."
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "...That's right. I heard we're allowed<br>to move around quite freely, so<br>I have no objections. Shall we go?"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "Ah... by the way, sensei.<br>What's that thing hanging on that tree?"
     },
     {
@@ -56,13 +56,13 @@
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "...I don't know.<br>Just pick it up and see,<br>why don't you?"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "What, you're so cold...<br>-Yoink!"
     },
     {
@@ -72,31 +72,31 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "...What is this?<br>Is it a part of some machine?"
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "At first glance, it appears so.<br>It's a bit burnt, so perhaps it was<br>broken and discarded."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "What, how boring.<br>...Haa, I'll just<br>throw it in the trash later."
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "...I'm surprised.<br>You have such a sense of morality as well."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "What, of course I do.<br>I can't stand it if things like that<br>are just dumped in the ocean."
     },
     {
@@ -106,19 +106,19 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "Come on, sensei, let's go.<br>Which way should we<br>head first?"
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "We don't have any specific destination, but<br>for now, perhaps we should aim<br>towards the \"Pillar of Light.\""
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "In an emergency, we'd head for headquarters anyway...<br>Oh, wait a moment. It seems a message<br>has arrived from the Operations Headquarters."
     },
     {
@@ -128,31 +128,31 @@
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "...What on earth<br>does this mean?"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "What is it, sensei?<br>What did it say?"
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "...It seems information has come in that an unidentified<br>intruder has been confirmed within the examination area,<br>and an investigation is currently underway."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/Hydoor.png",
+      "avatar": "./char/hydoor.png",
       "text": "...Huh? No way, a villain?<br>Is there really someone who would deliberately<br>intrude into a place filled with heroes like this?"
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "It's hard to believe, but...<br>it seems there's a high probability of that,<br>and a notification to be vigilant has arrived."
     },
     {
@@ -162,7 +162,7 @@
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/Subaru.png",
+      "avatar": "./char/subaru.png",
       "text": "-Regarding the continuation of the exam,<br>it seems we'll have to wait for further contact."
     },
     {
@@ -172,7 +172,7 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...Haa, haa.<br>Just now, I sensed a person's<br>presence in this direction..."
     },
     {
@@ -186,7 +186,7 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "-Hey!<br>You, are you [Player]!?<br>Please be [Player]!"
     },
     {
@@ -196,13 +196,13 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...What, it wasn't them.<br>Sorry, are you two examiners?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Uhm... before that, may I ask one thing?<br>Didn't you just call out to [Player]?"
     },
     {
@@ -212,13 +212,13 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...Ah, that person has my<br>exam ticket."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "My name is Denebola.<br>I thought if you were examiners, you could<br>do something about it..."
     },
     {
@@ -228,43 +228,43 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...Ho?<br>If I may be so bold, your movements-"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "I perceive you to be a master of considerable combat technique.<br>...How about you show this unworthy one your skill?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "H-Huh...?<br>Are you an examiner after all?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "...Gaisei-kun.<br>Was his explanation not enough for you?<br>This person is currently in trouble."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "I apologize for my rudeness.<br>In my eagerness for an enjoyable battle,<br>I omitted necessary words."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "This unworthy one, like you,<br>is searching for [Player].<br>Meaning, I am in the midst of enduring-"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "This thirst that gnaws within my belly.<br>By all means, I ask that you fully satisfy it with your skill,<br>and engrave it upon this body."
     },
     {
@@ -274,49 +274,49 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "...Haa, you've lost sight of your objective.<br>For Gaisei-kun, that might be a lot of patience he's showing, but..."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Excuse me, just to confirm,<br>can you battle Gaisei-kun?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "M-Oh, yeah...?<br>Does that mean...<br>the exam had already begun!?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "I'm fine, but...!<br>W-Wait, first, please transform me!"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "I don't have my exam ticket with me, but if you check,<br>you'll know I'm an examinee!"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "...Indeed, we can't find an operator.<br>And there doesn't seem to be anyone nearby either..."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "If I can't take this exam, my license...<br>My... my younger brother...!"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Please, if you're an operator,<br>transform me!"
     },
     {
@@ -326,13 +326,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Eh, b-but I've never<br>transformed anyone other than Gaisei-kun..."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Besides, you seem to be misunderstanding,<br>we are not examiners-"
     },
     {
@@ -372,7 +372,7 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...W-What!?"
     },
     {
@@ -386,31 +386,31 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "W-What do you mean, examiners!?<br>The exam-<br>What about my license...!?"
     },
     {
         "type": "character",
         "name": "Pubraseer",
-        "avatar": "./char/Pubraseer.png",
+        "avatar": "./char/pubraseer.png",
         "text": "-Phew, it seems all the<br>surrounding monsters have been defeated now.<br>Orbiter, are you hurt?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Yeah, I'm fine!<br>I did my best too-!<br>How was it, Captain, was I helpful?"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Ah, your support was very reassuring.<br>If you can fight that well, I'm relieved."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Eheheh, yay-!<br>Captain praised me, [Player]!"
     },
     {
@@ -432,31 +432,31 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "You two, you can count on my strength!<br>Leave the battles to me too!"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Hahaha, that's reassuring.<br>...Looking at you,<br>really reminds me of my old days."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "...Old days?<br>Captain's stories, I want to hear them!"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Ah, once this situation settles down,<br>let's have a good talk."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Yeah, tell me lots!<br>About space, about spaceships...!<br>Oh, and what kind of training you did too!"
     },
     {
@@ -466,25 +466,25 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...Ah, when I was aiming to be an astronaut,<br>my comrades and I felt the same way."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Just single-mindedly aiming for space,<br>the attitude of being able to honestly say your love for it..."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "We had nothing but that.<br>...No, that was all we needed.<br>You reminded me of that a little, thank you."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Is that so...?<br>But, if I could be of use to Captain,<br>I'm happy too!"
     },
     {
@@ -514,43 +514,43 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...Well now, [Player].<br>Warping, villains, and now monsters too..."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "For now, I'll report back on<br>the monsters situation, but..."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "My original assigned operator<br>suddenly disappeared too.<br>I thought it was just a coincidence, but-"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Perhaps other operators or<br>civilians may have already suffered<br>some kind of harm."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "T-That means someone might have<br>been eaten by a monster...?"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "We don't know yet, but we should respond urgently.<br>However, in times like these,<br>let's calmly resolve problems one by one."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "That's right.<br>...Oh, wait a minute!"
     },
     {
@@ -560,25 +560,25 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "What's wrong, Orbiter?<br>Did something happen?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Yeah, a message from Denebola<br>just arrived!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "He said he found a part of my spaceship!<br>He sent me the coordinates too!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Hey, [Player].<br>First, why don't you give Denebola<br>his exam ticket back?"
     },
     {
@@ -600,19 +600,19 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...Hmm.<br>These coordinates are near<br>where we were just now."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Fortunately, the warping this time<br>didn't seem to have taken us too far.<br>It won't take much time either."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "It would be best to head there<br>before the warp activates again."
     },
     {
@@ -622,7 +622,7 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Well then, let's meet up with Denebola first.<br>Is that alright with you, [Player]?"
     },
     {
@@ -632,7 +632,7 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Then, let's go together-!<br>To meet Denebola, let's go-!"
     },
     {
@@ -646,25 +646,25 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "...Yes, both Gaisei-kun and I<br>are examinees, just like you."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "T-Then, why did you<br>try to battle earlier...!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "This unworthy one never said anything about an exam.<br>I just want to battle you."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Haa...?<br>What's that...!?"
     },
     {
@@ -674,25 +674,25 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...No, but if you're examinees,<br>then you're in the same position as me."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "The exam is also suspended.<br>There's nothing we can do now."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "Then, how about indulging<br>in a battle with this unworthy one?<br>It might serve as a distraction."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Why would you do something that drains your stamina<br>while the exam is still under suspension...?"
     },
     {
@@ -702,37 +702,37 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...But, I have to search for [Player].<br>I'll need my exam ticket when the exam resumes."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "I'm going ahead first.<br>I can't be bothered any further."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Look, Gaisei-kun.<br>He doesn't seem to want<br>to fight you."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...His will seems firm.<br>This unworthy one has no interest<br>in those without the will to fight."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "It's a sudden turn of events...<br>I'm sorry, my Gaisei-kun<br>caused you trouble."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...You guys are amazing.<br>You're the ones who picked a fight<br>unilaterally..."
     },
     {
@@ -765,43 +765,43 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...This feels like the conversation<br>is going to get even more complicated."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Denebola, sorry to keep you waiting!<br>I found [Player]!<br>What about my parts!?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "[Player]!<br>You took my exam ticket, didn't you!?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Give it back!<br>I have to pass the exam and find my brother!<br>...Even though the exam has been suspended."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "Well, well, [Player]-dono.<br>I was looking for you.<br>How is your condition?"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "This unworthy one cannot wait.<br>Come now, are you ready for battle?<br>Let me hear your condition!"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Gaisei-kun, wait a moment.<br>[Player]... What on earth is going on?"
     },
     {
@@ -825,25 +825,25 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...Hmm, it seems we're not getting anywhere.<br>But you, you suddenly disappeared, didn't you?<br>Don't disappear again in the meantime..."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Okay-!<br>Then, can I be the first to speak?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Hey, Denebola,<br>is it true you found my parts?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Ah, this, right?<br>The spaceship part<br>you were talking about, Orbiter."
     },
     {
@@ -853,31 +853,31 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Yeah, this is it!<br>The one I gave to [Player].<br>I'm so glad it was found-!"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...Hoh, so this is from a spaceship?<br>It's much smaller than I imagined."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Oh, that was a spaceship part.<br>...I see. Then, the ceiling incident<br>that was in the news came from this, right?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "If it's this size, as far as I know,<br>it's about the size of a one-person bicycle...<br>Is that about right?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Yeah, that's right. This is the engine,<br>and then there's the seat, and the rudder for balance.<br>And there's only the shield left, but..."
     },
     {
@@ -887,19 +887,19 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "I'll collect everything again, and rebuild it!<br>Thank you, Denebola."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Ah, no problem.<br>Well, it was on the way.<br>...Now it's my turn."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "[Player], give me my exam ticket back.<br>It's important."
     },
     {
@@ -909,13 +909,13 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Ah, this is it, no mistake.<br>For now, this will allow me to be<br>recognized as an examinee."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "You didn't take it on purpose, did you?<br>...For now, please have my gratitudes."
     },
     {
@@ -931,7 +931,7 @@
             {
                 "type": "character",
                 "name": "Denebola",
-                "avatar": "./char/Denebola.png",
+                "avatar": "./char/denebola.png",
                 "text": "No, that doesn't matter now.<br>...You all heard it too, didn't you?<br>The exam has been temporarily suspended."
               }
           ]
@@ -942,7 +942,7 @@
             {
                 "type": "character",
                 "name": "Denebola",
-                "avatar": "./char/Denebola.png",
+                "avatar": "./char/denebola.png",
                 "text": "Ah, you all must have heard it too.<br>The exam has been temporarily suspended."
             }
           ]
@@ -952,13 +952,13 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "I really want to go earn points<br>right away, but..."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "There was also an order to prioritize safety.<br>Rushing now would only make a bad impression."
     },
     {
@@ -968,31 +968,31 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "All I can do now is conserve my stamina,<br>and be in perfect condition<br>when the exam resumes, and-"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Just pray that the exam resumes.<br>Orbiter, do you want some too?<br>It's not delicious, but it's edible enough."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Eh, m-me...?<br>N-No, I'm fine!<br>I'm not hungry at all...!"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Is that so...?<br>You've been running around, you must be hungry.<br>It's fine, the expiration date hasn't passed yet.<br>You shouldn't get a stomachache."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "T-That's not what I meant, but...<br>I appreciate the thought."
     },
     {
@@ -1014,19 +1014,19 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Ah, yeah, I am curious, but...!<br>I don't really need it right now..."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...So is everything alright now?<br>This unworthy one is not very good at waiting."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "[Player]-dono, Pubraseer-dono.<br>I perceive that the preparations for<br>my battle with you are now complete?"
     },
     {
@@ -1036,31 +1036,31 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "...Haa, as expected,<br>he absolutely wants to fight you, [Player]."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "Of course, this unworthy one's purpose is<br>to fight strong opponents and hone my skills.<br>There is nothing else."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Hmm, [Player].<br>I was able to trick him successfully earlier, but<br>it will be difficult this time..."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...It can't be helped.<br>If he insists on fighting us,<br>then I shall perceive him as a villain."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Now, it's not as an examiner,<br>but as a hero, that I must face them as."
     },
     {
@@ -1070,25 +1070,25 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "D-Denebola, are you okay!?<br>What's wrong all of a sudden...!?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "-Cough, g-wait, w-wait!?<br>You, are you a \"real\" examiner this time!?"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Ah, yes, I am.<br>I am Pubraseer, an examiner.<br>You're Denebola, I've heard about you."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "I'll also report your situation to the Operations' Headquarters.<br>But for now, I must deal with these two villains."
     },
     {
@@ -1098,31 +1098,31 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...Could it be, the suspicious individuals<br>mentioned in the announcement earlier...!"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "...As expected, investigating undercover<br>with Gaisei-kun was impossible."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "This unworthy one has no intention of hiding.<br>If the enemy attacks with numbers, this unworthy one <br>shall become a demon, and return it with my own skill."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "It was no good the moment<br>we first encountered [Player] and the others...<br>It's what you call \"the end of luck.\""
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "..."
     },
     {
@@ -1144,43 +1144,43 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "-Hoh, you refused earlier, but are you<br>also going to face this unworthy one?<br>Splendid, my enjoyment will increase."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...[Player], transform me.<br>You already recieved my contract earlier, didn't you?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "D-Denebola, are you angry...?<br>Fighting is bad, let's stop it here!"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "I am calm.<br>...But if these guys are here,<br>I won't be able to take the exam."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "That's what troubles me the most.<br>Examiner... Pubraseer.<br>Please allow me to fight."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Although I don't yet have the qualifications as a hero,<br>I make a living by transforming and fighting daily<br>on another planet."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "If it's a battle,<br>I won't be a hindrance.<br>...Please."
     },
     {
@@ -1190,19 +1190,19 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "[Player], transform me again!<br>I don't want anyone to get hurt!"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...[Player], could you please transform all three of us?<br>I'll take responsibility for this situation."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "They are villains who enjoy combat,<br>whether we fight or flee,<br>I want us to be transformed."
     },
     {
@@ -1220,13 +1220,13 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...\"Observer\", this unworthy one will also transform.<br>Finally, the enjoyable feast begins!"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Haa...<br>As expected, it always turns out \"this\" way, doesn't it?<br>Understood, here we go."
     },
     {
@@ -1236,7 +1236,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "[Player]-dono,<br>once again engrave your skill<br>upon this unworthy one-"
     },
     {
@@ -1278,13 +1278,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "...This taste and smell.<br>It's definitely monsters.<br>Gaisei-kun, be careful."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "It seems the entire<br>area is already surrounded."
     },
     {
@@ -1294,19 +1294,19 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Those aren't robots like earlier...<br>right, [Player]?"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...Kuh!<br>Just when we were about to battle villains,<br>now monsters again...!"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Gaisei, wait a moment!<br>First, the monsters-"
     },
     {
@@ -1316,13 +1316,13 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "<strong>Don't you dare</strong>"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "<strong>interrupt in</strong>"
     },
     {
@@ -1334,19 +1334,19 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "To fully enjoy this blissful feast, I have endured until now.<br>This unworthy one is now extremely displeased."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "I have no interest in the weak,<br>but if you insist on interfering,<br>I will not hesitate slice you up in an instant."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "You're all ganging up to interfere!<br>Don't mess with me!<br>If you get in my way, I won't go easy on you!"
     },
     {
@@ -1356,13 +1356,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "...Haa, am I supposed<br>to be operating this?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "It can't be helped, [Player].<br>Let's have a joint command.<br>It's like \"being in the same boat.\""
     },
     {
@@ -1372,13 +1372,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Gaisei-kun, come back.<br>This is a chance to experience<br>[Player]'s operation up close!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "A good suggestion, \"Observer\"!<br>You intend to reveal each other's tactics<br>and further liven up the later feast, don't you!?"
     },
     {
@@ -1406,37 +1406,37 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "It's the same as before, right?<br>We just have to defeat the monsters, right?<br>Leave it to me!"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Ah, but carelessness is your greatest enemy.<br>Let's be careful, Orbiter."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "These are unfamiliar monsters, so we<br>don't know what kind of attacks they'll use.<br>Don't overdo yourself."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Okay, understood, Captain!<br>[Player], let's fight together!"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Denebola, keep up the guerrilla attacks!<br>In case of emergency, I want you to<br>secure a retreat path for everyone!"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Understood!<br>You guys concentrate on your own battle!"
     },
     {
@@ -1446,7 +1446,7 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Come now, [Player]. The situation is complicated,<br>but let's deal with it one by one.<br>I'm looking forward to your operation!"
     },
     {
@@ -1470,13 +1470,13 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "-Take this!<br>Alright, finally, their numbers have decreased."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "I'm done here.<br>Orbiter, Pubraseer!<br>Are you two alright?"
     },
     {
@@ -1490,13 +1490,13 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Ah, you have been a great help, Denebola.<br>I'm just finished here too.<br>Orbiter also seems unharmed."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Yeah, I'm fine!<br>[Player], don't worry.<br>I'll protect you properly!"
     },
     {
@@ -1518,25 +1518,25 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Gaisei-kun, monsters are aiming from behind.<br>It seems to be the last few, please be careful!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "When fighting someone stronger than oneself,<br>taking them by surprise is a good move, but...<br>that's only possible with skill."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "If you dare to interfere, you will come to know<br>this unworthy one's skill with your own body-<br>like this!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "-\"Battle Blade\",<br>Demon's Claw of Destruction, First Form!"
     },
     {
@@ -1546,37 +1546,37 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "S-Such tremendous power...<br>He even cut through the wall of the building."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "H-Hiee...! G-Gaisei-kun!<br>You're not supposed to break buildings!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...What leisurely things are you saying?<br>This unworthy one's blade doesn't choose what it cuts;<br>there happened to be a wall within reach, that's all."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "U-Uhm.<br>If it weren't a model city,<br>I would certainly have warned him..."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Fortunately, there are no residents here,<br>and no human presence other than us. Besides,<br>I heard it will be cleared after the exam."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "When it comes to dealing with monsters damage,<br>they'll probably turn a blind eye to some extent."
     },
     {
@@ -1586,19 +1586,19 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...Hmm, it was just enough for a warm-up.<br>Though it was a bit unsatisfying."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "\"Observer,\" [Player]-dono.<br>Do you sense the presence<br>of any other monsters nearby?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "No... I no longer sense the smell<br>of monsters nearby.<br>How about you, [Player]?"
     },
     {
@@ -1640,31 +1640,31 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "You can even sense faint presences...<br>Is this the extent of your observation ability, [Player]?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "But, I thought all the monsters we fought<br>were eliminated..."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Oh, but, there was a very fast one, right?<br>I lost sight of it halfway through..."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "If that presence is a monster that escaped,<br>does that mean it was intimidated by us...?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Monsters are beings that devour anything and anyone indiscriminately.<br>I don't think they have such sentience, though..."
     },
     {
@@ -1674,25 +1674,25 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...Is that so?<br>However, weak beings that flee from battle<br>are not this unworthy one's enemies."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "I have little interest in opponents who cannot<br>steal techniques, nor possess enough power to<br>test this unworthy one's techniques."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Monsters attack people, and completely steal their memories...<br>Their living, breathing proof of being.<br>They are such beings."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Even if they are small and weak now,<br>we cannot simply ignore the possibility<br>of them becoming such a threat."
     },
     {
@@ -1717,13 +1717,13 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...Hoh, that's interesting.<br>Even [Player]-dono struggles against them."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "Such powerful beings are lurking nearby?<br>...That sounds a little enjoyable."
     },
     {
@@ -1733,19 +1733,19 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...However, you, Gaisei,<br>are interfering with the exam right now."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "As long as you are in this venue, the exam won't resume.<br>We lost time with the monsters commotion, but-"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "This time, I'll defeat you two,<br>and... resume the exam!"
     },
     {
@@ -1755,19 +1755,19 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...That's a good suggestion.<br>Your thoughts on combat,<br>this unworthy one finds very pleasing."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "Strength is for survival.<br>And for making one's ideals a reality-"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "Come now, show this unworthy one your<br>exceptional skill and power... Mmmh!"
     },
     {
@@ -1792,67 +1792,67 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "...Gaisei-kun, please just hold it right there.<br>You are Denebola, right?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Your worries are unfounded.<br>Our infiltration has already been discovered,<br>so we won't stay long."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "...What do you mean?<br>Are you two going home without battling?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Yes. If things can be settled peacefully,<br>there's nothing better.<br>It's like \"life is precious\"."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Of course, this is on the condition that you overlook it,<br>but I intend to release my transformation<br>and leave as soon as possible."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Besides, if monsters are appearing now,<br>isn't it better to prioritize dealing with them?"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Indeed, what Yotaro says makes sense.<br>Dealing with monsters is more important<br>than starting a battle here now."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Mmm...<br>What, are you two leaving<br>right away?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Then, Denebola won't<br>have to fight either, right?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Ah, that's right...<br>I don't particularly want to battle anyway."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "If the two of you leave, the exam will resume,<br>and my problem will be resolved...<br>Then, there's no need to battle."
     },
     {
@@ -1870,13 +1870,13 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...Mph.<br>What are you saying, \"Observer\"?<br>Strong heroes are better than weak monsters."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "Quickly, ready your Parallel Weapon-"
     },
     {
@@ -1904,25 +1904,25 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Th-This announcement...!<br>[Player], Captain,<br>will they be okay...?"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...It seems that other individuals<br>besides the escaped monsters<br>have been confirmed."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "[Player], your problem is<br>not yet resolved, but<br>...will you fight with us?"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "While dealing with the monsters,<br>let's search for a way to resolve<br>your warping phenomenon."
     },
     {
@@ -1948,13 +1948,13 @@
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "-[Player], can you hear me?"
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "I'm sorry for making such an urgent call,<br>but I'll report the matter on my end first."
     },
     {
@@ -1968,31 +1968,31 @@
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "First, about the anomaly<br>I was investigating, where you suddenly got warped."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "Since then, I've been trying to contact<br>the control room for confirmation, but...<br>There's absolutely no response."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "Moreover, the people at the Operations' Headquarters<br>have vague memories, and most of them<br>don't remember the person in charge of the control room."
     },
     {
       "type": "character",
       "name": "Mokdai",
-      "avatar": "./char/Mokdai.png",
+      "avatar": "./char/mokdai.png",
       "text": "C-Crowne-san!<br>Does that mean...!"
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "...Ah, that's right.<br>[Player], you know what this means, right?"
     },
     {
@@ -2009,43 +2009,43 @@
     {
       "type": "character",
       "name": "Akashi",
-      "avatar": "./char/Akashi.png",
+      "avatar": "./char/akashi.png",
       "text": "Crowne-san, does that mean [Player]'s<br>warpings happened because of them?"
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "...Unfortunately, I haven't been able to<br>investigate that far yet."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "But, at the very least, it's highly likely<br>that some problem has occurred<br>in the control room."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "Ah, there were no anomalous points<br>in [Player]'s terminal's operation history logs.<br>So the problem is on the control system side..."
     },
     {
       "type": "character",
       "name": "Mokdai",
-      "avatar": "./char/Mokdai.png",
+      "avatar": "./char/mokdai.png",
       "text": "...It can only be that something has happened<br>inside the \"Pillar of Light.\""
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "For now, what I've understood is that<br>the control system's effective range is<br>only within the examination area and a part of the \"Pillar of Light.\""
     },
     {
       "type": "character",
       "name": "Sui",
-      "avatar": "./char/Sui.png",
+      "avatar": "./char/sui.png",
       "text": "Then, if [Player]-san somehow<br>escapes from the examination area,<br>the effect will disappear?"
     },
     {
@@ -2055,25 +2055,25 @@
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "...At first, I thought the control system<br>was activating the warp through the terminal,<br>but that wasn't it."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "The terminal is merely a console.<br>As long as the system is within the area of operation,<br>it should still warp the users even if the terminal is removed."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "In that case, it's safer not to remove the terminal,<br>since there are still sounds to warn when you are about to warp,<br>and we can stay in contact through the terminal.<br>Anyway, you just have to get out of that area."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/Crowne.png",
+      "avatar": "./char/crowne.png",
       "text": "I'll investigate a bit more, but...<br>since I can't talk to the person in charge now,<br>please remember that as the best solution."
     },
     {
@@ -2090,7 +2090,7 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "[Player]-kun, I also have<br>something to tell you."
     },
     {
@@ -2100,37 +2100,37 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "As already announced,<br>monsters have appeared."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "Moreover, the rate of the monsters' appearance seems abnormally fast.<br>It seems there's a split body separate from the main body."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "The split body should also have a pseudo-core like the main body.<br>It's possible to deal with it by destroying that."
     },
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/Ryekie.png",
+      "avatar": "./char/ryekie.png",
       "text": "So, it's no different<br>from other monsters!"
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "Ah, however, as long as the main body isn't defeated,<br>the split bodies could appear endlessly..."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "We also want to hurry to the scene to provide support,<br>...but another problem has arisen."
     },
     {
@@ -2164,43 +2164,43 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "...As you've heard.<br>We can't afford to be stuck here, but..."
     },
     {
       "type": "character",
       "name": "Akashi",
-      "avatar": "./char/Akashi.png",
+      "avatar": "./char/akashi.png",
       "text": "We're trapped<br>in this place, huh..."
     },
     {
       "type": "character",
       "name": "Sui",
-      "avatar": "./char/Sui.png",
+      "avatar": "./char/sui.png",
       "text": "It was supposed to be a perfect defense,<br>but it's backfired...<br>Can we only wait...?"
     },
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/Ryekie.png",
+      "avatar": "./char/ryekie.png",
       "text": "[Player], we'll head to the \"Pillar of Light\"<br>as soon as we can get out of here!!"
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "I've also shared the current situation with Melide and the others outside.<br>They should also be dealing with the problem."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "...[Player]-kun.<br>Once your problem is resolved,<br>I'd like you to lend them your strength."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/Huckle.png",
+      "avatar": "./char/huckle.png",
       "text": "Also, we are observing your battle stream over here.<br>...Please be careful not to get injured."
     },
     {
@@ -2224,19 +2224,19 @@
     {
       "type": "character",
       "name": "Mokdai",
-      "avatar": "./char/Mokdai.png",
+      "avatar": "./char/mokdai.png",
       "text": "...Uhm, it's really frustrating that<br>problems are happening in various places,<br>but all we can do is wait."
     },
     {
       "type": "character",
       "name": "Akashi",
-      "avatar": "./char/Akashi.png",
+      "avatar": "./char/akashi.png",
       "text": "Ah...<br>But now, we just have to believe.<br>I think that's what we can do."
     },
     {
       "type": "character",
       "name": "Sui",
-      "avatar": "./char/Sui.png",
+      "avatar": "./char/sui.png",
       "text": "Yeah, I think so too.<br>...Once we can move,<br>let's go help everyone immediately."
     },
     {
@@ -2258,13 +2258,13 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "What's wrong, [Player]?<br>...Are you okay?"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "[Player], did you find out anything?<br>...Could you tell us?"
     },
     {
@@ -2274,13 +2274,13 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "-I see. In that case, to resolve [Player]'s problem,<br>we have no choice but to leave here."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "And, there are people who were<br>attacked by monsters, right?<br>...We have to help them quickly!"
     },
     {
@@ -2305,49 +2305,49 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Ah, that's right.<br>If we head to the \"Pillar of Light,\"<br>your problem will also be resolved."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...However, the examination area itself is<br>also protected by the same barrier.<br>The problem is how to get out of here..."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...Hm?<br>Speaking of which, Orbiter."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Even though there's a barrier,<br>how did you get inside the examination area?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Eh, me?<br>I just fell from the ceiling...<br>I didn't do anything special."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "That's quite a special method... However,<br>in that case, it seems the barrier<br>is only set up to a certain height."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "I heard the wall is quite high, so perhaps<br>the assumption is that there's no need<br>to cover the ceiling section."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Then how did Yotaro and Gaisei get in?<br>Like me, from the ceiling?"
     },
     {
@@ -2357,19 +2357,19 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "No, we registered by pretending to be examinees,<br>so it's the same as Denebola."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "We entered with everyone else using the<br>examinee entrance warp."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...You say that so calmly.<br>Truly the audacity of a villain."
     },
     {
@@ -2379,7 +2379,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...Are you finished?<br>This unworthy one is bored.<br>Let me hear your plans."
     },
     {
@@ -2397,61 +2397,61 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "I, of course, intend to head towards the monsters subjugation<br>together with [Player]."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "I cannot... leave the monsters be.<br>I must rescue the attacked people<br>as quickly as possible."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "I was told by the announcement<br>to secure my own safety, but...<br>Pubraseer, I need to consult you."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "If you, the examiner, permit it,<br>I would like to accompany you.<br>I want a chance to contribute, even a little."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "You're an honest one, Denebola.<br>You also have enough skill,<br>so I would be grateful if you could cooperate."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Then, me too!<br>I'll fight with Captain and the others!<br>I'll definitely be helpful!"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...Ah, that's right.<br>I can't leave Orbiter here alone."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Please accompany us<br>as safely as possible.<br>...Will you promise me?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Yeah, I promise!<br>I'll definitely protect it!<br>It's a promise with Captain!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "I'll also do my best to be like<br>an astronaut captain, [Player]!"
     },
     {
@@ -2461,7 +2461,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...Well then, it seems<br>the discussion is settled,<br>shall we go?"
     },
     {
@@ -2473,7 +2473,7 @@
             {
                 "type": "character",
                 "name": "Gaisei",
-                "avatar": "./char/Gaisei.png",
+                "avatar": "./char/gaisei.png",
                 "text": "What is it, [Player]-dono?<br>If I don't defeat the monsters quickly, you won't be able to battle me, right?"
               }
           ]
@@ -2484,7 +2484,7 @@
             {
                 "type": "character",
                 "name": "Gaisei",
-                "avatar": "./char/Gaisei.png",
+                "avatar": "./char/gaisei.png",
                 "text": "Of course.<br>If I don't defeat those monsters, I won't be able to battle you, right?"
               }
           ]
@@ -2494,31 +2494,31 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "Besides, if I act with [Player]-dono,<br>there's a possibility of fighting a formidable enemy-"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "With all due respect, there's no reason<br>for this unworthy one not to accompany you.<br>Come now, let's go...!"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Haa...<br>The longer we stay, the higher<br>the risk of us getting caught."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "As for me, I'd like to take advantage of<br>the monsters' commotion and just leave as is..."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "If Gaisei-kun is \"like this\"<br>then it's \"all over.\""
     },
     {
@@ -2528,19 +2528,19 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "(Regarding the Hero License,<br>further information gathering seems unlikely...)"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "([Player].<br>I'd like to gather a little more information<br>about you.)"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "(...That strength of yours,<br>the reason Gaisei-kun thinks highly of you, and...)"
     },
     {
@@ -2562,31 +2562,31 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Wait, [Player].<br>It's not all bad.<br>...I think."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Denebola...?<br>Do you have an idea?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...I admit, Gaisei is a nuisance<br>who interfered with the exam."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "...But if he says he'll leave after this is over,<br>I have nothing more to say."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "I felt it when we fought together,<br>that I understand his desire for strength a little.<br>...Because I grew up in a similar environment."
     },
     {
@@ -2596,7 +2596,7 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "My people prioritize \"strength\".<br>So, I can understand Gaisei's way of thinking.<br>...And he should be the same."
     },
     {
@@ -2614,13 +2614,13 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "...That's right.<br>[Player], we will ensure your safety."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Regarding Gaisei,<br>there are still some things I can't quite grasp,<br>but for now, he seems to be behaving... hm?"
     },
     {
@@ -2646,13 +2646,13 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "[Player], I don't want you to<br>disappear again, okay!?<br>W-What should I do...!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...This sound, \"again\"?<br>I cannot afford to lose sight of you here."
     },
     {
@@ -2666,37 +2666,37 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/Pubraseer.png",
+      "avatar": "./char/pubraseer.png",
       "text": "Ah, understood!<br>[Player], come, your hand.<br>Orbiter, come here too."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/Orbiter.png",
+      "avatar": "./char/orbiter.png",
       "text": "Y-Yeah!<br>It's okay, I've got it!<br>Is this good...?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/Denebola.png",
+      "avatar": "./char/denebola.png",
       "text": "Orbiter, I'll borrow your free hand.<br>...Is this okay?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "W-What is it...?<br>No, I don't seem to have the<br>leisure to ask now."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/Yotaro.png",
+      "avatar": "./char/yotaro.png",
       "text": "Gaisei-kun, come on, over here.<br>Hold my hand and [Player]'s hand."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/Gaisei.png",
+      "avatar": "./char/gaisei.png",
       "text": "...Oh, so this is the countermeasure.<br>Very well."
     },
     {
