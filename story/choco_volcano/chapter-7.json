@@ -1849,8 +1849,8 @@
       "text": "[Player]! <br>Operational support, please! <br>.........Now, quest start!"
     },
     {
-      "type": "title",
-      "text": "Trigger condition: reXer's HP falls below 50%"
+      "type": "narrator",
+      "text": "[Trigger condition: reXer's HP falls below 50%]"
     },
     {
       "type": "character",
@@ -1883,8 +1883,8 @@
       "text": "Of course, we promised! <br>...Now, let's defeat this monster and suppress the volcano's rampage!"
     },
     {
-      "type": "title",
-      "text": "Trigger condition: End of Turn 4"
+      "type": "narrator",
+      "text": "[Trigger condition: End of Turn 4]"
     },
     {
       "type": "character",
@@ -1905,8 +1905,8 @@
       "text": "With an unbreakable bond... Surely, we are connected. <br>Now, let's break through any hardships!"
     },
     {
-      "type": "title",
-      "text": "Trigger condition: End of Turn 7?"
+      "type": "narrator",
+      "text": "[Trigger condition: End of Turn 7?]"
     },
     {
       "type": "character",
