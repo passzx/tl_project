@@ -1778,7 +1778,7 @@
     {
       "type": "character",
       "name": "?????",
-      "avatar": "./char/orbiter_b.png",
+      "avatar": "./char/placeholder.png",
       "text": "『-In my place,<br>I want you to travel the vast cosmos.』"
     },
     {
@@ -1787,14 +1787,14 @@
     },
     {
       "type": "character",
-      "name": "Person in My Heart",
+      "name": "Person in the Heart",
       "avatar": "./char/orbiter_b.png",
       "text": "『I apologize.<br>I cannot travel.<br>Please, stay here.』"
     },
     {
       "type": "character",
       "name": "?????",
-      "avatar": "./char/orbiter_b.png",
+      "avatar": "./char/placeholder.png",
       "text": "『...I'm sorry, Orbiter.<br>I've already decided.』"
     },
     {
@@ -1804,7 +1804,7 @@
     {
       "type": "character",
       "name": "?????",
-      "avatar": "./char/orbiter_b.png",
+      "avatar": "./char/placeholder.png",
       "text": "『Yoo-hoo, Orbiter.』"
     },
     {
@@ -1818,19 +1818,19 @@
     {
       "type": "character",
       "name": "?????",
-      "avatar": "./char/orbiter_b.png",
+      "avatar": "./char/placeholder.png",
       "text": "『Disconnect neuro-interface.<br>Power down the suit.』"
     },
     {
       "type": "character",
-      "name": "Person in My Heart",
+      "name": "Person in the Heart",
       "avatar": "./char/orbiter_b.png",
       "text": "『-Warning. Severe problems may occur as a risk.<br>Are you sure you want to proceed?』"
     },
     {
       "type": "character",
       "name": "?????",
-      "avatar": "./char/orbiter_b.png",
+      "avatar": "./char/placeholder.png",
       "text": "『...Proceed.<br>Thank you for everything so far.<br>-Orbiter.』"
     },
     {
