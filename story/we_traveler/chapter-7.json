@@ -1902,8 +1902,8 @@
               "text": "I will unleash the crystallization of that wisdom—<br>without reservation.<br>Please... be prepared!"
             },
             {
-              "type": "title",
-              "text": "Trigger condition: End of Turn 2"
+              "type": "narrator",
+              "text": "[Trigger condition: End of Turn 2]"
             },
             {
               "type": "character",

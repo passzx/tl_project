@@ -815,8 +815,8 @@
       "options":[]
     },
     {
-      "type": "title",
-      "text": "Trigger condition: Enemy HP falls below 20%"
+      "type": "narrator",
+      "text": "[Trigger condition: Enemy HP falls below 20%]"
     },
       {
         "type": "character",

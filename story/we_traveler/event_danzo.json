@@ -35,7 +35,7 @@
       "type": "character",
       "name": "Danzo (Traveler)",
       "avatar": "./char/event_danzo.png",
-      "text": "YES!! If I could get those words out of you,<br>then it's a success, and it's finally finished!"
+      "text": "YES!! If I could get those words out of you,<br>then it's a success, and just like that, it's finally finished!"
     },
     {
       "type": "character",
@@ -87,7 +87,7 @@
               "type": "character",
               "name": "Danzo (Traveler)",
               "avatar": "./char/event_danzo.png",
-              "text": "N-No, no, what are you saying?!<br>[Player]-kun came up with the crucial parts, didn't you?!"
+              "text": "N-No, no, what are you saying?!<br>[Player]-kun, you came up with the crucial parts, didn't you?!"
             },
             {
               "type": "character",
@@ -119,13 +119,13 @@
       "type": "character",
       "name": "Danzo (Traveler)",
       "avatar": "./char/event_danzo.png",
-      "text": "Haah... Who knows it's been how many years since I've<br>been able to lie down on the grass feeling so calm. It really is nice."
+      "text": "Haah... Who knows it's been how many years since I've<br>been able to lie down on the grass feeling so calm.<br>It really is nice."
     },
     {
       "type": "character",
       "name": "Danzo (Traveler)",
       "avatar": "./char/event_danzo.png",
-      "text": "Every once in a while, you really have to make time to properly relax."
+      "text": "Every once in a while,<br>you really have to make time to properly relax."
     },
     {
       "type": "choice",
@@ -142,7 +142,7 @@
       "type": "character",
       "name": "Danzo (Traveler)",
       "avatar": "./char/event_danzo.png",
-      "text": "Oh, boy!<br>In that other world, I live in a muddy vortex where evil spirits run rampant!"
+      "text": "Oh, boy!<br>In that other world, I live in a muddy vortex<br>where evil spirits run rampant!"
     },
     {
       "type": "character",
@@ -265,7 +265,7 @@
       "type": "character",
       "name": "Danzo (Traveler)",
       "avatar": "./char/event_danzob.png",
-      "text": "It's all because of that time we put our heads together.<br>and created a song worthy of the revival of music."
+      "text": "It's all because of that time we put our heads together,<br>and created a song worthy of the revival of music."
     },
     {
       "type": "character",
@@ -491,7 +491,6 @@
     },
     {
       "type": "choice",
-      "note": "(I don't have \"that\" sprite just yet, but it'll be there!)",
       "options": [
         {
           "text": "Eh...!?"
@@ -506,19 +505,19 @@
     },
     {
       "type": "character",
-      "name": "Danzo (Traveler) (Stripped)",
+      "name": "Danzo (Traveler)",
       "avatar": "./char/event_danzo.png",
       "text": "—Haha, maximum liberation!<br>Giving into this feeling of freedom,<br>I'll pour all sorts of emotions into this performance!"
     },
     {
       "type": "character",
-      "name": "Danzo (Traveler) (Stripped)",
+      "name": "Danzo (Traveler)",
       "avatar": "./char/event_danzo.png",
       "text": "So... listen carefully, okay?<br>I've exposed my body's scars—<br>a ninja's shame..."
     },
     {
       "type": "character",
-      "name": "Danzo (Traveler) (Stripped)",
+      "name": "Danzo (Traveler)",
       "avatar": "./char/event_danzo.png",
       "text": "I'm more serious than usual, you get me?<br>What I'm about to deliver is a song just for you,<br>that you can only hear here."
     },

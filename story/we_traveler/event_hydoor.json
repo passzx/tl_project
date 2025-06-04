@@ -5,7 +5,7 @@
     },
     {
       "type": "narrator",
-      "text": "[Player] was on vacation, visiting the oceanic planet Muira IV. "
+      "text": "[Player] was on vacation, visiting the oceanic planet Muira IV."
     },
     {
       "type": "narrator",
@@ -17,7 +17,7 @@
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "Hey, [Player].<br>Kept you waiting a long time, huh."
     },
@@ -32,7 +32,7 @@
           "dialogue_after_selection": [
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "...I'm not gonna bother retorting anymore.<br>It's dreadful and I'm not in the mood."
             }
@@ -43,7 +43,7 @@
           "dialogue_after_selection": [
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "Don't lie to me.<br>You do know the only ship from this planet to Earth arrives in the morning, right?"
             }
@@ -53,13 +53,13 @@
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "Sorry, the ferry from the prison ship only sails at this time.<br>It ended up being pretty late."
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "Plus, I went to visit the 'land folks' this morning too...<br>It was an all-day affair."
     },
@@ -71,7 +71,7 @@
           "dialogue_after_selection": [
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": " ...Ah, well, yeah.<br>I wasn't really keen on going to the 'land folks',<br>but I figured it was fine to visit once in a while."
             }
@@ -82,13 +82,13 @@
           "dialogue_after_selection": [
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "Well, they were the same as always.<br>They apparently even check out the swimming competitions I compete in, even from inside the prison."
             },
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "They've completely lost their venom and just became good-natured folks.<br>They cheered me on like crazy."
             }
@@ -99,13 +99,13 @@
           "dialogue_after_selection": [
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "...Well, same as always.<br>All of them had gloomy faces.<br>They're truly a bunch of weaklings."
             },
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "But they apparently check out the shows I appear in quite a bit.<br>That was the only thing that surprised me."
             }
@@ -115,19 +115,19 @@
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "It was pretty out of character for me, but...<br>sometimes, visiting old acquaintances isn't so bad."
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "You don't really think about your roots unless you make an effort to.<br>It made me feel nostalgic."
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "...But I'm not going to the 'land folks' for a while.<br>They're waiting impatiently for me to bring back a partner.<br>Geez..."
     },
@@ -142,13 +142,13 @@
           "dialogue_after_selection": [
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "Hah! Even if I found someone I could bring back, I'd never let them meet those guys."
             },
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "I can tell exactly what they'll say next. Those country bumpkins."
             }
@@ -159,13 +159,13 @@
           "dialogue_after_selection": [
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "Wha—! Hey, you shouldn't say things like that so lightly!<br>I'll punch you, you bastard!"
             },
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "Besides, I know exactly what those guys expect from a partner!<br> I'm absolutely not letting them meet anyone!"
             }
@@ -186,13 +186,13 @@
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "Why would you...?<br>What would you even do by meeting them?<br>You wouldn't have anything to talk about."
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "If you went to meet those guys,<br>most of what they'd talk about is my past self, you know?<br>What's so interesting about that?"
     },
@@ -204,7 +204,7 @@
           "dialogue_after_selection": [
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "Really...?<br>Where's the interesting part in that?"
             }
@@ -215,7 +215,7 @@
           "dialogue_after_selection": [
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "You...<br>You're seriously too fond of weird stuff."
             }
@@ -226,7 +226,7 @@
           "dialogue_after_selection": [
             {
               "type": "character",
-              "name": "Hydoor (Summer)",
+              "name": "Hydoor",
               "avatar": "./char/hydoor.png",
               "text": "...How can you say things like that so casually?<br>It's making me embarrassed."
             }
@@ -236,7 +236,7 @@
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "Anyway, if it's about me, you should just ask me directly.<br>Is that not enough for you?"
     },
@@ -256,13 +256,13 @@
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "Ugh...<br>I just don't like looking back at the past, you know."
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "Even during our journey,<br>I only looked back because it seemed necessary..."
     },
@@ -272,13 +272,13 @@
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": " ...[Player].<br>Can you transform me into that form?"
     },
     {
       "type": "character",
-      "name": "Hydoor (Summer)",
+      "name": "Hydoor",
       "avatar": "./char/hydoor.png",
       "text": "That form where we cut down that<br>huge monster by borrowing everyone's strength."
     },
