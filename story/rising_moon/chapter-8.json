@@ -1,0 +1,1890 @@
+[
+    {
+      "type": "narrator",
+      "text": "-Archimedes Colony.<br>\"Pillar of Light\" upper level,<br>Ceremony Hall."
+    },
+    {
+      "type": "narrator",
+      "text": "In that place, where the setting sun streamed in,<br>the traces of [Player]'s battle with the monsters remained."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "Crowne-san, Exio-san.<br>Look over here too.<br>There's a sword mark on the wall."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "That's probably the work of<br>the villain who's with them.<br>Well, it's a helpful landmark for now."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "It seems that the floor above this<br>is the control room and the reactor's control facility."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "It's still a little further, then.<br>...Melide-chan, are you okay?"
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "./char/Melide.png",
+      "text": "...Yes, I'm fine.<br>Thank you, Sui-chan.<br>I was thinking I needed to get some exercise anyway."
+    },
+    {
+      "type": "narrator",
+      "text": "Though a little out of breath,<br>Melide continued to climb the \"Pillar of Light\"<br>with the heroes."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "...[Player] and the others<br>seem to have already boarded the elevator<br>and started the battle."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "...Hey, Exio-san.<br>It's fine if we talk while moving, but<br>could you tell me something?"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "The method to defeat the monsters<br>and prevent the reactor from exploding...<br>Have you thought of anything?"
+    },
+    {
+      "type": "narrator",
+      "text": "At Sui's words, Exio, who was operating his terminal<br>while running, frowned and replied."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "...I've thought of<br>one possible method-"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "No, to be precise, it's a method<br>where the possibility is \"not zero\"."
+    },
+    {
+      "type": "narrator",
+      "text": "Exio muttered the words<br>under his breath."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "...I never expected to fight monsters<br>in a \"superimposed state,\"<br>that was also unexpected."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "Speaking of which, Exio-san,<br>you said you encountered monsters<br>in a similar state before, didn't you?"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "At that time, how did you<br>defeat an enemy in a \"superimposed state\"?"
+    },
+    {
+      "type": "narrator",
+      "text": "Exio shook his head,<br>his expression unchanged."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "...I \"couldn't defeat it\".<br>I'll spare you the details, but at that time,<br>I couldn't do anything."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "The monster, having assimilated with an<br>almost inexhaustible amount of Ether bodies, were as if<br>its entire existance had been strongly reinforced."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "No matter how hard I tried to destroy the core,<br>I couldn't break the situation where the \"existence\" <br>in this universe was endlessly reinforced."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "Even if I barely managed to damage the monster's core,<br>it would immediately recover or revive..."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "Just by that one monster,<br>an entire city... no, most of a planet,<br>was easily destroyed."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "./char/Melide.png",
+      "text": "Exio-sama, does that mean...?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "...Ah.<br>So, I don't know any effective<br>means to definitely defeat it."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "Th-Then, against such an opponent,<br>how are we supposed to fight...?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "Right, let's organize the situation<br>a little as I explain."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "First, the biggest problem is that<br>the monsters and the reactor, these two,<br>are \"superimposed.\""
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "-Melide.<br>If the superposition is the problem,<br>what do you think we should do?"
+    },
+    {
+      "type": "narrator",
+      "text": "Exio took Melide's hand,<br>helping her move forward,<br>and asked her."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "./char/Melide.png",
+      "text": "Then, I think it would be good to<br>separate them...<br>"
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "./char/Melide.png",
+      "text": "If the two of them could be<br>separated, then that problem<br>would be resolved, wouldn't it...?"
+    },
+    {
+      "type": "narrator",
+      "text": "Exio nodded and replied<br>that she was correct."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "As Melide says, normally,<br>if two objects are in a superimposed state,<br>you can simply separate them."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "You can imagine like separating things from<br>the gaps or tears between the objects.<br>\"That\" is the goal."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "...But the problem is that the<br>\"superimposed state\" of the monsters and the Ether bodies,<br>that is not merely a physical fusion."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "It's a state where it's \"not yet determined\"<br>\"which universe it exists in\".<br>That is \"superposition.\""
+    },
+    {
+      "type": "narrator",
+      "text": "Exio chose his words carefully<br>as he spoke, as if organizing his thoughts."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "The \"superimposed\" state is normally<br>very delicate and fragile. It's difficult<br>to maintain that state."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "If someone opens a box and confirms it,<br>at that moment, its \"existence or non-existence\"<br>in this universe is determined-."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "In other words, the collapse of \"superposition\"<br>can be triggered by \"observation\", through interaction<br>with this universe... theoretically, that is."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "I see, losing the coherence of the<br>\"superimposed state\" and determining its state...<br>The principle is similar to the warp this time, isn't it?"
+    },
+    {
+      "type": "narrator",
+      "text": "Sui confirmed the surrounding safety,<br>and ruminated on Exio's and Crowne's words."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "Uhm, it's normally unstable, so<br>it should be easy to undo the \"superimposed\" state, but-"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "This time, because of the reactor,<br>we can't break that state... is that right?"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "Exio-san said it just now, didn't he?<br>That it has a strongly reinforced existence,<br>because it assimilated with a large amount of Ether bodies."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "Ah, that's just my assessment.<br>It's maintaining the \"superposition\" state just<br>with the power of Ether's affirmation-."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "Doesn't this remind you of the logic<br>by which an \"Observer\" transforms heroes?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "An \"Observer\" connects a path, and by observing, they<br>superimpose and fix their own self in this universe<br>with their supposed form in a parallel universe<br>(themselves in a hero suit)."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "...Then, how would you<br>cancel a hero's transformation?"
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "./char/Melide.png",
+      "text": "The \"Observer\" would simply<br>stop observing, wouldn't they?<br>...Ah!"
+    },
+    {
+      "type": "narrator",
+      "text": "Melide, comprehending what Exio was trying to convey,<br>let out a small gasp of surprise."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "Yes, if we apply this to the<br>current monsters and reactor situation-"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "If we could somehow weaken the surrounding Ether<br>that is strengthening the monsters' existence, then<br>there would be a chance of victory."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "The logic is the same as when an \"Observer\"'s <br>observation becomes unstable, and the transformed<br>hero's power weakens, huh? I see."
+    },
+    {
+      "type": "narrator",
+      "text": "Exio nodded quietly and<br>returned his gaze to the path ahead."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "Based on this premise,<br>[Player]'s power-"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "If you could skillfully apply the influence of<br>the swirling Ether around you, a fluctuation<br>should occur in the \"superimposed\" state."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "And once a fluctuation occurs,<br>then it's the same as the first story.<br>You just need to widen that crack."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "Weapons that can interfere with parallel universes-<br>that is, Parallel Weapons,<br>might be able to do that."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "B-But, Exio-san.<br>The power that makes Ether swirl<br>around [Player]-san-"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "Is it something that can be<br>controlled by their own will...?"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "...Besides, even if that were possible,<br>you'd be attacking the fluctuating monsters<br>with a Parallel Weapon, right?"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "To aim precisely at a fluctuation<br>like that, and attack it..."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "If you miss even a little,<br>the reactor will explode,<br>and a major disaster is inevitable, isn't it?"
+    },
+    {
+      "type": "narrator",
+      "text": "In front of the running group,<br>the entrance to the control room came into view."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "...Ah, that's right.<br>If even one of them fails,<br>we won't get out unscathed."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "The chance of success is<br>not even 1%, I can't guarantee that-."
+    },
+    {
+      "type": "narrator",
+      "text": "Exio, without stopping, called out<br>to his terminal."
+    },
+    {
+      "type": "narrator",
+      "text": "His voice communication was being broadcast<br>simultaneously to the heroes and operators<br>fighting together in the \"Pillar of Light.\""
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "-I hope you can hear me,<br>[Player]-kun.<br>This is my idea."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "-Yes, I could hear you."
+        }
+      ],
+      "dialogue_after_selection": []
+    },
+    {
+      "type": "narrator",
+      "text": "Standing on the elevator platform,<br>floating in space,<br>[Player] responded."
+    },
+    {
+      "type": "narrator",
+      "text": "And before their eyes-"
+    },
+    {
+      "type": "narrator",
+      "text": "A giant, matured monster stood in their way,<br>enveloped in an ominous aura."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "...[Player],<br>Th-This monster is completely different<br>from the ones we've seen so far...!"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "./char/Gaisei.png",
+      "text": "F-Fufufu...!<br>Ah, [Player]-dono.<br>As expected, it was good to believe in you."
+    },
+    {
+      "type": "narrator",
+      "text": "Gaisei laughed more gleefully than ever before,<br>and removed the mask that covered his face."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "./char/Gaisei.png",
+      "text": "An intimidating aura that stings the skin...<br>To be given the opportunity to confront<br>such overwhelming power!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "...Everyone, please be very careful.<br>Yotaro, please direct Gaisei<br>so he doesn't get too far ahead."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "Yes, understood.<br>Gaisei-kun seems to be getting excited,<br>so I'll keep an eye on him."
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer glared at the monster<br>with a stern gaze."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "...Its movements are clumsy,<br>and it doesn't seem to be able to move as fast<br>as the larvae on the ground."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "...We can't let our guard down, but<br>the enemy doesn't seem to be used to<br>the zero-gravity, vacuum environment of space yet."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "Orbiter, can you deploy a gravity field<br>around the monster now<br>to restrict its movements?"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "Understood. I'll try, Captain.<br>...But a field that big<br>might not last very long..."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "Just being able to stop it is enough.<br>Originally, I intended to search<br>for that monster's weakness."
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter nodded at Pubraseer's words<br>and deployed a giant gravity field<br>around the monsters."
+    },
+    {
+      "type": "narrator",
+      "text": "The monster's clumsy movements<br>were further restricted."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "...It's too big,<br>I can't increase the<br>gravity's intensity any further...!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "Thank you, Orbiter.<br>...Alright, if we're going to have a final strategy meeting,<br>now's the only time."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "About what we just discussed...<br>[Player], can you really manipulate Ether?"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] shook their head in response<br>to Pubraseer."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That's not by my will."
+        },
+        {
+          "text": "...I probably can't."
+        },
+        {
+          "text": "At least, I haven't tried."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "...I see.<br>In that case, we should<br>explore other methods."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "There's also the problem of landing<br>Parallel Weapon attacks on the fluctuations..."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "If we attack the monster's main body,<br>we're in danger too.<br>It's essential that we think of measures."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "./char/Gaisei.png",
+      "text": "I don't think any measures are available,<br>other than attempting to attack in this empty space.<br>May this unworthy one try his skills first?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "...No, stop, Gaisei.<br>Careless actions could even take away<br>the lives of the people living in the colony."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "But if things remain like this,<br>we'll have no choice but to destroy it...<br>...[Player], could you tell me what you're thinking?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I..."
+        },
+        {
+          "text": "..............."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "As [Player] stammered and<br>looked down, their terminal<br>announced an incoming call."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "./char/Huckle.png",
+      "text": "-[Player]-kun, can you hear me?<br>I heard Exio-san's story."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "./char/Huckle.png",
+      "text": "...Despite that, just one thing.<br>There's something I absolutely want to tell you."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "./char/Huckle.png",
+      "text": "Please remember your promise to seek a solution<br>that doesn't sacrifice anyone that you want to protect,<br>right up until the very end."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "./char/Huckle.png",
+      "text": "...You have believed in a miraculous possibility,<br>less than 1%, and observed by our side until now."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "./char/Huckle.png",
+      "text": "So now, [Player]-kun, it's our turn to<br>believe in you-"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "./char/Huckle.png",
+      "text": "You, our operator, our heroes' greatest partner,<br>it's our turn to believe in you."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "./char/Huckle.png",
+      "text": "...[Player]-kun.<br>Please... please stay safe.<br>That's all I have to say."
+    },
+    {
+      "type": "narrator",
+      "text": "The next moment, incoming calls streamed<br>one after another to [Player]'s terminal."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "./char/Akashi.png",
+      "text": "-[Player]!<br>You're not hurt, are you!?"
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "./char/Akashi.png",
+      "text": "You're overdoing it again, aren't you!?<br>...You absolutely \"must\" come back safely!<br>I'll make you tell me everything that happened!"
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "./char/Mokdai.png",
+      "text": "Akashi was very worried.<br>...[Player], please, be very careful."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "./char/Mokdai.png",
+      "text": "We'll be waiting while carrying out rescue operations.<br>The people you rescued from the monsters<br>have safely regained consciousness, so rest assured!"
+    },
+    {
+      "type": "character",
+      "name": "Monomasa",
+      "avatar": "./char/Monomasa.png",
+      "text": "...I'll be waiting for your return.<br>I swear to protect this place for that purpose,<br>at all costs."
+    },
+    {
+      "type": "character",
+      "name": "Justice",
+      "avatar": "./char/ryekie.png",
+      "text": "[Player]!<br>I won't say much!<br>Leave this side to us!!!"
+    },
+    {
+      "type": "character",
+      "name": "Justice",
+      "avatar": "./char/Ryekie.png",
+      "text": "To protect everyone's ordinary daily lives-<br>you, must carry out the justice you believe in!!!!"
+    },
+    {
+      "type": "character",
+      "name": "Andrew",
+      "avatar": "./char/Andrew.png",
+      "text": "[Player]-san,<br>I'll also fight with all my might here!<br>Orbiter, let's do our best together!"
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "./char/Flamier.png",
+      "text": "We, too, will exert every effort we can.<br>Please, save this colony...<br>together with us."
+    },
+    {
+      "type": "character",
+      "name": "Denebola",
+      "avatar": "./char/Denebola.png",
+      "text": "[Player], I've successfully rejoined.<br>You too, be careful."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "./char/Hydoor.png",
+      "text": "Damn it, you're always in trouble, aren't you!<br>Hurry up, finish it and come back!<br>If you don't come back, I'm gonna punch you!"
+    },
+    {
+      "type": "character",
+      "name": "Subaru",
+      "avatar": "./char/Subaru.png",
+      "text": "The defense of the \"Pillar of Light\"<br>has more than enough forces, so please rest assured.<br>We're counting on you to do, what only you can do."
+    },
+    {
+      "type": "character",
+      "name": "Yoshiori",
+      "avatar": "./char/Yoshiori.png",
+      "text": "Hey, [Player]!<br>I won't say anything unnecessary,<br>just survive! That's all!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "E-Everyone...!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The heroes fighting the monsters<br>on the ground cheered for [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "-It seems that we<br>made it in time."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "./char/Melide.png",
+      "text": "I wonder if you can hear us.<br>Just now, we've reached<br>the entrance of the elevator!"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "[Player]-san,<br>since then, Exio-san and I<br>have devised a plan."
+    },
+    {
+      "type": "narrator",
+      "text": "Sui put her hand to her chest,<br>and explained while regulating her breathing."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "[Player]-san, your power to make Ether swirl...<br>How to make it affect the opponent."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "The principle is simple.<br>If the Ether is swirling around you<br>as its axis-"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "[Player], if you yourself move quickly enough,<br>the axis of the swirl will shift."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "That way, you can<br>manipulate the Ether virtually, right?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "...But the Ether possessed by the reactor<br>is an enormous amount."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "./char/Exio.png",
+      "text": "Moving around a little bit<br>won't be enough to achieve the desired manipulation."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "...That's where<br>this guy comes in."
+    },
+    {
+      "type": "narrator",
+      "text": "Crowne, who had apparently repaired it,<br>lightly tapped the assembled small spaceship and showed it to them."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "Oh, my spaceship!<br>It's working again!?"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "Ah, repairs are complete!<br>I even added an autopilot function,<br>so I can send it to your coordinates right away!"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "...How about it, [Player].<br>This is an incredible \"gamble\", but-"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "How about trying to fly freely<br>through space with it?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "If I can manipulate Ether...!"
+        },
+        {
+          "text": "There's a possibility, then."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "...According to what we just discussed,<br>[Player]'s power seems to be the key."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "...What will you do?<br>It's like a gamble... a plan with<br>a success rate of maybe, one percent."
+    },
+    {
+      "type": "narrator",
+      "text": "The seemingly nonchalant voice<br>of Yotaro also contained a hint of anxiety."
+    },
+    {
+      "type": "narrator",
+      "text": "At those words, [Player]-"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Even so, we have no choice but to do it."
+        },
+        {
+          "text": "Whatever the chance, we just need to succeed."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] gazed straight at the monster<br>and replied to Yotaro."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "...[Player].<br>You are truly strong."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "If you were a hero, you might be able to use the power<br>of a Parallel Weapon to deal with it, but-"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "We, \"Observers,\" if something were to happen...<br>we wouldn't stand a chance."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "............<br>...Aren't you scared?"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] shook their head at Yotaro's question."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Of course I'm scared."
+        },
+        {
+          "text": "I want to run away right now."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "-But, we have to go."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "-[Player].<br>Ah, I knew you'd say that."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "...It's alright.<br>I will definitely be with you."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "[Player], I'll ride the<br>spaceship with you too!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "It might be a little cramped,<br>...but I can pilot it, so leave it to me!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "...It's okay!<br>If we're together, we can definitely do it!"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "...The discussion seems to be settled.<br>Then, I'll send it over right away!<br>Please receive it properly!"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "./char/Sui.png",
+      "text": "Oh, wait, Crowne-san!<br>I'll reinforce the hull with my thread."
+    },
+    {
+      "type": "narrator",
+      "text": "Connecting all the parts that everyone had collected,<br>the small spaceship was repaired."
+    },
+    {
+      "type": "narrator",
+      "text": "That tiny spaceship was firmly bound together by Sui's thread."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "./char/Crowne.png",
+      "text": "Thank you, Sui.<br>-Then, let's launch this guy up!<br>We're going in 3 counts."
+    },
+    {
+      "type": "character",
+      "name": "All",
+      "avatar": "./char/placeholder.png",
+      "text": "<strong>3 -"
+    },
+    {
+      "type": "character",
+      "name": "All",
+      "avatar": "./char/placeholder.png",
+      "text": "<strong>2 -"
+    },
+    {
+      "type": "character",
+      "name": "All",
+      "avatar": "./char/placeholder.png",
+      "text": "<strong>1 -"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "<strong>Lift-off!!"
+    },
+    {
+      "type": "narrator",
+      "text": "The completed \"Orbiter\" proceeded straight into space<br>through the elevator shaft."
+    },
+    {
+      "type": "choice",
+      "note": "The name for the \"spaceship\" was actually オービター号 (Orbiter-go),<br>with 号 standing for mark, issue, number, etc...<br>I don't want to butcher it, so I just left it as is.<br>You could tell me what you think is a proper name, though!",
+      "options": []
+    },
+    {
+      "type": "narrator",
+      "text": "Drawing a straight trajectory,<br>everyone's interconnected hopes<br>rushed towards [Player]."
+    },
+    {
+      "type": "title",
+      "text": "Chapter 8 - Overlapping Bonds - Part 2"
+    },
+    {
+      "type": "narrator",
+      "text": "-[Player] calmly steadied their breathing."
+    },
+    {
+      "type": "narrator",
+      "text": "To not be disturbed by the presence of the monster before them,<br>they sensed the surrounding Ether."
+    },
+    {
+      "type": "narrator",
+      "text": "It was slowly, yet<br>powerfully, swirling in a massive vortex<br>that seemed to engulf its surroundings."
+    },
+    {
+      "type": "narrator",
+      "text": "Ether could be felt shimmering<br>and floating all around, sparkling."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "-Oh, it's here-!<br>It's my spaceship-!"
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter looked down to the<br>colony's ceiling and pointed."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "[Player], send me<br>ViewPower!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "I'll deploy a gravity field<br>so you can board!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Orbiter, please!"
+        },
+        {
+          "text": "I'm ready!"
+        }
+      ],
+      "dialogue_after_selection": []
+    },
+    {
+      "type": "narrator",
+      "text": "At [Player]'s signal,<br>Orbiter spread his arms wide."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "Let's fly endlessly<br>through this cosmos together!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "-\"Adventure\"!<br>Gravity Well!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter's spaceship moved towards them,<br>akin to being sucked into the generated gravity field."
+    },
+    {
+      "type": "narrator",
+      "text": "And the moment it touched the field,<br>it rapidly decelerated and stopped moving."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "-Now, [Player]!<br>Board with Orbiter!"
+    },
+    {
+      "type": "narrator",
+      "text": "At Pubraseer's words,<br>the two nodded and leaped<br>into the spaceship, embracing it."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "-I shall guide you<br>all the way!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "It's my job to support my dear friends!<br>-\"Polaris\"! Pénte Anamniseis!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer's Parallel Weapon<br>was filled with light, enveloping Orbiter and [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "[Player], grab on to my body!<br>-Here we go, \"Orbiter\", launch!"
+    },
+    {
+      "type": "narrator",
+      "text": "Immediately regaining his posture,<br>Orbiter gripped the control stick."
+    },
+    {
+      "type": "narrator",
+      "text": "And, receiving Pubraseer's power,<br>the spaceship gently lifted off<br>from the elevator."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "S-So cool, Orbiter!"
+        },
+        {
+          "text": "The spaceship is actually flying!"
+        }
+      ],
+      "dialogue_after_selection": []
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter and [Player]<br>began to move rapidly through space."
+    },
+    {
+      "type": "narrator",
+      "text": "-Just then, the gravity field<br>enveloping the monsters reached its limit."
+    },
+    {
+      "type": "narrator",
+      "text": "Like shattering glass,<br>the field broke into pieces<br>and vanished into specks of light."
+    },
+    {
+      "type": "character",
+      "name": "Giant Engine-type Monster",
+      "avatar": "./char/placeholder.png",
+      "text": "-Vooooohhhhhh!!"
+    },
+    {
+      "type": "narrator",
+      "text": "And, as if it was finally freed,<br>the colossal monster let out<br>a roaring cry."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "-Ah-!<br>My field...!"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "...Finally, it's moving.<br>There's no time left."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "We have to suppress the monster<br>until [Player] creates a fluctuation in the Ether!"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "./char/Gaisei.png",
+      "text": "Finally, it's this unworthy one's turn.<br>Ah... I've been longing for this."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "./char/Gaisei.png",
+      "text": "Overwhelming physique, an intimidating presence that pierces the skin.<br>I am most pleased that I can enjoy myself to the fullest.<br>Come, show this unworthy one your power...!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "[Player], Orbiter!<br>Both of you, I'm counting on you!<br>Leave this side to me."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "Come, you monster!<br>I won't let you lay a hand on my friends!<br>...We are your opponents!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "Captain, everyone...!<br>...Let's go, [Player]!"
+    },
+    {
+      "type": "narrator",
+      "text": "At Orbiter's words,<br>[Player] nodded."
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter gripped the control stick tightly<br>and maximized the spaceship's engine output."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So fast!"
+        },
+        {
+          "text": "With this...!"
+        },
+        {
+          "text": "Let's circle around the monster!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The \"Orbiter\" accelerated further.<br>It circled around the colossal monster,<br>swirling like a vortex."
+    },
+    {
+      "type": "narrator",
+      "text": "Due to Orbiter's gravity manipulation,<br>there was almost no strain on their bodies.<br>They sped through cosmos sea<br>like fish swimming freely."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "..............."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] closed their eyes,<br>leaning their body against Orbiter,<br>and focused their consciousness even further."
+    },
+    {
+      "type": "narrator",
+      "text": "The Ether was moving.<br>The surrounding sensations were different from usual."
+    },
+    {
+      "type": "narrator",
+      "text": "The sensation of massive amounts of Ether flowing from the reactor<br>rushing through their surroundings.<br>It was like a meteor shower-"
+    },
+    {
+      "type": "narrator",
+      "text": "\"The flow of Ether changes\"."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "-It's fluctuating!"
+        },
+        {
+          "text": "We can do it, Orbiter!"
+        }
+      ],
+      "dialogue_after_selection": []
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] opened their eyes and<br>glared at the monster.<br>Its appearance was-"
+    },
+    {
+      "type": "narrator",
+      "text": "A fluctuation occurred, as if a \"discrepancy\" had arisen<br>between the reactor's energy body and the monster's core."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "[Player]!<br>Soon, the spaceship...!"
+    },
+    {
+      "type": "narrator",
+      "text": "The rapidly moving \"Orbiter\",<br>perhaps unable to withstand the strain,<br>emitted small blue sparks."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm sure we'll be fine...!"
+        },
+        {
+          "text": "Let's get back to everyone!"
+        }
+      ],
+      "dialogue_after_selection": []
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter nodded and turned the rudder.<br>Then, he rapidly approached Pubraseer and the others."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "-Gh!<br>The hope entrusted by my friends<br>will not break so easily!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "We are the ones who will<br>pioneer everyone's future...!"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "A-As expected, the attack is powerful...!<br>At this rate, we can't<br>hold out much longer...!"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "./char/Gaisei.png",
+      "text": "...Strength is for achieving one's purpose.<br>That is the same for humans<br>as it is for monsters."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "./char/Gaisei.png",
+      "text": "If that thing tries to devour this unworthy one with force,<br>this unworthy one will simply become a demon with full power.<br>I will simply demonstrate my reason for existence with force and skill...!"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "-Both of you, behind you.<br>[Player] and the others are back!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "-Captain, everyone, are you alright!?<br>I'll lend a hand in the battle too!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "Ah, thank you, Orbiter!<br>...How is it, [Player]?<br>Were you able to manipulate the Ether...?"
+    },
+    {
+      "type": "narrator",
+      "text": "At Pubraseer's words, [Player] nodded.<br>There was no cloudiness in their eyes."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "Indeed, the flow of Ether has changed, but<br>has a fluctuation occurred in the enemy?<br>I can't tell, but..."
+    },
+    {
+      "type": "narrator",
+      "text": "Yotaro turned his gaze to the monster, but<br>it didn't seem to have changed from before."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It only fluctuated slightly, but..."
+        },
+        {
+          "text": "...I can see it."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] placed their hand on<br>their chest and closed their eyes."
+    },
+    {
+      "type": "narrator",
+      "text": "The days of fighting monsters and villains,<br>the sensation of connecting paths,<br>the memory of observing someone's parallel universe—"
+    },
+    {
+      "type": "narrator",
+      "text": "As an \"Observer\" and operator, the memories of<br>experiences cultivated alongside heroes surfaced."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player], who had overcome countless crises,<br>had indeed been growing step by step."
+    },
+    {
+      "type": "narrator",
+      "text": "-When they opened their eyes,<br>they could even see the slightest fluctuation<br>that had occurred in the monster."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "-Leave the timing to me!"
+        },
+        {
+          "text": "Operation, start."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "At [Player]'s words,<br>the four quietly nodded to each other."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "-Ah, of course.<br>[Player], let's fight together,<br>bearing the hope entrusted to us."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "...However, the enemy is formidable.<br>There will likely only be one chance<br>to attack at the moment it fluctuates."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer (Rising Moon)",
+      "avatar": "./char/event_pubraseer.png",
+      "text": "I will absolutely respond to my friends who have supported me...<br>And to my new friends. That is my-<br>the way I shall use this life!"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "./char/Gaisei.png",
+      "text": "[Player]-dono,<br>it is an honor to share a supreme feast<br> with you under your command."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "./char/Gaisei.png",
+      "text": "Come, make full use of this unworthy one!<br>With all my power and skill, I shall show you<br>a moment of bliss to enjoy...!"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "After a brief skirmish, you said attacking would cause an explosion,<br>but we might not even be able to scratch them in the first place."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "Until a good opportunity comes, we should<br>maneuver skillfully while feinting.<br>...I'll help too."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "./char/Yotaro.png",
+      "text": "Either way, there's no turning back.<br>It's like <a href=https://www.youtube.com/watch?v=wcX6D-lAr_k>\"the die has been cast\"</a>.<br>...Let's go all out!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "I'm sure we'll be fine.<br>No matter how difficult...<br>we can overcome it!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "[Player], I'll fight too!<br>Together, we can surely do it!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Nodding strongly, [Player]<br>began the battle operation."
+    },
+    {
+      "type": "narrator",
+      "text": "-Facing a formidable enemy, still.<br>They simply gazed straight ahead, at the hope connecting<br>them together, at the backs of their comrades."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "-I'll fight with you too."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Battle Start"
+    },
+      {
+        "type": "narrator",
+        "text": "[Trigger condition: End of Turn 1]"
+      },
+      {
+        "type": "character",
+        "name": "Orbiter",
+        "avatar": "./char/Orbiter.png",
+        "text": "--N-Not even a scratch, it seems!?<br>W-What should we do...!?"
+      },
+      {
+        "type": "character",
+        "name": "Gaisei",
+        "avatar": "./char/Gaisei.png",
+        "text": "...Oh, this hardness.<br>As expected of a matured form.<br>It's a world apart from before."
+      },
+      {
+        "type": "character",
+        "name": "Yotaro",
+        "avatar": "./char/Yotaro.png",
+        "text": "Just as we heard, huh...<br>[Player], please concentrate on observing the fluctuation!"
+      },
+      {
+        "type": "character",
+        "name": "Pubraseer (Rising Moon)",
+        "avatar": "./char/event_pubraseer.png",
+        "text": "We will protect you...!<br>To answer the hope entrusted to us,<br>we will not give up until the very last moment!"
+      },
+      {
+        "type": "narrator",
+        "text": "[Trigger condition: End of Turn 3]"
+      },
+      {
+        "type": "character",
+        "name": "Pubraseer (Rising Moon)",
+        "avatar": "./char/event_pubraseer.png",
+        "text": "Guh...!<br>The attack's power is too high!<Br>Are you alright, Orbiter?!"
+      },
+      {
+        "type": "character",
+        "name": "Orbiter",
+        "avatar": "./char/Orbiter.png",
+        "text": "...Ugh!<br>I-I'm fine... Captain!<br>I can still fight!"
+      },
+      {
+        "type": "character",
+        "name": "Gaisei",
+        "avatar": "./char/Gaisei.png",
+        "text": "...To this extent, huh?!<br>Ah... I want to defeat it!<br>This unworthy one is still... not satisfied...!"
+      },
+      {
+        "type": "character",
+        "name": "Yotaro",
+        "avatar": "./char/Yotaro.png",
+        "text": "Gaisei-kun, don't overdo it!<br>...But, this destructive power.<br>At this rate, it'll be-- "
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "--The fluctuation, I \"see\" it!"
+          },
+          {
+            "text": "I'll fight with everyone too!!"
+          }
+        ]
+      },
+      {
+        "type": "character",
+        "name": "Pubraseer (Rising Moon)",
+        "avatar": "./char/event_pubraseer.png",
+        "text": "W-What is this...?<br>Is [Player]'s sensation being shared!?"
+      },
+      {
+        "type": "character",
+        "name": "Orbiter",
+        "avatar": "./char/Orbiter.png",
+        "text": "I-I can see it too!!<br>You're amazing, [Player]!"
+      },
+      {
+        "type": "character",
+        "name": "Gaisei",
+        "avatar": "./char/Gaisei.png",
+        "text": "...This is [Player]-dono's power...!<br>It's magnificent...!!"
+      },
+      {
+        "type": "character",
+        "name": "Yotaro",
+        "avatar": "./char/Yotaro.png",
+        "text": "It's what you call \"amazement\"...!<br>That's the fluctuation...!<br>So, it's the enemy's weakness, right? "
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "Everyone, aim for the fluctuation!"
+          },
+          {
+            "text": "Everyone, attack at once!"
+          }
+        ]
+      },
+      {
+        "type": "character",
+        "name": "Pubraseer (Rising Moon)",
+        "avatar": "./char/event_pubraseer.png",
+        "text": "--Alright! We managed to separate<br>the monster and the reactor!<br>Everyone, you did well!"
+      },
+      {
+        "type": "character",
+        "name": "Orbiter",
+        "avatar": "./char/Orbiter.png",
+        "text": "Gravity field deployed!<br>With this, the monster shouldn't be able<br>to get close to the reactor anymore!"
+      },
+      {
+        "type": "character",
+        "name": "Yotaro",
+        "avatar": "./char/Yotaro.png",
+        "text": "It's what you call \"perfect\"!"
+      },
+      {
+        "type": "character",
+        "name": "Yotaro",
+        "avatar": "./char/Yotaro.png",
+        "text": "Now we can attack to our heart's content!<br>We no longer need to hold back!"
+      },
+      {
+        "type": "character",
+        "name": "Gaisei",
+        "avatar": "./char/Gaisei.png",
+        "text": "Ah, my body is seething and aching...!<br>Now, let's continue the dance...!"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "Now all that's left is to defeat the monster!"
+          },
+          {
+            "text": "Everyone, let's finish this in one go!"
+          }
+        ]
+      },
+      {
+        "type": "narrator",
+        "text": "[Trigger condition: Enemy HP falls below 25%?]"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "Just... a little more...!"
+          },
+          {
+            "text": "I c-can still... fight with you!"
+          }
+        ]
+      },
+      {
+        "type": "character",
+        "name": "Orbiter",
+        "avatar": "./char/Orbiter.png",
+        "text": "A-Are you alright, [Player]!?<br>You seem really tired...!"
+      },
+      {
+        "type": "character",
+        "name": "Pubraseer (Rising Moon)",
+        "avatar": "./char/event_pubraseer.png",
+        "text": "You've done so much observation.<br>...For [Player]'s sake too, let's quickly end this, everyone! "
+      },
+      {
+        "type": "character",
+        "name": "Yotaro",
+        "avatar": "./char/Yotaro.png",
+        "text": "Last push, huh.<br>Gaisei-kun, let's end this!"
+      },
+      {
+        "type": "character",
+        "name": "Gaisei",
+        "avatar": "./char/Gaisei.png",
+        "text": "It's regrettable,<br>but the climax of a feast is always at its end."
+      },
+      {
+        "type": "character",
+        "name": "Gaisei",
+        "avatar": "./char/Gaisei.png",
+        "text": "With all my might,<br>let us proceed to the grand finale...!"
+      },
+    {
+      "type": "narrator",
+      "text": "-A white light enveloped everything."
+    },
+    {
+      "type": "narrator",
+      "text": "The sparkling light overflowed<br>from the fading monster."
+    },
+    {
+      "type": "narrator",
+      "text": "The elevator platform,<br>unable to withstand the recoil of the attack,<br>was blown to smithereens into the beyond of light."
+    },
+    {
+      "type": "narrator",
+      "text": "Heroes, villains,<br>-and the operator, who fought to the death<br>until the very last moment."
+    },
+    {
+      "type": "narrator",
+      "text": "Everyone was enveloped in the Ether's light,<br>and could see nothing."
+    },
+    {
+      "type": "narrator",
+      "text": "The defeated monsters transformed into specks of light.<br>Losing their form, they vanished while sparkling.<br>When the light subsided-"
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter's fingertip,<br>drifting in space,<br>twitched."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "...U-Uhm...<br>I-I...<br>I can still move... right."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "-Th-The monster, we defeated it.<br>We did it... We did it-!<br>Hey, [Player], Captain-"
+    },
+    {
+      "type": "narrator",
+      "text": "Even after quickly looking around,<br>no other people could be seen."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "...Captain, [Player]...?<br>W-Where...?<br>Gaisei and Yotaro too...!"
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter frantically regained his balance<br>in the zero-gravity space."
+    },
+    {
+      "type": "narrator",
+      "text": "Then, while straining his eyes at his surroundings,<br>he swam through the sea of stars,<br>searching for Pubraseer and the others."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "-Oh, is that<br>perhaps, [Player]...?"
+    },
+    {
+      "type": "narrator",
+      "text": "He found a familiar human shape<br>in the shadow drifting in space,<br>and quickly headed towards it."
+    },
+    {
+      "type": "narrator",
+      "text": "-It was an operator,<br>who had used up all their strength,<br>and lay unconscious in a tattered state."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "...[Player]!<br>A-Are you alright...!?<br>I'll treat you right away-"
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter called out.<br>...But there was no response."
+    },
+    {
+      "type": "narrator",
+      "text": "When he released [Player]'s hand,<br>which he had been unconsciously gripping tightly,<br>it floated away gently."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "[Player]-"
+    },
+    {
+      "type": "narrator",
+      "text": "The moment he saw that figure,<br>fragmented memories flowed<br>into Orbiter's mind."
+    },
+    {
+      "type": "narrator",
+      "text": "-He heard someone's voice.<br>A familiar voice that he should know.<br>But it was also an unfamiliar voice."
+    },
+    {
+      "type": "character",
+      "name": "?????",
+      "avatar": "./char/orbiter_b.png",
+      "text": "『-In my place,<br>I want you to travel the vast cosmos.』"
+    },
+    {
+      "type": "narrator",
+      "text": "Another voice replied to that voice.<br>-He knew this voice.<br>It was the same voice as the 'person in his heart'."
+    },
+    {
+      "type": "character",
+      "name": "Person in My Heart",
+      "avatar": "./char/orbiter_b.png",
+      "text": "『I apologize.<br>I cannot travel.<br>Please, stay here.』"
+    },
+    {
+      "type": "character",
+      "name": "?????",
+      "avatar": "./char/orbiter_b.png",
+      "text": "『...I'm sorry, Orbiter.<br>I've already decided.』"
+    },
+    {
+      "type": "narrator",
+      "text": "Someone was quietly muttering.<br>He already knew this scene-"
+    },
+    {
+      "type": "character",
+      "name": "?????",
+      "avatar": "./char/orbiter_b.png",
+      "text": "『Yoo-hoo, Orbiter.』"
+    },
+    {
+      "type": "narrator",
+      "text": "It was a nostalgic voice,<br>that he called the \"person in his heart\"."
+    },
+    {
+      "type": "narrator",
+      "text": "-For some reason,<br>it made his chest felt very tight."
+    },
+    {
+      "type": "character",
+      "name": "?????",
+      "avatar": "./char/orbiter_b.png",
+      "text": "『Disconnect neuro-interface.<br>Power down the suit.』"
+    },
+    {
+      "type": "character",
+      "name": "Person in My Heart",
+      "avatar": "./char/orbiter_b.png",
+      "text": "『-Warning. Severe problems may occur as a risk.<br>Are you sure you want to proceed?』"
+    },
+    {
+      "type": "character",
+      "name": "?????",
+      "avatar": "./char/orbiter_b.png",
+      "text": "『...Proceed.<br>Thank you for everything so far.<br>-Orbiter.』"
+    },
+    {
+      "type": "narrator",
+      "text": "-And he remembered.<br>What came after these words."
+    },
+    {
+      "type": "narrator",
+      "text": "Someone was in front of him.<br>...He couldn't remember their face or form.<br>Yet, he remembered them as a person precious to him."
+    },
+    {
+      "type": "narrator",
+      "text": "And that person,<br>smiled quietly and let go of their hand.<br>Then, they gently floated away-"
+    },
+    {
+      "type": "narrator",
+      "text": "That someone's voice, the \"person in his heart\",<br>that he never understood... <br>But he does know one thing."
+    },
+    {
+      "type": "narrator",
+      "text": "He couldn't save that person-"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "..............."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "...I have to protect them.<br>This time, I have to protect them...!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Amidst his jumbled memories,<br>Orbiter looked up."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "./char/Orbiter.png",
+      "text": "...[Player]."
+    },
+    {
+      "type": "narrator",
+      "text": "This time, before losing them.<br>-He knew.<br>They have already been too far gone."
+    },
+    {
+      "type": "narrator",
+      "text": "...But, he doesn't want to lose anyone else.<br>He don't want anyone to disappear,<br>or to be unable to protect them-"
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter quietly embraced [Player]."
+    }
+  ]
