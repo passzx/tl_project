@@ -1487,6 +1487,11 @@
       "type": "title",
       "text": "Battle Start"
     },
+    {
+      "type": "choice",
+      "note": "The following text is displayed right inside the battle,<br>so for the best experience, I'd recommend opening the game right beside it!",
+      "options": []
+    },
       {
         "type": "narrator",
         "text": "[Trigger condition: End of Turn 1]"
