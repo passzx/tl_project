@@ -3,11 +3,20 @@
 - better chapter navigation
 - character expressions (I don't think I can do this one but I'll just put it here)
 - better website deployment
+- considering changing all instances of "monster" to "Kaibutsu"?<br>(I know Kaibutsu's the official term, but...)
 
-- considering changing all instances of "monster" to "Kaibutsu"?
-(I know Kaibutsu's the official term, but...)
+note to self:
+- PROOFREAD WORLD END TRAVELERS
+- check again if Gaisei's pronouns to himself is used consistently
+- remove Alea jacta est! reference a week later
 
 -------------------------------------------
+
+05/06/2025
+- edited we_traveler epilogues
+- rising_moon complete
+- fixed some small inconsistencies
+- all [Trigger condition] are now under "narrator" instead of "title"
 
 29/05/2025
 - choco_volcano complete
