@@ -17,6 +17,7 @@ note to self:
 - rising_moon complete
 - fixed some small inconsistencies
 - all [Trigger condition] are now under "narrator" instead of "title"
+- added favicon
 
 29/05/2025
 - choco_volcano complete
