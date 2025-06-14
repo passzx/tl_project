@@ -586,7 +586,7 @@
     },
     {
         "type": "narrator",
-        "text": "As if making a decision, <br>Alex smiled and gazed at his comrades."
+        "text": "As if making a decision, <br>Alex smiled and gazed at his companions."
     },
     {
         "type": "narrator",
@@ -748,7 +748,7 @@
         "type": "character",
         "name": "Ganran",
         "avatar": "./char/ganran.png",
-        "text": "Iron Rule, number one! <br>'Trust your comrades and look forward'! <br>...You did well, take a break."
+        "text": "Iron Rule, number one! <br>'Trust your companions and look forward'! <br>...You did well, take a break."
     },
     {
         "type": "character",
@@ -1965,6 +1965,6 @@
     },
     {
         "type": "title",
-        "text": "Live a Hero! Special Edition<br>\"From Choco Volcano, With Love\"<br>— END"
+        "text": "Live a Hero! Special Edition<br>\"From Choco Volcano, With Love\"<br>—END"
     }
 ]

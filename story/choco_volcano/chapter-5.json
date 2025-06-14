@@ -102,7 +102,7 @@
         "type": "character",
         "name": "Ganran",
         "avatar": "./char/ganran.png",
-        "text": "Gahahaha! Iron Rule, number one! <br>'Trust your comrades and look forward'!"
+        "text": "Gahahaha! Iron Rule, number one! <br>'Trust your companions and look forward'!"
     },
     {
         "type": "character",
@@ -1001,7 +1001,7 @@
         "type": "character",
         "name": "Ganran",
         "avatar": "./char/ganran.png",
-        "text": "...Iron Rule, number one! <br>'Trust your comrades and look forward'! <br>I believe in you, [Player]!"
+        "text": "...Iron Rule, number one! <br>'Trust your companions and look forward'! <br>I believe in you, [Player]!"
     },
     {
         "type": "character",
