@@ -463,7 +463,7 @@
       "type": "character",
       "name": "???",
       "avatar": "./char/barte.png",
-      "text": "Because I enjoy life here, <br>I not only sell what I make myself, <br>but I also take on selling my comrades' stuff. "
+      "text": "Because I enjoy life here, <br>I not only sell what I make myself, <br>but I also take on selling my companions' stuff. "
     },
     {
       "type": "character",
@@ -1978,7 +1978,7 @@
           "type": "character",
           "name": "Port People",
           "avatar": "./char/placeholder.png",
-          "text": "My comrades, my comrades were eaten!<br>Where are the heroes?!"
+          "text": "My companions, my companions were eaten!<br>Where are the heroes?!"
         },
         {
           "type": "choice",

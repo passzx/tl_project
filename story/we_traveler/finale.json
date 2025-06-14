@@ -19,7 +19,7 @@
           "dialogue_after_selection": []
         },
         {
-          "text": "It's pitch black... but",
+          "text": "It's pitch black... but...",
           "dialogue_after_selection": []
         },
         {
@@ -34,17 +34,17 @@
     },
     {
       "type": "narrator",
-      "text": "With no reference point, it was difficult to tell how far away it was, or how large it was."
+      "text": "With no reference point,<br>it was difficult to tell how far away it was,<br>or how large it was."
     },
     {
       "type": "narrator",
-      "text": "—What was certain was that they could somehow take in its entirety within their sight."
+      "text": "—What was certain was that they could somehow<br>take in its entirety within their sight."
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
       "avatar": "./char/event_hydoor.png",
-      "text": "...It's incredible...<br>I can't see anything more than the bottom of the ocean.<br>This is a terrifying place..."
+      "text": "...It's incredible...<br>I can't see anything, it's like the bottom of the ocean.<br>This is a terrifying place..."
     },
     {
       "type": "character",
@@ -68,7 +68,7 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "./char/gnomon.png",
-      "text": "Because my \"magic\" is forcibly securing a living space.<br>Outside this space is \"nothingness\" where even the concept of time does not exist..."
+      "text": "Because my \"magic\" is forcibly securing a living space.<br>Outside this space is \"nothingness\", where even<br>the concept of time does not exist..."
     },
     {
       "type": "character",
@@ -86,7 +86,7 @@
       "type": "character",
       "name": "Barte",
       "avatar": "./char/barte.png",
-      "text": "B-But...!<br>Didn't we say [Player] had to find their original universe first?"
+      "text": "B-But...!<br>Didn't we say [Player] had to<br>find their original universe first?"
     },
     {
       "type": "character",
@@ -113,7 +113,7 @@
     },
     {
       "type": "narrator",
-      "text": "Something like a \"chain\" could be seen,<br>extending from [Player]'s body, in ID Replica's trajectory, stretching endlessly into the distance."
+      "text": "Something like a \"chain\" could be seen,<br>extending from [Player]'s body, in ID Replica's trajectory,<br>stretching endlessly into the distance."
     },
     {
       "type": "narrator",
@@ -174,7 +174,7 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "./char/gnomon.png",
-      "text": "As long as [Player]-sama can grab onto that individual..."
+      "text": "As long as [Player]-sama<br>can grab onto that individual..."
     },
     {
       "type": "character",
@@ -205,7 +205,7 @@
     },
     {
       "type": "narrator",
-      "text": "Hydoor's hand took [Player]'s hand, Barte's hand took Hydoor's hand—"
+      "text": "Hydoor's hand took [Player]'s hand,<br>Barte's hand took Hydoor's hand—"
     },
     {
       "type": "narrator",
@@ -260,11 +260,11 @@
     },
     {
       "type": "narrator",
-      "text": "The Ether pumps, released simultaneously with the monster's disintegration and scattered outside the path—"
+      "text": "The Ether pumps,<br>released simultaneously with the monster's disintegration<br>and scattered outside the path—"
     },
     {
       "type": "narrator",
-      "text": "Even as they broke down,<br>they seemed to be generating gravity towards the \"Endangered World\" in an attempt to fulfill their function."
+      "text": "Even as they broke down,<br>they seemed to be generating gravity towards the \"Endangered World\"<br>in an attempt to fulfill their function."
     },
     {
       "type": "narrator",
@@ -293,7 +293,7 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "./char/gnomon.png",
-      "text": "—This is bad.<be>The cease command to the Ether pump...!<br>Connection timed out!"
+      "text": "—This is bad.<br>The cease command to the Ether pump...!<br>Connection timed out!"
     },
     {
       "type": "character",
@@ -417,25 +417,25 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "./char/gnomon.png",
-      "text": "...Are the \"Observers\" of that world all observing the exposed \"rift\" together...!?"
+      "text": "...Are the \"Observers\" of that world<br>all observing the exposed \"rift\" together...!?"
     },
     {
       "type": "character",
       "name": "Gnomon",
       "avatar": "./char/gnomon.png",
-      "text": "But, the \"Observers\" of the \"Endangered World\" all had weakened power...<br>So why...?"
+      "text": "But, the \"Observers\" of the<br>\"Endangered World\" all had weakened power...<br>So why...?"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
       "avatar": "./char/event_danzo.png",
-      "text": "—It might be like the \"three arrows\" story.<br>Even if each one is weak alone, if they're bundled together, they become strong enough."
+      "text": "—It might be like the \"three arrows\" story.<br>Even if each one is weak alone, if they're bundled together,<br>they become strong enough."
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
       "avatar": "./char/event_danzo.png",
-      "text": "Over a trillion people watched that battle.<br>If all the \"Observers\" among them are watching the current sky and observing—"
+      "text": "Over a trillion people watched that battle.<br>If all the \"Observers\" among them are<br>watching the current sky and observing—"
     },
     {
       "type": "character",
@@ -687,7 +687,7 @@
       "type": "character",
       "name": "Rutilix",
       "avatar": "./char/rutilix.png",
-      "text": "—Your Majesty!<br>Due to the emergency, I apologize for transmitting the report from the Cavalry Captain via communication!"
+      "text": "—Your Majesty!<br>Due to the emergency, I apologize for having to transmit<br>the report from the Cavalry Captain via communication!"
     },
     {
       "type": "character",
@@ -733,7 +733,7 @@
       "type": "character",
       "name": "Alphecca",
       "avatar": "./char/alphecca.png",
-      "text": "In the end... the only casualties were [Player] and two heroes who went missing, huh."
+      "text": "In the end...<br>The only casualties were [Player]<br>and two heroes who went missing, huh."
     },
     {
       "type": "character",
@@ -745,7 +745,7 @@
       "type": "character",
       "name": "Huckle",
       "avatar": "./char/huckle.png",
-      "text": "...I am deeply sorry.<br>It was due to our company's operator<br>intervening in the observation at that location."
+      "text": "...I am deeply sorry.<br>It was due to our company's Operator<br>intervening in the observation at that location."
     },
     {
       "type": "character",
@@ -757,7 +757,7 @@
       "type": "character",
       "name": "Alphecca",
       "avatar": "./char/alphecca.png",
-      "text": "...Moreover.<br>The operators of each company and our country's wizard corps all agree."
+      "text": "...Moreover.<br>The Operators of each company<br>and our country's wizard corps all agree."
     },
     {
       "type": "character",
@@ -769,7 +769,7 @@
       "type": "character",
       "name": "Alphecca",
       "avatar": "./char/alphecca.png",
-      "text": "In other words...<br>[Player] acted correctly as an operator.<br>That should rather be praised."
+      "text": "In other words...<br>[Player] acted correctly as an Operator.<br>That should rather be praised."
     },
     {
       "type": "narrator",
@@ -1850,7 +1850,7 @@
               "type": "character",
               "name": "Hydoor",
               "avatar": "./char/hydoor.png",
-              "text": "My pirate comrades, that is!<br>...As for my clan, that's just<br>a side trip, a side trip."
+              "text": "My pirate companions, that is!<br>...As for my clan, that's just<br>a side trip, a side trip."
             }
           ]
         },
@@ -1974,13 +1974,13 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "./char/gnomon.png",
-      "text": "...I investigated thoroughly, and it's more accurate to say that I can \"mostly\" no longer use it.<br>Since I can no longer connect to the database..."
+      "text": "...I investigated thoroughly, and it's more accurate<br>to say that I can \"mostly\" no longer use it.<br>Since I can no longer connect to the database..."
     },
     {
       "type": "character",
       "name": "Gnomon",
       "avatar": "./char/gnomon.png",
-      "text": "The small amount remaining in my memory.<br>Roughly 0.4% of the total. That is the \"magic\" I can currently use."
+      "text": "The small amount remaining in my memory.<br>Roughly 0.4% of the total.<br>That is the \"magic\" I can currently use."
     },
     {
       "type": "choice",
@@ -2017,7 +2017,7 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "./char/gnomon.png",
-      "text": "To find things that can be utilized as \"magic\" from developing science,<br>and to build the \"grimoire\" myself—"
+      "text": "To find things that can be utilized<br>as \"magic\" from developing science,<br>and to build the \"grimoire\" myself—"
     },
     {
       "type": "character",
@@ -2090,7 +2090,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "./char/hydoor.png",
-      "text": "Yeah...<br>To the place where the people waiting for us<br>are."
+      "text": "Yeah...<br>To the place where the<br>people waiting for us are."
     },
     {
       "type": "narrator",
@@ -2106,7 +2106,7 @@
     },
     {
       "type": "narrator",
-      "text": "The remnants of the Ether pump,<br>which had extensively collapsed and would never recombine, occasionally rained down on the planet as shooting stars."
+      "text": "The remnants of the Ether pump,<br>which had extensively collapsed and would never recombine,<br>occasionally rained down on the planet as shooting stars."
     },
     {
       "type": "character",

@@ -193,7 +193,7 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "./char/gnomon.png",
-      "text": "...You wished for it, didn't you?<br>During the journey to close the \"rift\"...<br>that you would meet good \"comrades\"."
+      "text": "...You wished for it, didn't you?<br>During the journey to close the \"rift\"...<br>that you would meet good \"companions\"."
     },
     {
       "type": "character",
@@ -245,7 +245,7 @@
       "type": "character",
       "name": "Gnomon's Master",
       "avatar": "./char/placeholder.png",
-      "text": "It seems you've made some very good \"comrades\"...<br>You too."
+      "text": "It seems you've made some very good \"companions\"...<br>You too."
     },
     {
       "type": "narrator",

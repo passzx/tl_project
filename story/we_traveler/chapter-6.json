@@ -137,7 +137,7 @@
     },
     {
       "type": "narrator",
-      "text": "Life surrounded by comrades with similar hobbies wasn't bad at all;<br>in fact, it was rather enjoyable."
+      "text": "Life surrounded by companions with similar hobbies wasn't bad at all;<br>in fact, it was rather enjoyable."
     },
     {
       "type": "narrator",
@@ -157,7 +157,7 @@
     },
     {
       "type": "narrator",
-      "text": "While adhering to what I was taught and incorporating what I heard from my comrades,<br>I've created various things in my own style."
+      "text": "While adhering to what I was taught and incorporating what I heard from my companions,<br>I've created various things in my own style."
     },
     {
       "type": "narrator",
@@ -1302,7 +1302,7 @@
       "type": "character",
       "name": "Barte",
       "avatar": "./char/barte.png",
-      "text": "Don't mention it!<br>We're comrades moving towards the same goal, right?<br>There's no need to hold back!"
+      "text": "Don't mention it!<br>We're companions moving towards the same goal, right?<br>There's no need to hold back!"
     },
     {
       "type": "character",
