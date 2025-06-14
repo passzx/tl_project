@@ -8,6 +8,7 @@
 note to self:
 - PROOFREAD WORLD END TRAVELERS
 - check again if Gaisei's pronouns to himself is used consistently
+- very glaring issue: the very inconsistent use of tenses in "narrator" text.
 
 -------------------------------------------
 
