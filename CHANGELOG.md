@@ -8,9 +8,14 @@
 note to self:
 - PROOFREAD WORLD END TRAVELERS
 - check again if Gaisei's pronouns to himself is used consistently
-- remove Alea jacta est! reference a week later
 
 -------------------------------------------
+
+14/06/2025
+- rookies complete
+- goodbye Alea jacta est!
+- slightly edited we_traveler wordings
+- removed the [LAH] suffix from titles because that's currently the only thing up there
 
 05/06/2025
 - edited we_traveler epilogues
