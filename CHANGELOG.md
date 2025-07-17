@@ -1,16 +1,13 @@
 (hopefully) upcoming features:
 - better mobile support
 - better chapter navigation
-- character expressions (I don't think I can do this one but I'll just put it here)
 - better website deployment
-- considering changing all instances of "monster" to "Kaibutsu"?<br>(I know Kaibutsu's the official term, but...)
-
-note to self:
-- PROOFREAD WORLD END TRAVELERS
-- check again if Gaisei's pronouns to himself is used consistently
-- very glaring issue: the very inconsistent use of tenses in "narrator" text.
 
 -------------------------------------------
+
+18/07/2025
+- lastresort complete
+- fixed one line in we_traveler's character tag
 
 14/06/2025
 - rookies complete
