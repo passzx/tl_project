@@ -191,8 +191,8 @@
     },
     {
       "type": "character",
-      "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "name": "Gnomon's Master",
+      "avatar": "./char/placeholder.png",
       "text": "...You wished for it, didn't you?<br>During the journey to close the \"rift\"...<br>that you would meet good \"companions\"."
     },
     {

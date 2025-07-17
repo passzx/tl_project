@@ -45,7 +45,7 @@
     },
     {
       "type": "narrator",
-      "text": "The largest island on Muilauka IV, where less than 10% of the land is dry. <br>The 'land' where the fleet nations have signed a non-aggression treaty. That's my hometown. "
+      "text": "The largest island on Muirauka IV, where less than 10% of the land is dry. <br>The 'land' where the fleet nations have signed a non-aggression treaty. That's my hometown. "
     },
     {
       "type": "narrator",
@@ -161,7 +161,7 @@
       "type": "character",
       "name": "Pirate Boss",
       "avatar": "./char/placeholder.png",
-      "text": "We're going to establish the legend of the Muilauka IV pirate world: <br>'Successfully ambushing Estevolta'!<br>Let's go!! "
+      "text": "We're going to establish the legend of the Muirauka IV pirate world: <br>'Successfully ambushing Estevolta'!<br>Let's go!! "
     },
     {
       "type": "character",
