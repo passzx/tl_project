@@ -995,7 +995,7 @@
       "type": "character",
       "name": "Kiloc",
       "avatar": "./char/kiloc.png",
-      "text": "Joezen-\"kun\" used to be like this<br>when he was little, too, so friendly.<br>\"Daddy~, daddy~\", he'd say."
+      "text": "Joezen-\"kun\" used to be like this<br>when he was little, too, so friendly.<br>\"Papa~ papa~\", he'd say."
     },
     {
       "type": "character",
@@ -1445,7 +1445,7 @@
       "type": "character",
       "name": "Yohack",
       "avatar": "./char/yohack.png",
-      "text": "Shiratori-san,<br>you have fought for us.<br>I understand that kindness perfectly."
+      "text": "Shiratori-san, you have also fought for us.<br>I understand that kindness perfectly."
     },
     {
       "type": "character",
@@ -1735,6 +1735,18 @@
       "text": "You can atone for your mistakes—<br>You and I, can't the both of<br>us start over in this village!?"
     },
     {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "./char/saotome_b.png",
+      "text": "Don't worry about me,<br>just live happily wherever you move!<br>And then—"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "./char/saotome_b.png",
+      "text": "—And then,<br>say hello to your wife and son for me!"
+    },
+    {
       "type": "narrator",
       "text": "The words he had swallowed countless times before,<br>the emotions he had endured not to express,<br>burst forth like a broken dam."
     },
@@ -1806,7 +1818,7 @@
           ]
         },
         {
-          "text": "I won't let you escape until you atone for your sins.",
+          "text": "I won't let you get away until you atone for your sins.",
           "dialogue_after_selection": [
             {
               "type": "character",

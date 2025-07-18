@@ -1781,7 +1781,7 @@
     {
       "type": "choice",
       "note": "The following text is displayed right inside the battle,<br>so for the best experience, I'd recommend opening the game right beside it!",
-      "options":[]
+      "options": []
     },
     {
       "type": "character",
@@ -1868,25 +1868,25 @@
               "type": "character",
               "name": "Yohack (Last Resort)",
               "avatar": "./char/event_yohack.png",
-              "text": "Shiratori-san...<br>You're still fighting<br>in a darkness without an exit, aren't you?"
+              "text": "Shiratori-san...<br>You're still fighting in a darkness without an exit, aren't you?"
             },
             {
               "type": "character",
               "name": "Yohack (Last Resort)",
               "avatar": "./char/event_yohack.png",
-              "text": "That's why I<br>will rescue you<br>from there."
+              "text": "That's why I will rescue you from there."
             },
             {
               "type": "character",
               "name": "Yohack (Last Resort)",
               "avatar": "./char/event_yohack.png",
-              "text": "Even if you<br>do not wish for it!"
+              "text": "Even if you do not wish for it!"
             },
             {
               "type": "character",
               "name": "Enoshiman?",
               "avatar": "./char/event_shiratori.png",
-              "text": "You're going out of your way to save me,<br>even though I hurt you...!?"
+              "text": "You're going out of your way to save me, even though I hurt you...!?"
             },
             {
               "type": "character",
@@ -1903,19 +1903,19 @@
               "type": "character",
               "name": "Saotome",
               "avatar": "./char/saotome.png",
-              "text": "You've always,<br>all by yourself,<br>protected Enoshima!"
+              "text": "You've always, all by yourself, protected Enoshima!"
             },
             {
               "type": "character",
               "name": "Saotome",
               "avatar": "./char/saotome.png",
-              "text": "Isn't it because you had<br>even a little bit of love<br>for Enoshima!?"
+              "text": "Isn't it because you had even the littlest bit of love for Enoshima!?"
             },
             {
               "type": "character",
               "name": "Enoshiman?",
               "avatar": "./char/event_shiratori.png",
-              "text": "Enoshiman,<br>the Enoshima he always protected..."
+              "text": "Enoshiman, the Enoshima he always protected..."
             },
             {
               "type": "character",
@@ -1932,31 +1932,31 @@
               "type": "character",
               "name": "Astar (Last Resort)",
               "avatar": "./char/event_astar.png",
-              "text": "...Shiratori.<br>I thought your acting policy (as Enoshiman)<br>wasn't bad."
+              "text": "...Shiratori.<br>I thought your acting policy (as Enoshiman) wasn't bad."
             },
             {
               "type": "character",
               "name": "Astar (Last Resort)",
               "avatar": "./char/event_astar.png",
-              "text": "Hiding your true face behind a mask,<br>as someone who brings smiles to children."
+              "text": "Hiding your true face behind a mask, as someone who brings smiles to children."
             },
             {
               "type": "character",
               "name": "Astar (Last Resort)",
               "avatar": "./char/event_astar.png",
-              "text": "That's precisely why<br>I will stop you,<br>and bring back the children's smiles."
+              "text": "That's precisely why I will stop you, and bring back the children's smiles."
             },
             {
               "type": "character",
               "name": "Enoshiman?",
               "avatar": "./char/event_shiratori.png",
-              "text": "For that,<br>you're willing to suffer, Astar-san?"
+              "text": "For that, you're willing to suffer, Astar-san?"
             },
             {
               "type": "character",
               "name": "Enoshiman?",
               "avatar": "./char/event_shiratori.png",
-              "text": "That can't be true.<br>There's no reason why only heroes<br>should have to bear suffering...!"
+              "text": "That can't be true.<br>There's no reason why only heroes should have to bear suffering...!"
             }
           ]
         }
@@ -1976,7 +1976,7 @@
       "type": "character",
       "name": "Enoshiman?",
       "avatar": "./char/event_shiratori.png",
-      "text": "Even so, I...<br>chose my own path...!"
+      "text": "Even so...<br>I have chosen my own path...!"
     },
     {
       "type": "character",
@@ -2006,7 +2006,7 @@
       "type": "character",
       "name": "Astar (Last Resort)",
       "avatar": "./char/event_astar.png",
-      "text": "Everyone<br>lives doing their best<br>with what they can."
+      "text": "Everyone, too, lives doing their best<br>with what they can."
     },
     {
       "type": "character",
@@ -2018,19 +2018,19 @@
       "type": "character",
       "name": "Saotome",
       "avatar": "./char/saotome.png",
-      "text": "I know.<br>Shiratori-kun's kindness."
+      "text": "I understand it too.<br>Shiratori-kun, your very own kindness."
     },
     {
       "type": "character",
       "name": "Saotome",
       "avatar": "./char/saotome.png",
-      "text": "To me, Shiratori-kun<br>still seems to be suffering."
+      "text": "But, Shiratori-kun, to me, you<br>still seem to be suffering."
     },
     {
       "type": "character",
       "name": "Saotome",
       "avatar": "./char/saotome.png",
-      "text": "That's why this time,<br>I will protect Shiratori-kun.<br>Just as you protected me until now...!"
+      "text": "That's why this time,<br>I will protect you, Shiratori-kun.<br>Just as you protected me until now...!"
     },
     {
         "type": "narrator",
