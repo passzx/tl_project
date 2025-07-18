@@ -57,18 +57,25 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // prototype line break remover
     window.addEventListener('resize', () => {
         if (window.innerWidth <= 768 && sidebar.classList.contains('open')) {
             eventPageContent.classList.remove('shifted');
         } else if (window.innerWidth > 768 && sidebar.classList.contains('open')) {
             eventPageContent.classList.add('shifted');
         }
+        const pathname = window.location.pathname;
+        const parts = pathname.split('/');
+        const htmlFileNameWithExtension = parts[parts.length - 1];
+        const fileNameWithoutExtension = htmlFileNameWithExtension.split('.')[0];
+        const jsonPath = `./${fileNameWithoutExtension}.json`;
+        loadStory(jsonPath);
     });
 
     // reduce the length of the stuff I have to copy
     function populateCharacterDialogueBoxes() {
         document.querySelectorAll('.character-dialogue-box').forEach(dialogueBox => {
-            if (dialogueBox.querySelector('.character-avatar') || !dialogueBox.dataset.characterName) {
+            if (dialogueBox.querySelector('.character-avatar')) {
                 return;
             }
 
@@ -134,11 +141,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
           function renderDialogueItem(item, parentElement, isNested = false) {
               let dialogueBox;
-              let displayText = item.text;
-
-              if (displayText && typeof displayText === 'string') {
-                  displayText = displayText.replace(/\[Player\]/g, playerName);
-              }
+              let displayText = processTextForDisplay(item.text, playerName);
 
               if (item.type === 'narrator') {
                   dialogueBox = document.createElement('div');
@@ -174,11 +177,11 @@ document.addEventListener('DOMContentLoaded', () => {
                   choiceBox.classList.add('dialogue-box', 'choice-display-box');
 
                   if (item.prompt) {
-                      let displayPrompt = item.prompt.replace(/\[Player\]/g, playerName);
+                      let displayPrompt = processTextForDisplay(item.prompt, playerName);
                       choiceBox.innerHTML += `<p class="choice-prompt">${displayPrompt}</p>`;
                   }
                   if (item.note) {
-                      let displayNote = item.note.replace(/\[Player\]/g, playerName);
+                      let displayNote = processTextForDisplay(item.note, playerName);
                       choiceBox.innerHTML += `<p style="font-size: 0.8em; opacity: 0.5; font-style: italic; text-align: center;">${displayNote}</p>`;
                   }
 
@@ -189,7 +192,7 @@ document.addEventListener('DOMContentLoaded', () => {
                       const choiceBranchDiv = document.createElement('div');
                       choiceBranchDiv.classList.add('choice-branch');
                       
-                      let displayOptionText = option.text.replace(/\[Player\]/g, playerName);
+                      let displayOptionText = processTextForDisplay(option.text, playerName);
                       choiceBranchDiv.innerHTML = `<div class="choice-option-display">${displayOptionText}</div>`;
 
                       if (option.dialogue_after_selection && option.dialogue_after_selection.length > 0) {
@@ -238,7 +241,7 @@ document.addEventListener('DOMContentLoaded', () => {
             localStorage.setItem('playerName', playerName);
             alert(`Name has been updated to "${playerName}"!`);
             
-            loadStory(jsonPath); 
+            loadStory(jsonPath);
           } else if (newName !== null) {
             alert('Nope. That cannot be empty.');
           }
