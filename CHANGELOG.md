@@ -5,6 +5,10 @@
 
 -------------------------------------------
 
+22/07/2025
+- fixed [rookies] because I forgot to include the new script for some reason
+- changed the character image file directory to be more efficient (god knows why I didn't do that sooner)
+
 19/07/2025
 - deleted [battleship] since that was not complete
 
