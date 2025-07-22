@@ -2,7 +2,7 @@
     {
         "type": "character",
         "name": "Monster",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "—Goooo, oooohh!!"
     },
     {
@@ -19,7 +19,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Ah, leave it to me! <br>Can you keep up with my speed!?"
     },
     {
@@ -29,13 +29,13 @@
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Gahahaha! Good, you're completely toying with it! <br>It's worth having shed that armor!"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "It's got incredible power, but if <br>it doesn't hit, it's all wasted shots! <br>This is my new fighting style!"
     },
     {
@@ -45,31 +45,31 @@
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "The monster is flinching! <br>It's working!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "But we can't defeat the monster <br>completely unless we destroy its core...!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Ah, as expected of a monster's heart, <br>it's protected by a rock-like outer shell."
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Breaking that giant core will be some big work. <br>It's going to be tough...!"
     },
     {
         "type": "character",
         "name": "Monster",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "—Goooo, oooohh!!"
     },
     {
@@ -90,25 +90,25 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Before it attacks, <br>we have to destroy the core...! <br>The power to break that size..."
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...This suit, the symbol that [Player] observed my own potential and me."
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "—Think. What only I can do in this form... <br>There must be a way to break through this situation!"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "......... <br>........."
     },
     {
@@ -118,19 +118,19 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "—[Player], everyone! <br>I'm going to \"load\" the surrounding <br>magma's heat into my Parallel Weapon!"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "In the meantime... <br>just for a little while, <br>buy me some time and expose its core!"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "—I will definitely shatter <br>that core with one shot!"
     },
     {
@@ -140,25 +140,25 @@
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Alright, leave it to us! <br>Since you've been keeping this guy in check for us until now!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Yeah, now it's our turn! <br>Hito-chan, Ganran-san! <br>Let's lure the monster's attack!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "Yes! That skin protecting the core... <br>It seems very hard, but leave it to me!"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Thank you, everyone! <br>[Player], I need operational support!"
     },
     {
@@ -178,7 +178,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...Can everyone watching hear me! <br>I need your support too! <br>—Reboot Charge, deploy!"
     },
     {
@@ -192,19 +192,19 @@
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "...Gahahaha! <br>It's finally the moment of truth! <br>I'm getting fired up!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Alright, we'll support <br>you with all our might!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Alright, first, I'll go provoke the monster! <br>We have to peel off its outer shell!"
     },
     {
@@ -225,13 +225,13 @@
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "Yes! Ryusei-san, <br>let's send power to Ganran-san together!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Understood, Hito-chan! <br>[Player]-san, please!"
     },
     {
@@ -245,25 +245,25 @@
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "We're not alone! <br>We're all in this together!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "Listen to this song...! <br>—\"Love Song\"! LOVE ME☆HITO-MI~!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "I can still do so much <br>to be my own greatest hero! <br>Ganran-san, take it!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Let's end this battle! <br>—\"Health and Beauty\"! Pose of Reverse!!"
     },
     {
@@ -273,7 +273,7 @@
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "—Gahahaha! Power is surging through me! <br>With this, I won't lose!"
     },
     {
@@ -298,7 +298,7 @@
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Ugh, oooh...! <br>Hot... isn't it...!? <br>But...!!"
     },
     {
@@ -308,13 +308,13 @@
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "—Gahahaha!! <br>That much heat won't satisfy me!!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "I'll engrave my technique onto your body! <br>—\"Forging\"! Schmieden Schatz-axt!!"
     },
     {
@@ -324,19 +324,19 @@
     {
         "type": "character",
         "name": "Monster",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "—Goooo, oooohh!!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "We did it, <br>the monster's defense has weakened!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Tch, not a single scratch on the core, but...! <br>Now I can reach its heart!!"
     },
     {
@@ -361,7 +361,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...Reboot, complete! <br>I will surpass my father—\"reXer\"!"
     },
     {
@@ -375,13 +375,13 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Here I go, limit release! <br>Molten Drive... activate! <br>I'll burn it down from the front!"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "This is my hunt! <br>—\"Pursuit\"! Overlimit Execution!"
     },
     {
@@ -391,7 +391,7 @@
     {
         "type": "character",
         "name": "Monster",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "—Gooooohh!!"
     },
     {
@@ -401,7 +401,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...Alright, hit! <br>It can't withstand this attack!! <br>—Whoa, whoa!?"
     },
     {
@@ -415,7 +415,7 @@
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Ugh, this lizard bastard...! <br>It won't give up...! <br>Whoa!?"
     },
     {
@@ -432,25 +432,25 @@
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "This is not good! <br>Any more of this, and we'll be swallowed by the magma!!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "It's dangerous here! <br>We defeated the monster, <br>so let's evacuate quickly!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Y-Yeah...! <br>But, at this rate, the magma will <br>flow into the village...!"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "......... <br>........."
     },
     {
@@ -464,7 +464,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...[Player]. <br>Do you still have ViewPower left?"
     },
     {
@@ -489,31 +489,31 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...[Player]. <br>Can you send all of that ViewPower to me?"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "With my Parallel Weapon, <br>I'll absorb the heat from the overflowing magma."
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "...Y-You. <br>You're not thinking of absorbing the eruption's energy alone, <br>even partially, are you!?"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "B-But, if you do that, <br>we don't know how much strain <br>it will put on you...!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "That's right! <br>It's too dangerous!"
     },
     {
@@ -523,25 +523,25 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "I know it's dangerous. <br>But... I want you to believe in me. <br>...Please."
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "With this weapon... <br>if it's this weapon that embodies the weapon I envisioned... <br>Surely, I can do it."
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "You all put yourselves on the line <br>so I could fight the monster, right? <br>So now... it's my turn."
     },
     {
         "type": "character",
         "name": "All Four",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "......... <br>........."
     },
     {
@@ -581,7 +581,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...Thank you. <br>[Player], everyone. <br>...Just step back a little."
     },
     {
@@ -595,7 +595,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...Here I go! <br>I'll suppress it with this left arm!"
     },
     {
@@ -613,13 +613,13 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...Ugh, whoa!! I will protect! <br>This village, and the volcano... everyone!!"
     },
     {
         "type": "character",
         "name": "Ganran, Ryusei, Hitomi",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "......... <br>........."
     },
     {
@@ -629,25 +629,25 @@
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "...At this moment, <br>we might not be able to do anything. <br>But...!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "We're with you too! <br>It's alright, it will definitely work out! <br>I... believe in you!!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Alright! <br>You don't have to say anything, <br>just show them your guts!!"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Hitomi, Ryusei, Ganran...! Ah, leave it to me!!"
     },
     {
@@ -668,13 +668,13 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...[Player]! <br>Thank you, here I go!!"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Hold on... <br>my... Parallel Weapon!! <br>—Haaahhh!!"
     },
     {
@@ -703,7 +703,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...I'm alive. The eruption—! <br>...Has it subsided!?"
     },
     {
@@ -721,7 +721,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...We did it! <br>We did it, everyone...!!"
     },
     {
@@ -735,25 +735,25 @@
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "—Good work, reXer-kun. <br>You truly... did your best!!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Gahahaha!! <br>I knew you could do it!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Iron Rule, number one! <br>'Trust your companions and look forward'! <br>...You did well, take a break."
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "reXer-san, thank you very much! <br>I was scared, but... <br>I'm really glad I believed in reXer-san, in everyone!"
     },
     {
@@ -774,13 +774,13 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Ah, I'm fine. <br>I used a little too much power, <br>and I can't move right now, but—"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...I did it. <br>I protected them, the villagers."
     },
     {
@@ -790,7 +790,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...Hey, everyone. <br>I already told [Player], but—"
     },
     {
@@ -800,13 +800,13 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "My... this form of me, <br>can you call me by my real name— Alex?"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "I will become a hero who surpasses my father. <br>...To proceed on my own path, in my own way."
     },
     {
@@ -816,43 +816,43 @@
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "—Yes, of course! <br>Alex-san!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Alex-kun, huh! <br>Yeah, it's nice to meet you again!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Gahahaha! Alright, understood! <br>Alex, huh, that's a good name!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "So, is reXer <br>your father's name?"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Ah, to be precise, it's my father's <br>hero name from \"when he existed\"."
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "My father used to be active <br>under the name reXer as a <br>professional gamer and game developer."
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...After he was devoured by a monster <br>and everyone forgot him, I inherited \"reXer\"."
     },
     {
@@ -862,25 +862,25 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...I still can't proudly say that <br>I'm a respectable, full-fledged hero. So—"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...My goal, of course, <br>will continue to be the cool hero, reXer."
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "The hero who taught me my path. <br>...I intend to continue inheriting reXer."
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Being both Alex and reXer. <br>I want to continue fighting as such a hero... <br>...from now on."
     },
     {
@@ -890,7 +890,7 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...Hey, [Player]. <br>I wonder if I showed my father that <br>I'm doing my best in my own way."
     },
     {
@@ -911,31 +911,31 @@
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "That's a wonderful goal, Alex-kun! <br>I can't fall behind either—!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Ah, I also need to train a bit <br>with you for when Barte returns!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "Heheh, I'm sure Alex-san will be fine!<br>Let's do our best together!"
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Ah, thank you, everyone. <br>But, saying this when I'm so wobbly, <br>it's not very convincing, is it..."
     },
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "I'm alright now. <br>I can stand on my own feet and walk—"
     },
     {
@@ -945,7 +945,7 @@
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "...N-No way, is it <br>the monster's doing again!?"
     },
     {
@@ -972,19 +972,19 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "...It seems better to stay out of Choco Volcano <br>until safety can be confirmed."
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Ah, the rock wall nearby is starting to collapse too. <br>Ryusei, be careful."
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Yeah, I'm fine... <br>...Wait, everyone! <br>This light, could it be the rock cacao—"
     },
     {
@@ -994,19 +994,19 @@
     {
         "type": "character",
         "name": "reXer (Volcano)",
-        "avatar": "./char/event_reXer.png",
+        "avatar": "../char/event_reXer.png",
         "text": "Th-This is...!! <br>Could it be, all of it is rock cacao!?"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "This is...! <br>I've never seen this much before..."
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "It's so beautiful... <br>There's so much rock cacao, <br>this whole place is sparkling!"
     },
     {
@@ -1037,13 +1037,13 @@
     {
         "type": "character",
         "name": "Villagers",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "To the hunters who saved the village! <br>With gratitude and respect beyond words—"
     },
     {
         "type": "character",
         "name": "Villagers",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "Cheers!!"
     },
     {
@@ -1057,31 +1057,31 @@
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "...Somehow, I'm a little restless. <br>I can really feel that they're happy, <br>and I'm glad, but still."
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "I'm surprised to <br>receive such a feast...!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Y-Yeah. <br>Originally, we were planning to film the <br>village's meal scenery for ChocoFull..."
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Gahahaha! <br>It feels strange for me to be sitting here too, <br>but it's the will of all the villagers!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "They urgently requested to hold a banquet of gratitude! <br>Please relax and enjoy yourselves!"
     },
     {
@@ -1104,13 +1104,13 @@
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "—Gahahaha!! <br>You don't need to hold back, <br>it's a token of the villagers' gratitude."
     },
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "They're probably very excited about you saving the village. <br>In times like these, it's best to accept it honestly, right?"
     },
     {
@@ -1120,61 +1120,61 @@
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "Obsidius-san! <br>Thank you very much for coming to <br>help us at the volcano earlier!"
     },
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "I never thought the big guy would be <br>defeated by the time I arrived!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Teach, it was a great help that you came! <br>I don't know about geology or mountain conditions. <br>It would have been dangerous if we had moved carelessly."
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Yeah, the rock wall also collapsed. <br>When you arrived, I was so relieved—!"
     },
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "Well, I'm not really an expert, <br>I just happen to have some knowledge from rock excavation. <br>If I could be of help, that's for the better."
     },
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "Well, it's still an unpredictable situation, but... <br>In my estimation, it won't erupt immediately."
     },
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "I also contacted an acquaintance who is a volcanologist. <br>Now, let's leave the rest to the experts."
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "Besides, we were able to save this village because <br>Obsidius and the others carried out evacuation guidance <br>while we were in the volcano."
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Ah, that's right! <br>There was no damage to this village <br>at the foot of the mountain!"
     },
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "Gahahaha! <br>That's thanks to the NeoTalents staff running around! <br>Thanks to them, I'm getting to enjoy this delicious meal too!"
     },
     {
@@ -1184,31 +1184,31 @@
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "You are truly the heroes who saved the village! <br>[Player], reXer and the others, you all really did your best!"
     },
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "Oops... <br>Should I call you Alex now?"
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "Ah, thank you, Obsidius. <br>But either is fine. <br>Both are important names to \"me\"!"
     },
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "I see, Alex. <br>You... in this short time, you've started to <br>make quite a good face, haven't you!"
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "Hahah, thank you. <br>Maybe it's because I'm close to finding my own answer <br>to the things I was worried about!"
     },
     {
@@ -1235,19 +1235,19 @@
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "...It's like spring. <br>Since it was scorching hot just a moment ago, <br>the wind feels very pleasant."
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "It was cold when we were still on Earth, wasn't it? <br>I wonder if it'll be warm by the time we finish filming and go back?"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "Heheh, that's right! <br>It feels like we've gone through all <br>four seasons in just a few days."
     },
     {
@@ -1261,13 +1261,13 @@
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "—Hey, everyone! Fireworks are about to go off! <br>And they say they have something they want to give you too?"
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "Th-They'll do that much for us...!? <br>What they want to give us is—"
     },
     {
@@ -1281,37 +1281,37 @@
     {
         "type": "character",
         "name": "Obsidius",
-        "avatar": "./char/obsidius.png",
+        "avatar": "../char/obsidius.png",
         "text": "The staff and villagers prepared plenty of <br>both Earth-style and Garunderra-style!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "This... is amazing! <br>The cultural exchange of chocolate's charm...! <br>It's truly \"ChocoFull\"!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Hahaha! <br>They've given us an act <br>of returning love again!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Gahahaha! <br>The villagers also want to celebrate <br>for any reason they can find!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Alex and the others, <br>since you're already here, <br>please enjoy yourselves!"
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "Ah, [Player]! Let's start filming! <br>Let's enjoy it together!"
     },
     {
@@ -1330,19 +1330,19 @@
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "Eh...! S-Seriously!?<br>I messed up again, me...!"
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "Can someone cut this part out! <br>...Pfft... -Hahaha!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Ah, [Player]-san, Alex-kun! <br>Look, over there, they're going up!"
     },
     {
@@ -1352,43 +1352,43 @@
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "Now, we return <br>to the studio!"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "—Hey, hey, heeeey!! <br>You guys did some pretty Hot and Melt-y things, didn't you!?"
     },
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "Things you couldn't imagine were happening <br>during the Garunderra shoot...!"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "As expected of the elite Choco Hunters! <br>They handled major troubles perfectly, and successfully <br>returned triumphant with the best possible ending!"
     },
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "Of course, they've returned <br>to the studio too!"
     },
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "The three Choco Hunters, <br>and as a guest, Ganran-san, <br>who served as our guide!"
     },
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "And [Player]-san, who was in charge of the camera <br>and operations, please welcome them!"
     },
     {
@@ -1398,25 +1398,25 @@
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "...I'm back, everyone watching! <br>This is reXer, the Choco Hunter—<br>or rather, Alex!"
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "There's so much I want to report, <br>but since then, we successfully excavated <br>a large amount of newly discovered rock cacao!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "We processed the rock cacao with a special <br>method to make it edible, crushing it into powder! <br>We've also reported on that process!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "And this is the rock cacao powder! <br>It's so beautiful!"
     },
     {
@@ -1426,55 +1426,55 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "OKOK, you guys completely cleared the mission to <br>confirm the rumor of the phantom chocolate, didn't you!?"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "I want to hear all about the battle with the monster later, <br>but first, welcome back, everyone~!"
     },
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "Today's broadcast, at last! <br>You'll be making chocolate by hand <br>from the rock cacao you obtained!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "Ganran-san, [Player]-san! <br>If you have any advice on how to make it, please tell us!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Gahahaha! I'm not a food craftsman, <br>but I can tell you what I know!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Rock cacao is different from Earth cacao; <br>it hardens quickly when the temperature drops, so be careful!"
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "Ah, but if that's the case, it seems it'll be finished during the show. <br>We have a lot of rock cacao, so Ganran, you try making some too!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Alright, the phantom chocolate! <br>Let's make it by hand! <br>Everyone, let's do our best!"
     },
     {
         "type": "character",
         "name": "All Four",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "Oh—!!"
     },
     {
@@ -1501,37 +1501,37 @@
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "...Now, the Choco Hunters are making chocolate by hand, <br>but actually, we have a surprise here!"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "That's right! <br>Actually, we've received a video letter from \"a certain person\"! <br>Right, Kouki-ku~n?"
     },
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "Yes! While the Choco Hunters are making chocolate, <br>please watch this video."
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "A video letter? <br>...Huh, nobody told me about that."
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "Hmm, who is it that <br>might send us a message...?"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Booop, guessing time's up! <br>Well, surprise is all about the unexpected! <br>Anyway, let's watch, hit the button!"
     },
     {
@@ -1545,37 +1545,37 @@
     {
         "type": "character",
         "name": "Boy",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "—Um, this... <br>Is it already recording?"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "...Ah! It's the child who <br>told us about rock cacao!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "You're right! <br>I wonder if he was able to make chocolate <br>with the rock cacao we gave him?"
     },
     {
         "type": "character",
         "name": "Boy",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "...Alright. <br>Um, hello!"
     },
     {
         "type": "character",
         "name": "Boy",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "After you brothers left, I got a little lonely, <br>but many people started coming to visit the village."
     },
     {
         "type": "character",
         "name": "Boy",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "So, I... <br>about the rock cacao I <br>received from you brothers—"
     },
     {
@@ -1585,43 +1585,43 @@
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "...Huh? It's still rock cacao. <br>He hasn't made chocolate...?"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "C-Could it be... <br>he gave up...?"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "...No, let's watch <br>until the very end!"
     },
     {
         "type": "character",
         "name": "Boy",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "—I thought about it a lot. <br>Even though I received it, I decided to be brave <br>and convey my feelings with my own strength!"
     },
     {
         "type": "character",
         "name": "Boy",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "...So, I decided to make this rock cacao a precious treasure, <br>a memento of the courage I received from you brothers!"
     },
     {
         "type": "character",
         "name": "Boy",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "I'll try my best! <br>When I meet you again, <br>I'll be able to tell you that I have worked hard!"
     },
     {
         "type": "character",
         "name": "Boy",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "Thank you so much! <br>Choco Hunters!!"
     },
     {
@@ -1640,7 +1640,7 @@
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "...Yeah, yeah! <br>That's good...!"
     },
     {
@@ -1650,19 +1650,19 @@
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "...Heheh, how was it? <br>That was a surprise from the show—!"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "YoYoYo, this is what they call an \"ambassador of love,\" huh!? <br>You guys are really \"ChocoFull\"! <br>You can do it, can't you!? Right, right, right!?"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "...Alrighty! You've seen the video letter, <br>but how's the phantom chocolate cooking coming along?"
     },
     {
@@ -1676,19 +1676,19 @@
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "...Ah, I practiced chocolate making for this day! <br>I'll show off the results of my efforts!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "Yes, actually, I also researched various chocolates <br>and studied how to make them delicious!"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Whew, full of confidence! <br>This really sounds promising!"
     },
     {
@@ -1698,13 +1698,13 @@
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "...Now then! <br>The thing everyone is most curious about—"
     },
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "The Choco Hunters, <br>to whom will they give the phantom chocolate? <br>I'd like to ask!"
     },
     {
@@ -1727,13 +1727,13 @@
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "—Yes! I want to give it to <br>my father and mother... to my family!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "They always love me, support me, and worry about me... <br>I love those two very much!"
     },
     {
@@ -1743,13 +1743,13 @@
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "—I want to give it to myself. <br>To myself, with love!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "To my current self whom I love so much, <br>and to my past self who created this me.<br> I learned so many things on this journey!"
     },
     {
@@ -1759,13 +1759,13 @@
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "—I'll give it to my blade-obsessed idiot apprentice. <br>I still don't know when she'll return, but..."
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "As his master, to welcome her back, <br>I'll have to make it for her again then!"
     },
     {
@@ -1775,13 +1775,13 @@
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "—I want to give it to my precious person. <br>To my beloved reXer."
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "There are countless things I want to tell him, and things I want to ask him... <br>But I'll put all those feelings into this chocolate."
     },
     {
@@ -1791,19 +1791,19 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "...I see. <br>This is good, good, <br>nothing but passionate stories!"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "This calls for a separate segment, <br>where each person tells their episode! <br>Right, Director-chan!?"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "By the way, Hunters, <br>I'm sure you've already written \"that\" down, yeah?"
     },
     {
@@ -1826,61 +1826,61 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "...What? <br>Hold on, what's going on!? <br>If I'm not mistaken—"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Everyone wrote two letters!? <br>One was enough, the \"letter filled with feelings\"!"
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "...Ah, but one just <br>wasn't enough, you see."
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "I'm the same! <br>I have one more person I want to give it to, <br>so I prepared two letters!"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "Honestly, even two <br>isn't enough, but...!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "The final mission—<br>to send the \"phantom chocolate\" and \"letter filled with feelings\" <br>to the person you want to convey your love to, right!?"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "Since it was a mission that arrived after the shoot, <br>[Player]-san didn't know about it, right?"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Since it was a special occasion, <br>the staff even prepared an envelope for me! <br>It's been a long time since I wrote a letter!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "Gahahaha! <br>But I understand why everyone prepared two letters. <br>You were probably thinking the same thing, right?"
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "That's right! <br>One letter is for the person I want to give the phantom chocolate to—<br> and the other to the beloved person I just confessed to."
     },
     {
@@ -1890,31 +1890,31 @@
     {
         "type": "character",
         "name": "All Four",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "And the other letter is for—"
     },
     {
         "type": "character",
         "name": "Hitomi",
-        "avatar": "./char/hitomi.png",
+        "avatar": "../char/hitomi.png",
         "text": "—The person indispensable when talking about this journey! <br>I'm glad you were with us!"
     },
     {
         "type": "character",
         "name": "reXer",
-        "avatar": "./char/reXer.png",
+        "avatar": "../char/reXer.png",
         "text": "—It's proof that you faced the crisis with us! <br>Because you were here, I could fight!"
     },
     {
         "type": "character",
         "name": "Ryusei",
-        "avatar": "./char/ryusei.png",
+        "avatar": "../char/ryusei.png",
         "text": "—You supported us even when we were off-duty! <br>Your kindness made me happy!"
     },
     {
         "type": "character",
         "name": "Ganran",
-        "avatar": "./char/ganran.png",
+        "avatar": "../char/ganran.png",
         "text": "—Ah, I relied on you a lot! <br>I'm glad I met you!"
     },
     {
@@ -1937,7 +1937,7 @@
     {
         "type": "character",
         "name": "All Four",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "With gratitude and love—<br><span style=\"color:#0693e3;\">This is for you! <br><span style=\"color:#cf2e2e\">I'm giving this to you! <br><span style=\"color:#2f9f76;\">Allow me to present this to you! <br><span style=\"color:#fcb900;\">I'm giving it to ya!"
     },
     {
@@ -1948,19 +1948,19 @@
     {
         "type": "character",
         "name": "All Four",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "Receive this chocolate—<br><span style=\"color:#0693e3;\">Please take it! <br><span style=\"color:#cf2e2e\">Go on, accept it! <br><span style=\"color:#2f9f76;\">Please kindly accept it! <br><span style=\"color:#fcb900;\">Go on and take it!"
     },
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "...Whoa, this is a more unexpected development than expected.<br>This is interesting in its own way, isn't it!?"
     },
     {
         "type": "character",
         "name": "Kouki",
-        "avatar": "./char/kouki.png",
+        "avatar": "../char/kouki.png",
         "text": "—Now, [Player]-san! <br>Whose chocolate will you accept!?"
     },
     {
