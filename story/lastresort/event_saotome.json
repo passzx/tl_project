@@ -10,7 +10,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "[Player]-kun!<br>Sorry for making you wait!"
     },
     {
@@ -22,7 +22,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "That's good then!<br>I don't want you to think of me as \"the old man who's always late\"!"
             },
             {
@@ -37,19 +37,19 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Just now, I was cleaning the beach and preparing the fireworks, but..."
             },
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "While I was moving around, my body got warm, and I couldn't stop sweating!"
             },
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "...C-Could it be that this is too casual!?"
             },
             {
@@ -67,19 +67,19 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Even now, it feels unbelievable.<br>To think I, this old man, would become a local hero<br>and be active..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Yuto is happy that I became a hero,<br>but I also feel a little embarrassed."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "After all, I'm just an old man like this, right?<br>I thought my body was a bit too flabby<br>to call myself a cool local hero."
     },
     {
@@ -91,13 +91,13 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "I-Is that so...?<br>[Player]-kun, you have quite the unusual tastes, huh..."
             },
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "However, your praise is certainly welcome.<br>Thank you, [Player]-kun."
             }
           ]
@@ -108,7 +108,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Ah, thank you.<br>Since you praised me, I cannot afford to fight in an uncool way!"
             }
           ]
@@ -119,7 +119,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Th-That's right!<br>I'll have to ask Astar-kun how to get in shape...!"
             }
           ]
@@ -133,25 +133,25 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I've lived quite a long time, but<br>you never know what's going to happen in life."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I was worried about what would happen,<br>but now that tourists are visiting<br>Enoshima like this..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "[Player]-kun, it's all thanks<br>to you and the heroes<br>working hard for Enoshima."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "For everything,<br>thank you, truly."
     },
     {
@@ -169,7 +169,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Wahahaha!<br>Yuto's love for heroes is deeply ingrained in himself, you know."
             },
             {
@@ -183,25 +183,25 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "If you really meant it,<br>I'd feel like my efforts so far<br>were worth it."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "However, if I had tried to carry everything out by myself,<br>things probably wouldn't have gone well."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "It's precisely because you and<br>all the local heroes cooperated wholeheartedly<br>that we received such a response."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "That is...<br>What I believe to be true."
     },
     {
@@ -230,7 +230,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...It's almost time for the fireworks.<br>Let's sit over there<br>and watch them together."
     },
     {
@@ -246,7 +246,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Wahahaha!<br>I didn't do anything special, but I'll say \"You're welcome\" then."
             }
           ]
@@ -257,7 +257,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "No, no, don't worry about it.<br>That's just something I wanted to do."
             }
           ]
@@ -271,19 +271,19 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...On the final day of the event,<br>Shiratori-kun was the one who planned<br>to launch fireworks on the beach."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "We arranged the fireworks together,<br>calculated the safe distance from the flight distance,<br>and went through various application procedures, and then..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "If I could watch these beautiful fireworks<br>with [Player]-kun, Shiratori-kun, and everyone..."
     },
     {
@@ -293,7 +293,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "No, really~.<br>As you get older, your tear<br>ducts get loose, don't they?"
     },
     {
@@ -305,7 +305,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Thank you...<br>[Player]-kun, you're truly kind..."
             }
           ]
@@ -316,13 +316,13 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "...Sorry.<br>I ended up damping the mood."
             },
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "It's the final day of the event, and so, I can't be making a face like this.<br>After all, I'm a hero now."
             }
           ]
@@ -361,25 +361,25 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...That's right, [Player]-kun.<br>The fireworks rising over Enoshima<br>Beach are not the last ones."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I will protect Enoshima,<br>and gradually revitalize it,<br>and someday..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I want to see even bigger fireworks<br>with you, [Player]-kun, the heroes,<br>and Shiratori-kun."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I will believe that day will come,<br>and continue to protect Enoshima.<br>As \"Enoshiman No. 2\"."
     },
     {
@@ -399,25 +399,25 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Hah-hah-hah...<br>[Player]-kun, you always say<br>such reassuring things."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "To have you observe my dream,<br>and fight beside me...<br>It was truly reassuring."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I've completely<br>taken a liking to you."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "So [Player]-kun.<br>Please do come visit Enoshima again.<br>Next time, just as a guest!"
     },
     {
@@ -429,13 +429,13 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Ohh!<br>That's a welcoming offer!<br>Please do!"
             },
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "When you invite your friends, it would be helpful if you could spread the word about Shinyasu-kun and whitebait soft serve!"
             },
             {
@@ -450,13 +450,13 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "What...!?<br>[Player]-kun, you're coming to see me...?"
             },
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "You're going to come see me, this old man, again...?"
             }
           ]
@@ -473,7 +473,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "To think I'd be told such a thing by a youngster like you, [Player]-kun..."
             },
             {
@@ -492,7 +492,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "To think I'd be told such a thing by a youngster like you, [Player]-kun..."
             },
             {
@@ -510,19 +510,19 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Thank you, [Player]-kun.<br>I will never forget this day."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "With this warm memory,<br>I can stand up in any pinch.<br>...That's what I believe."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Just like the local heroes<br>who saved Enoshima, this old man<br>will also do his best as a rookie hero!"
     },
     {

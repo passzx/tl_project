@@ -10,7 +10,7 @@
     {
       "type": "character",
       "name": "???",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...........<br>........... "
     },
     {
@@ -24,19 +24,19 @@
     {
       "type": "character",
       "name": "???",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Finally swallowed. <br>It's this star's turn, at last. "
     },
     {
       "type": "character",
       "name": "???",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "But, this signal emitted from the sky—is it a 'rainbow'? <br>It'll probably be the last chance. "
     },
     {
       "type": "character",
       "name": "???",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...I need to inform the Royal Palace. <br>If the 'Hero' is coming, preparations to greet them are necessary. "
     },
     {
@@ -54,13 +54,13 @@
     {
       "type": "character",
       "name": "???",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Dear unseen 'Hero'. <br>Will you grace this world with your presence? <br>And... "
     },
     {
       "type": "character",
       "name": "???",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Will you save this world?"
     },
     {
@@ -90,13 +90,13 @@
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "Wahahahaha!! <br>This is fun, a truly enjoyable event, Hopper!!! "
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Yeah, I guess so... <br>It must be a very enjoyable event for you. "
     },
     {
@@ -116,7 +116,7 @@
             {
               "type": "character",
               "name": "Ryekie",
-              "avatar": "./char/ryekie.png",
+              "avatar": "../char/ryekie.png",
               "text": "Oh! [Player], thanks for the operation too!! <br>It was as easy to fight as ever!!! "
             }
           ]
@@ -127,7 +127,7 @@
             {
               "type": "character",
               "name": "Ryekie",
-              "avatar": "./char/ryekie.png",
+              "avatar": "../char/ryekie.png",
               "text": "Yes, I feel great! <br>It's been a while since I've been able to fight on such a bright and festive stage!! "
             }
           ]
@@ -138,7 +138,7 @@
             {
               "type": "character",
               "name": "Huckle",
-              "avatar": "./char/huckle.png",
+              "avatar": "../char/huckle.png",
               "text": "Eh? Oh, I'm fine. <br>Sorry to make you worry. <br>My body's good, but it's the mental fatigue... "
             }
           ]
@@ -148,13 +148,13 @@
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "What's wrong, Hopper! <br>It's the ultimate honor to fight at such a splendid festival!! <br>You should enjoy it too!!! "
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "It's precisely because it's a celebration that I'm being careful. <br>After all, opponents I absolutely can't afford to have anything happen to, <br>are participating as a matter of course... "
     },
     {
@@ -164,25 +164,25 @@
     {
       "type": "character",
       "name": "Announcer",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—To all our esteemed guests. <br>NeoTalents Production presents... "
     },
     {
       "type": "character",
       "name": "Announcer",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "The Aradisia Kingdom's 500th Anniversary Celebration <br>'Super International Knights Martial Arts Tournament'! <br>Are you enjoying it? "
     },
     {
       "type": "character",
       "name": "Announcer",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Now, from His Majesty, King Alphecca Gemma XXI, <br>the current King of the Aradisia Kingdom and host of this tournament— "
     },
     {
       "type": "character",
       "name": "Announcer",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "We would like to receive a renewed greeting. <br>All participating 'Knights' and audience members, <br>please rise. "
     },
     {
@@ -196,19 +196,19 @@
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "—To all the citizens who have gathered for this day. <br>To all at NeoTalents Production who offered to produce this tournament... "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "And to all the heroes—no, the 'Knights'— <br>who have assembled from afar to our home country. <br>Allow me to express my gratitude once again. "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "The reason our country has enjoyed such long-standing peace <br>is not only due to the abundance of resources, but also, I believe, \to the tireless efforts of all our citizens. "
     },
     {
@@ -220,7 +220,7 @@
             {
               "type": "character",
               "name": "Huckle",
-              "avatar": "./char/huckle.png",
+              "avatar": "../char/huckle.png",
               "text": "Shh... Listen quietly. <br>I know what you want to say, but you have to hold it in."
             }
           ]
@@ -233,49 +233,49 @@
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "—I have traveled to various countries and encountered many 'Knights'. <br>And then, I suddenly thought... "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "I want to create a place where our country's Cavalry, <br>the cornerstone of our defense, and heroes from other countries and planets <br>can compete and grow together! "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "Of course, this tournament is informal. <br>Do not hold back just because it is our country's festival; <br>I want you to fully showcase your abilities. "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "...I, too, will wield my sword to my heart's content <br>in the events that follow. <br>Now, please enjoy yourselves. "
     },
     {
       "type": "character",
       "name": "Minister",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Y-Your Majesty!? <br>Wasn't the agreement that you would only participate in the warm-up matches? <br>This is different from what we discussed! "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "Hehe. I've already stated it in a live broadcast across multiple planets, <br>so it's impossible to pretend it never happened now, isn't it? "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "Besides, I am also a member of the Cavalry. <br>Even you have acknowledged that. <br>There's no reason for me not to participate. "
     },
     {
       "type": "character",
       "name": "Minister",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Th-That's...! <br>Your Majesty! <br>Please be fully aware of your position— "
     },
     {
@@ -285,19 +285,19 @@
     {
       "type": "character",
       "name": "Announcer",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "A-Ahem... that concludes <br>the words from His Majesty the King. "
     },
     {
       "type": "character",
       "name": "Announcer",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Next up is one of today's most anticipated matches! <br>A fierce battle between the Earth Sphere Hero mixed team <br>and the Cavalry Royal Guard Elite team! "
     },
     {
       "type": "character",
       "name": "Announcer",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "The match will begin as soon as the field preparations are complete, <br>so please, audience members and live stream viewers, <br>please wait a little longer! "
     },
     {
@@ -319,7 +319,7 @@
             {
               "type": "character",
               "name": "Huckle",
-              "avatar": "./char/huckle.png",
+              "avatar": "../char/huckle.png",
               "text": "Your mentality, being able to brush that off as mischievous, <br>makes me quite worried about you... "
             }
           ]
@@ -329,49 +329,49 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "..."
     },
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "Isn't that something we shouldn't concern ourselves with? <br>Since the person himself has given permission, <br>it would be rude to be overly considerate! "
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "You can say that because the permission was made public 'now', can't you? <br>When he appeared on the field without prior notice, <br>I really broke out in a cold sweat... "
     },
     {
       "type": "character",
       "name": "reXer",
-      "avatar": "./char/reXer.png",
+      "avatar": "../char/reXer.png",
       "text": "—Yo, good work! <br>I never got to say hello properly, <br>looking forward to the next battle! "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Nonon, reXer-chan! <br>It's not good to always act like you're in an e-sports chat, you know? "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "When you're with your elders, <br>you have to make an effort to act like a working adult! "
     },
     {
       "type": "character",
       "name": "reXer",
-      "avatar": "./char/reXer.png",
+      "avatar": "../char/reXer.png",
       "text": "Ah, oh, that's right! <br>I got lax because I knew them, <br>I should act more maturely... um. <br>Thank you for fighting alongside us today. "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "OKOK, well, that's a passing grade, right! <br>So, I came to greet you! <br>Let's do our best together! <br>Something like that? "
     },
     {
@@ -386,19 +386,19 @@
             {
               "type": "character",
               "name": "Danzo",
-              "avatar": "./char/danzo.png",
+              "avatar": "../char/danzo.png",
               "text": "Whoa, [Player]-kuuun!? <br>Even though I came here to give a polite greeting! <br>Can you really function as a working adult like that!? "
             },
             {
               "type": "character",
               "name": "Danzo",
-              "avatar": "./char/danzo.png",
+              "avatar": "../char/danzo.png",
               "text": "Well, for me, that's the perfect response! <br>Let's have fun! <br>Hey, hey!! "
             },
             {
               "type": "character",
               "name": "reXer",
-              "avatar": "./char/reXer.png",
+              "avatar": "../char/reXer.png",
               "text": "W-What's with that arm-grabbing greeting!? <br>And you do that right after telling me to be proper! <br>Ugh! "
             }
           ]
@@ -409,19 +409,19 @@
             {
               "type": "character",
               "name": "reXer",
-              "avatar": "./char/reXer.png",
+              "avatar": "../char/reXer.png",
               "text": "Wh-What kind of emotion is that!? <br>I mean, I still need a lot of improvement, <br>but I'm a full-fledged hero now, you know!? "
             },
             {
               "type": "character",
               "name": "Danzo",
-              "avatar": "./char/danzo.png",
+              "avatar": "../char/danzo.png",
               "text": "Isn't it like, everyone else is a veteran, <br>and then suddenly you're the only rookie? <br>Like, 'You've risen in the ranks!' "
             },
             {
               "type": "character",
               "name": "reXer",
-              "avatar": "./char/reXer.png",
+              "avatar": "../char/reXer.png",
               "text": "W-Well, it's not exactly like that. <br>But, now that you mention it, it's true. <br>Even though my agency pushed for it, I'm nervous... "
             }
           ]
@@ -431,55 +431,55 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Oh, NeoTalents Production. <br>Next up is your mixed team with Galaxy Athletes. <br>Nice to meet you. "
     },
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "But I'm surprised! <br>To think that a budding young hero like reXer would enter <br>this tournament full of veterans! "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Well, our agency is the organizer, right? <br>They probably want to boost the buzz by putting in a young talent <br>who's been getting a lot of attention in battles recently! "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Oh, I'm not saying we're pushing him, though! <br>Our reXer isn't just a rising star; <br>he's also rapidly improving his skills! "
     },
     {
       "type": "character",
       "name": "reXer",
-      "avatar": "./char/reXer.png",
+      "avatar": "../char/reXer.png",
       "text": "S-Stop it...! <br>When you praise me that much, <br>I just get embarrassed... "
     },
     {
       "type": "character",
       "name": "reXer",
-      "avatar": "./char/reXer.png",
+      "avatar": "../char/reXer.png",
       "text": "Well, I'll do my best to meet your expectations! <br>Most importantly, let's have fun! "
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Mm-hmm, the future of NeoTalents is bright. <br>It would have been good if we had brought some young heroes from our agency too. "
     },
     {
       "type": "character",
       "name": "Polaris Mask",
-      "avatar": "./char/polaris_mask.png",
+      "avatar": "../char/polaris_mask.png",
       "text": "—Oh, hey, everyone's gathered! <br>I was really looking forward to this match, <br>let's make it a good battle! "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Seems like I'm seeing a lot of familiar faces lately... <br>Well, even though it's a one-match team, <br>I'm counting on you all. "
     },
     {
@@ -494,13 +494,13 @@
             {
               "type": "character",
               "name": "Polaris Mask",
-              "avatar": "./char/polaris_mask.png",
+              "avatar": "../char/polaris_mask.png",
               "text": "Yo, [Player]! <br>It's not exactly a tag team, but just knowing I get to fight with you <br>makes me excited! "
             },
             {
               "type": "character",
               "name": "Polaris Mask",
-              "avatar": "./char/polaris_mask.png",
+              "avatar": "../char/polaris_mask.png",
               "text": "Whenever you're around, the matches are usually fun, <br>so I'm counting on you again today, okay? "
             }
           ]
@@ -511,19 +511,19 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "S-Stop calling me that!! <br>I'm not in a bad mood, <br>well, now I am!! "
             },
             {
               "type": "character",
               "name": "Polaris Mask",
-              "avatar": "./char/polaris_mask.png",
+              "avatar": "../char/polaris_mask.png",
               "text": "Oh, come on, you should just say it honestly. <br>You've been fidgeting ever since you heard <br>[Player] was here, you know. "
             },
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "Y-You bastard, Polaris!! <br>Don't you dare lie, <br>I wasn't fidgeting at all!! "
             }
           ]
@@ -533,49 +533,49 @@
     {
       "type": "character",
       "name": "Polaris Mask",
-      "avatar": "./char/polaris_mask.png",
+      "avatar": "../char/polaris_mask.png",
       "text": "Hmm, so it's these six against the opposing team's six elites, huh? <br>My arm's itching for a fight. "
     },
     {
       "type": "character",
       "name": "reXer",
-      "avatar": "./char/reXer.png",
+      "avatar": "../char/reXer.png",
       "text": "Even so, the opponents are 'Knights', so they all have weapons. <br>On our side, more than half are mainly close combat... can we do it? "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Hah, you'd be in trouble if you underestimated our physical prowess! "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "We're heroes who flaunt the title of athletes! "
     },
     {
       "type": "character",
       "name": "Polaris Mask",
-      "avatar": "./char/polaris_mask.png",
+      "avatar": "../char/polaris_mask.png",
       "text": "Yeah! <br>If we overwhelm them with movements that don't care about reach, <br>then it's ours! "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Oh, that's a strong style of thinking! <br>Well, in the end, we just have to manage with flexible and decisive actions, right? "
     },
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "Hahaha, leave it to me! <br>I won't lose to anyone in terms of experience!! <br>Feel free to leave your back to me!!! "
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "........... <br>Hmph... "
     },
     {
@@ -592,31 +592,31 @@
     {
         "type": "character",
         "name": "Huckle",
-        "avatar": "./char/huckle.png",
+        "avatar": "../char/huckle.png",
         "text": "Hmm? Oh, no. <br>I just received a message, <br>so I was just checking it. "
     },
     {
         "type": "character",
         "name": "Huckle",
-        "avatar": "./char/huckle.png",
+        "avatar": "../char/huckle.png",
         "text": "You know, earlier Melide-kun went to the infirmary, <br>accompanied by Exio-san, saying that she felt a little dizzy? "
     },
     {
         "type": "character",
         "name": "Huckle",
-        "avatar": "./char/huckle.png",
+        "avatar": "../char/huckle.png",
         "text": "Well, they're saying she's on her way back. <br>I'm worried if she's really okay... <br>Oh, here they come. "
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "—Hey, sorry. <br>In the end, all I could do was get some motion sickness medicine... "
     },
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "Yes... but thanks to that, <br>I feel much better. <br>Sorry for making you worry. "
     },
     {
@@ -633,13 +633,13 @@
     {
         "type": "character",
         "name": "Melide",
-        "avatar": "./char/melide.png",
+        "avatar": "../char/melide.png",
         "text": "Yes... all day today, <br>I've felt like I was being swayed. <br>It doesn't affect my observation much, though. "
       },
       {
         "type": "character",
         "name": "Exio",
-        "avatar": "./char/exio.png",
+        "avatar": "../char/exio.png",
         "text": "—It's probably Ether sickness. <br>Ever since we came to this planet... no. <br>Especially today, the flow of Ether is strange. "
       },
     {
@@ -653,13 +653,13 @@
     {
         "type": "character",
         "name": "Exio",
-        "avatar": "./char/exio.png",
+        "avatar": "../char/exio.png",
         "text": "Ah... I see. <br>Since Ether swirls around you, <br>your senses in that area might be a little dull. "
       },
       {
         "type": "character",
         "name": "Exio",
-        "avatar": "./char/exio.png",
+        "avatar": "../char/exio.png",
         "text": "Right—today, while observing the heroes, <br>did you feel any sense of discomfort? "
       },
     {
@@ -687,43 +687,43 @@
     {
         "type": "character",
         "name": "Exio",
-        "avatar": "./char/exio.png",
+        "avatar": "../char/exio.png",
         "text": "—That's right. Melide's senses are quite keen. <br>She feels even minor disturbances, <br>which you might not notice if you didn't pay attention, very strongly. "
       },
       {
         "type": "character",
         "name": "Exio",
-        "avatar": "./char/exio.png",
+        "avatar": "../char/exio.png",
         "text": "You know how people who easily get seasick on boats <br>can still get sick even from just small ripples? <br>It's a similar feeling. "
       },
     {
       "type": "character",
       "name": "reXer",
-      "avatar": "./char/reXer.png",
+      "avatar": "../char/reXer.png",
       "text": "Oh, now that you mention it... <br>Our operator also said something about feeling a bit off. "
     },
     {
       "type": "character",
       "name": "Polaris Mask",
-      "avatar": "./char/polaris_mask.png",
+      "avatar": "../char/polaris_mask.png",
       "text": "Mine too. <br>If the Ether is fluctuating, <br>does that mean something's happening? "
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "No... something doesn't necessarily happen. <br>Similar phenomena sometimes occur as a precursor to monsters appearing, but— "
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "It's common for only the precursor to occur and for nothing to appear. <br>However... I think it's better to keep it in mind, <br>just in case. "
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "Especially when a large surge occurs— <br>something bad almost always happens. "
     },
     {
@@ -740,19 +740,19 @@
     {
         "type": "character",
         "name": "Melide",
-        "avatar": "./char/melide.png",
+        "avatar": "../char/melide.png",
         "text": "You shouldn't threaten them so much, Exio-sama. <br>It's like looking at a cloudy sky and saying it might rain. "
       },
       {
         "type": "character",
         "name": "Melide",
-        "avatar": "./char/melide.png",
+        "avatar": "../char/melide.png",
         "text": "It's always better to be cautious... <br>But at the same time, there's no way to prepare for it. <br>No matter how the 'Observer' moves— "
       },
       {
         "type": "character",
         "name": "Melide",
-        "avatar": "./char/melide.png",
+        "avatar": "../char/melide.png",
         "text": "You can't suppress the surge. <br>Fortunately, there are many heroes here, so even if <br>a monster appears, I think we'll manage. "
       },
     {
@@ -762,19 +762,19 @@
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "—[Player]-san. <br>I'm sorry for leaving the observation of the previous matches to you. "
     },
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "I'll join you from the next match. <br>...But, well. Given my condition earlier— "
     },
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "Could I ask you to switch places during the interval? <br>I'll get myself in order then. "
     },
     {
@@ -791,19 +791,19 @@
     {
         "type": "character",
         "name": "Melide",
-        "avatar": "./char/melide.png",
+        "avatar": "../char/melide.png",
         "text": "—I'm fine. <br>It happens often, so don't worry. <br>Thank you. "
       },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "...You seem to trust everyone a lot <br>and are quite attached. "
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "Truly... <br>I hope nothing happens. "
     },
     {
@@ -813,133 +813,133 @@
     {
       "type": "character",
       "name": "reXer",
-      "avatar": "./char/reXer.png",
+      "avatar": "../char/reXer.png",
       "text": "Daaahryaahhh!! <br>How about this—how's that!!? "
     },
     {
       "type": "character",
       "name": "Royal Guard Captain",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Nonsense, with my sword— <br>such a slash feels like nothing!! "
     },
     {
       "type": "character",
       "name": "reXer",
-      "avatar": "./char/reXer.png",
+      "avatar": "../char/reXer.png",
       "text": "Tch, you're certainly good...! <br>But— "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Yeah yeah, your back's exposed, right!? <br>You shouldn't show your back to a ninja, <br>that's universal common sense, right!! "
     },
     {
       "type": "character",
       "name": "Royal Guard Captain",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "What?! <br>—Guwahh!! "
     },
     {
       "type": "character",
       "name": "Rutilix",
-      "avatar": "./char/rutilix.png",
+      "avatar": "../char/rutilix.png",
       "text": "Captainnn!? <br>Ugh, you...! <br>You've been scurrying around ever since! "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "—What. If I can't catch up with speed, <br>I'll just overwhelm them with sheer force... 'Salvation'! <br>Helig Flammerei!!"
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Whoa whoa whoa!!!? <br>A rain of spears, I can't possibly dodge all of this— <br>Ow, ow, ow, ow!! "
     },
     {
       "type": "character",
       "name": "Rutilix",
-      "avatar": "./char/rutilix.png",
+      "avatar": "../char/rutilix.png",
       "text": "—There!! <br>Haaah!! "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Whooaaah!!? <br>—Phew, to exploit my opening, <br>you're quite good, aren't you? "
     },
     {
       "type": "character",
       "name": "Rutilix",
-      "avatar": "./char/rutilix.png",
+      "avatar": "../char/rutilix.png",
       "text": "Not yet, I'll return the captain's injury twofold... ohh!? "
     },
     {
       "type": "character",
       "name": "Polaris Mask",
-      "avatar": "./char/polaris_mask.png",
+      "avatar": "../char/polaris_mask.png",
       "text": "Hey hey, don't just focus on one person! <br>Play with me more, too, huh!? "
     },
     {
       "type": "character",
       "name": "Rutilix",
-      "avatar": "./char/rutilix.png",
+      "avatar": "../char/rutilix.png",
       "text": "Y-You, from before...! <br>Damn you, I haven't forgotten the humiliation of being put in a joint lock <br>in front of a public audience!! "
     },
     {
       "type": "character",
       "name": "Polaris Mask",
-      "avatar": "./char/polaris_mask.png",
+      "avatar": "../char/polaris_mask.png",
       "text": "So you can still move!? <br>I like those guts!<br>OK, with that spirit, let's go for another round!! "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "Wait, Rutilix! <br>...He, how can he run around normally <br>in that gravitational field...? "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "—He can't do it alone, <br>I too will... <br>Whoa!? "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Oh, White Knight!! <br>You gotta protect yourself, <br>or your feet will literally be swept out from under you!! "
     },
     {
       "type": "character",
       "name": "Alphecca",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "This is... water!? <br>I see, so you've come to seal my fire power...! "
     },
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "Alright, stay like that, Hydoor! <br>Your Majesty, excuse me— <br>Full power, discharge!! "
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "—Hey, you idiot, stop! <br>Even if it's just an energy body discharge, it's still a watery area...! "
     },
     {
       "type": "character",
       "name": "Hydoor, Ryekie, Alphecca",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Whoooaaaahhh!!!? "
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Ah— <br>It's as I said it would be. <br>Honestly... "
     },
     {
@@ -967,13 +967,13 @@
     {
         "type": "character",
         "name": "Melide",
-        "avatar": "./char/melide.png",
+        "avatar": "../char/melide.png",
         "text": "—Yeah, the Ether's surge seems to have quieted down a bit. <br>Maybe I was just worrying too much...? "
       },
       {
         "type": "character",
         "name": "Melide",
-        "avatar": "./char/melide.png",
+        "avatar": "../char/melide.png",
         "text": "Thanks for staying with me all this time. <br>But you can relax and prepare for the second half now. "
       },
     {
@@ -1013,7 +1013,7 @@
     {
         "type": "character",
         "name": "Exio",
-        "avatar": "./char/exio.png",
+        "avatar": "../char/exio.png",
         "text": "...! This is... <br>The Ether suddenly started to get disturbed? <br>What's about to begin...? "
       },
     {
@@ -1023,13 +1023,13 @@
     {
       "type": "character",
       "name": "NT Co. Operator",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Ugh, ah...! <br>What... my ears...! "
     },
     {
       "type": "character",
       "name": "GA Co. Operator",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "M-My nose... is twisting...! <br>My head, it feels like it's going to explode...! "
     },
     {
@@ -1039,7 +1039,7 @@
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "Ugh...! <br>No... this. <br>I can't... control it. "
     },
     {
@@ -1064,13 +1064,13 @@
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "Mmm... what is it? <br>My Parallel Weapon...? "
     },
     {
       "type": "character",
       "name": "reXer",
-      "avatar": "./char/reXer.png",
+      "avatar": "../char/reXer.png",
       "text": "Huh...? <br>Something's, crumbling...? "
     },
     {
@@ -1106,7 +1106,7 @@
       {
         "type": "character",
         "name": "Exio",
-        "avatar": "./char/exio.png",
+        "avatar": "../char/exio.png",
         "text": "—! Stop it! <br>In this situation, if 'you' take over <br>the observation...!! "
       },
     {
@@ -1143,13 +1143,13 @@
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "—Ngh!? <br>This is... agh!! "
     },
     {
       "type": "character",
       "name": "Polaris Mask",
-      "avatar": "./char/polaris_mask.png",
+      "avatar": "../char/polaris_mask.png",
       "text": "What, happened...!? <br>Uwahh!! "
     },
     {
@@ -1159,7 +1159,7 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "—[Player]-kun! <br>Stop the observation!! <br>Immediately!! "
     },
     {
@@ -1227,7 +1227,7 @@
     {
         "type": "character",
         "name": "Hydoor",
-        "avatar": "./char/hydoor.png",
+        "avatar": "../char/hydoor.png",
         "text": "—Watch out!! <br>[Player]!! "
       },
     {
@@ -1261,13 +1261,13 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "...Made it! <br>Are you alright for now!? "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "—Whoa, shoot! <br>The chain, it's gonna break...!? <br>What is this, a black hole!? "
       },
     {
@@ -1281,7 +1281,7 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "You guys, grab onto my rope!! <br>You'll get sucked in!! "
     },
     {
@@ -1299,7 +1299,7 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Th-That helps!! <br>—But...! "
       },
     {
@@ -1309,13 +1309,13 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Even I— <br>Can't get enough distance!? "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Hey, wait a sec...! <br>Whoa!? "
     },
     {
@@ -1329,7 +1329,7 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Oh, crap...!? <br>My rope— "
     },
     {
@@ -1351,7 +1351,7 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "[Player]-kun!! <br>[Player]— "
     },
     {
@@ -1426,7 +1426,7 @@
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "—Whoa, whoa. <br>Where is this...? "
       },
     {
@@ -1454,19 +1454,19 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Settle down! <br>I don't know what's going on either, <br>but I'll try to make a safe landing first! "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "—Wait, huh? <br>Just the two of us? <br>I thought... "
       },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "A-Ahhhhhh!!!? <br>What's going on, what's happening!? <br>Someone, explain it to meee!! "
     },
     {
@@ -1485,7 +1485,7 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "Damn it...! <br>If it weren't for this situation, <br>I'd give you a good punch...!! "
             }
           ]
@@ -1498,37 +1498,37 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "...Oh, there you are. <br>And, aren't you a little late to start making a fuss~? <br>There was clearly a lag, wasn't there? "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Shut up! <br>I was frozen because I couldn't grasp the situation! <br>Besides, why didn't you notice I was holding your leg!? "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Well, those legs of mine don't have any nerves! <br>Yeah, I thought it felt a bit heavy, but still~? "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "More importantly, are you okay in that state? <br>It'll probably be a while <br>until we reach the ground. "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Of course I'm not okay!! <br>My hands are already numb from all this wind— <br>I-I'm falling!! "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Alright, alright, I thought so! <br>In that case, try your best to climb onto my back, <br>it'll be a little better then! "
     },
     {
@@ -1545,19 +1545,19 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Leave it to me! <br>I'm not a cyborg ninja for nothing, <br>this height and number of people is nothing to me! "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "...Well. <br>I haven't had any practical experience though. "
       },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "You haven't!!?...Guaaah— <br>But it's true I can't do anything by myself... <br>I'm really counting on you!! "
     },
     {
@@ -1571,7 +1571,7 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Alright, it's almost time for landing! <br>Both of you, hold on tight! "
     },
     {
@@ -1589,25 +1589,25 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Alright, alright! <br>My brain's a little shaken, <br>but we made it, didn't we! "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Th-That saved us...! <br>I'll thank you, but <br>what's up with your body? <br>It's too tough... "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Well, it's not just the body's durability, <br>it's a combination with a bit of martial arts, <br>but that's a trade secret, so please understand! "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "You two can get down now! <br>We landed so roughly, but nothing happened, <br>so it's probably not a minefield or anything. "
     },
     {
@@ -1625,13 +1625,13 @@
             {
               "type": "character",
               "name": "Danzo",
-              "avatar": "./char/danzo.png",
+              "avatar": "../char/danzo.png",
               "text": "No need to thank me every time, my lord! <br>Because protecting you is my job!"
             },
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "What kind of relationship do you two have...? <br>There's a subtle atmosphere that doesn't feel entirely legitimate. "
             }
           ]
@@ -1641,25 +1641,25 @@
     {
         "type": "character",
         "name": "Hydoor",
-        "avatar": "./char/hydoor.png",
+        "avatar": "../char/hydoor.png",
         "text": "Even I, of all people, couldn't do anything <br>when suddenly thrown into the sky. <br>Thanks, uh... "
       },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "I'm Danzo! <br>Just a music artist affiliated with NeoTalents, nice to meet you! <br>And you, uh, is 'Hy-kun' correct? "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "It's H-Y-D-O-O-R!! <br>Hitomi must have put that idea in your head, <br>I won't allow that nickname, remember it!! "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "I'm supposedly a swimmer affiliated with Athletes... <br>Self-introductions aside, where exactly are we? <br>What happened? "
     },
     {
@@ -1688,19 +1688,19 @@
     {
         "type": "character",
         "name": "Hydoor",
-        "avatar": "./char/hydoor.png",
+        "avatar": "../char/hydoor.png",
         "text": "—You're right, that's not there. <br>By the way, what's that for? <br>It's usually in every planet we visit. "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "I don't know the exact details either, <br>but I do know it's necessary for streaming <br>using \"LIVE@HERO\". "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "If it's not there... <br>Does that mean we're in some incredibly remote place!? <br>[Player]-kun, do you have any idea? "
       },
     {
@@ -1717,25 +1717,25 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "...I thought so~. <br>It clearly seemed like a situation beyond [Player]'s control. "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Besides, if you had experienced this before, <br>you probably wouldn't be here now, [Player]."
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Well. I completely relied on my lord for anything related to observation, <br>so I'm completely clueless when it comes to that knowledge... "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "If there's any clue, maybe we can take a shot at guessing! <br>Hey, what did it feel like when you observed that path? "
       },
     {
@@ -1755,31 +1755,31 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "I see... hmm. <br>I pride myself on being the exact opposite of a pessimist, <br>but I can only come up with bad predictions. "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Ah—! I wonder if Grigory-kun or someone <br>can somehow fix this! <br>Though the chances are super slim!! "
       },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Hey, hey, hey, I don't get it at all. <br>You guys, you're not actually <br>predicting where we are, are you? "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Um... a path is apparently like a hole <br>that connects to a universe different from ours, <br>in other words, a parallel universe. "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "And well. We actually went to a different universe once <br>by passing through a man-made path."
     },
     {
@@ -1796,31 +1796,31 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "...Right. We, who passed through the path, <br>might have been blown into a different universe, <br>different from the one we originally came from. "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "That's what I was thinking... <br>It's still just a prediction though! <br>I'd rather bet on the possibility that we just warped! "
       },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Are you serious...? <br>I heard about other universes when we transformed, <br>but I didn't think they actually existed... "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "—Hmm? <br>Hold on. <br>For someone who's \"been there\", you look pretty pathetic, don't you? "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Don't tell me... <br>you were just helped back by someone else, <br>and you don't know how to get back yourself? "
     },
     {
@@ -1837,31 +1837,31 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Exactly! <br>We just entered and exited through a prepared door! <br>And that door broke afterwards, you know? "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "So, if we really did travel between universes, <br>we're pretty much screwed. <br>We have to find our way back from scratch. <br>Like, entering hell mode? "
       },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "H-Huh!? <br>Don't joke around, <br>you don't have even a millimeter of a clue!? "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Hey, [Player]! <br>We're gonna search for a way back like our lives depend on it!! <br>There's no way I'm going to be buried in some place I don't understand!! "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Wait, wait, wait! <br>It's not confirmed yet! <br>Let's just look around a bit, unexpectedly... "
     },
     {
@@ -1875,7 +1875,7 @@
     {
       "type": "character",
       "name": "Monsters",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Zuzu, zuzuzu...! <br>Zuzuzu...! "
     },
     {
@@ -1892,31 +1892,31 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Wow, literally adding insult to injury! <br>Can't you at least come out after we've calmed down!? "
       },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "You think those monsters would understand that! <br>[Player], prepare for battle! "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Wait, wait! <br>There's no Satellite Band here, you know!? <br>I wonder if we can even stream or transform...! "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "We won't know until we try! <br>Or do you want to keep running away forever!? "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "—Sorry, you're right! <br>Let's just go for it! <br>[Player]-kun, please! "
     },
     {
@@ -1955,19 +1955,19 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Oh—, it worked, didn't it!? <br>If the destination is the same, maybe things <br>can just work out unexpectedly? "
       },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Logic doesn't matter! <br>It's a bit of a disadvantage against monsters, <br>but I'll take them on even with bare hands! "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "[Player]! <br>If you can transform us, <br>you can connect to the live stream too, try it! "
     },
     {
@@ -1987,7 +1987,7 @@
     {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Our ViewPower is limited, <br>so if we can connect, <br>it'd be a great help! "
       },
     {
@@ -2020,13 +2020,13 @@
     {
         "type": "character",
         "name": "Hydoor",
-        "avatar": "./char/hydoor.png",
+        "avatar": "../char/hydoor.png",
         "text": "Alright!! <br>Come at me, monsters!! "
       },
     {
       "type": "character",
       "name": "Monsters",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Zuzu, zuzuzu...! "
     },
     {
@@ -2036,37 +2036,37 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "—Oraaaahhh!! <br>This is the end!! "
     },
     {
       "type": "character",
       "name": "Red Slime-type Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Zuzu, zuzuzu... <br>Zuzu.... "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Ngh!? ...Damn it. <br>The blade chipped again. <br>Good thing it was the last one... "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Phew, you did it, Hy-kun? <br>You seemed to have a bit of a hard time fighting, <br>but you still finished them off. "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Hmph, you too. <br>By the way, are you really just a musician? <br>You're too proficient in martial arts, aren't you? "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Hehe, well, you know~. <br>...Even so, we had quite a struggle <br>against opponents we usually wouldn't have trouble with. "
     },
     {
@@ -2096,13 +2096,13 @@
             {
               "type": "character",
               "name": "Danzo",
-              "avatar": "./char/danzo.png",
+              "avatar": "../char/danzo.png",
               "text": "No, no! <br>It's not something [Player] should worry about! <br>It's a miracle the stream connected at all! "
             },
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "Yeah. <br>Your operation is still easy to work with. <br>This time, it was entirely a weapon problem. "
             }
           ]
@@ -2112,19 +2112,19 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Hmm... I wonder if \"LIVE@HERO\" itself <br>exists in this world? <br>There don't seem to be many viewers, though. "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "W-Well... in any case, <br>it's safer to avoid battles in this place, <br>that's for sure. <br>Let's hurry and find a way back— "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "—Wait. <br>Someone's coming. "
     },
     {
@@ -2146,13 +2146,13 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Wh-What are these guys...? <br>Are they planning to fight...? "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "...From the looks of it, <br>it doesn't seem like <br>that's their intention... you know. "
     },
     {
@@ -2162,7 +2162,7 @@
     {
       "type": "character",
       "name": "Resident?",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "■■■■...■■■■? <br>'■'■■■■■■■■■■. "
     },
     {
@@ -2172,13 +2172,13 @@
     {
       "type": "character",
       "name": "Resident?",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "■■■, ■■■■■! <br>■■■■■■■■■■■! "
     },
     {
       "type": "character",
       "name": "Resident?",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "■■! ■■■■■■■... <br>'■■'■■■■■! "
     },
     {
@@ -2195,19 +2195,19 @@
     {
         "type": "character",
         "name": "Hydoor",
-        "avatar": "./char/hydoor.png",
+        "avatar": "../char/hydoor.png",
         "text": "...Hey. <br>Do you understand what these guys are saying? <br>I've never heard this language before. "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "I have no idea either... <br>By the way, if it were a language from a planet affiliated with the Galactic Federation, <br>my device should automatically translate it. "
       },
       {
         "type": "character",
         "name": "Danzo",
-        "avatar": "./char/danzo.png",
+        "avatar": "../char/danzo.png",
         "text": "Ah, this is basically a technological defeat, you know!? <br>This means the 'other universe' theory <br>might be getting stronger, after all~? "
       },
     {
@@ -2222,7 +2222,7 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "Ah, what are you doing!? <br>You're talking in our standard language, of course they won't understand you!"
             }
           ]
@@ -2232,7 +2232,7 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "That's right, body language! <br>Let's put down any obvious weapons and just <br>convey that we don't understand the language first! "
     },
     {
@@ -2254,7 +2254,7 @@
     {
       "type": "character",
       "name": "Resident?",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—We are so sorry! <br>We never imagined the era would be so far apart...! "
     },
     {
@@ -2271,31 +2271,31 @@
     {
         "type": "character",
         "name": "Resident?",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "—Again, welcome! <br>People from beyond the 'Rainbow'! "
       },
       {
         "type": "character",
         "name": "Resident?",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "We have been waiting for people with your kind of power <br>for a long time! "
       },
       {
         "type": "character",
         "name": "Resident?",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "To be able to meet you at such a critical moment... <br>It's truly a miracle, <br>I don't know how to thank you enough...! "
       },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "H-Hey, hey. <br>It's good that we can understand them now, <br>but what's with this overwhelming welcome? "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "I-I don't know, but... <br>At least they don't seem hostile. <br>Is 'Rainbow' referring to the path? "
     },
     {
@@ -2323,7 +2323,7 @@
     {
       "type": "character",
       "name": "Resident?",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Could you lend us that? <br>We won't do anything strange. "
     },
     {
@@ -2356,25 +2356,25 @@
     {
       "type": "character",
       "name": "Resident?",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "The model was unfamiliar, but... <br>I'm glad it seems we were able to register it. "
     },
     {
       "type": "character",
       "name": "Resident?",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "With this, you too will be able to converse with us, <br>and you won't have trouble fighting. "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Whoa! My device is protected by super-tight security~! <br>But it was easily bypassed! "
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "What are these guys, some kind of hacker group? <br>If what they're saying is true, <br>it doesn't seem like a bad app, though... "
     },
     {
@@ -2402,31 +2402,31 @@
     {
         "type": "character",
         "name": "Resident?",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "Our 'King' would be able to provide you a detailed explanation. <br>Please, come to our 'Royal Palace'! "
       },
       {
         "type": "character",
         "name": "Resident?",
-        "avatar": "./char/placeholder.png",
+        "avatar": "../char/placeholder.png",
         "text": "Our 'King' is also looking forward to meeting you! <br>Now, this way! "
       },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Oh, right!? <br>Who's this 'King,' and don't push! <br>We haven't said we're going yet! "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "At least, the other side seems to be technically superior to us, <br>so it might be better not to resist unnecessarily? "
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Well... we don't have any other plans right now, do we? <br>Maybe we should just listen to what they have to say? <br>There might be a clue to getting back. "
     },
     {

@@ -14,7 +14,7 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "[Player], good work!"
     },
     {
@@ -33,19 +33,19 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I'm aiming to be a hero too!<br>Helping out is only natural!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "[Player], you're also done<br>with work for today, right?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Hey, hey, let's chat a little!<br>I told Andrew and Flamier that I'd be home late!"
     },
     {
@@ -68,25 +68,25 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Today, during lunch break,<br>Captain told me a lot of stories."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Like the astronaut training,<br>the kind of work he did,<br>and also how to live in space!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Also, Crowne is teaching me<br>how to assemble a spaceship too!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I'll train every day,<br>and once \"Orbiter No. 2\" is complete,<br>I'll go on another big adventure in space!"
     },
     {
@@ -109,31 +109,31 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Yeah, thank you, [Player].<br>I'm going to properly aim to be an astronaut this time!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...In the last adventure, I realized that<br>I still have a lot of things I'm lacking."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Back then, I didn't understand anything,<br>so I was desperate to escape from the moon, but..."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Now, I understand myself<br>and everyone a little better."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "To the people I've caused trouble for,<br>I hope I'll be able to tell them that<br>I'm just trying my best, someday."
     },
     {
@@ -156,19 +156,19 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Ehehe...! Thank you, [Player]!<br>Being praised makes me really happy!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "But, the reason I could think<br>that way is thanks to you, [Player]."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "After all, you gave me the<br>opportunity to remember my own memories, [Player]!"
     },
     {
@@ -182,7 +182,7 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "—Hey, [Player].<br>When you were inside me...<br>what did it feel like?"
     },
     {
@@ -201,19 +201,19 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...Really?<br>If that's true...<br>then I'm happy too."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I was a little anxious.<br>Because I did put you inside me<br>without your permission, [Player]."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...I wondered if you'd think<br>that it was unpleasant or creepy."
     },
     {
@@ -223,19 +223,19 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...But, I absolutely wanted<br>to save you, [Player]."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I thought that if I didn't help you,<br>I'd regret it forever."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...I've failed to save someone once before—<br>that's what it felt like."
     },
     {
@@ -245,13 +245,13 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "When that footage was saved,<br>I should've been present, yet—"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Even so,<br>if I had been able to fly freely in space,<br>would I have been able to save that person...?"
     },
     {
@@ -274,25 +274,25 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "[Player], I'm sorry.<br>Thank you for encouraging me."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...But, it's alright.<br>I want to know about that person.<br>Because they entrusted their dream to me."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...Besides, I'm not alone anymore.<br>[Player], I have you and everyone by my side!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "So, I definitely want to find a clue.<br>No matter where it is in space!"
     },
     {
@@ -302,13 +302,13 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...Hey, [Player].<br>If \"Orbiter No. 2\" is completed—"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "[Player], will you go on<br>an adventure with me?"
     },
     {
@@ -318,13 +318,13 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I want to go to space, but...<br>I know that you might not want to, [Player]."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Even so...<br>I wonder if you'd come to space with me."
     },
     {
@@ -347,25 +347,25 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "—Yeah! Yay—!!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I'd be so happy if<br>I could be with you, [Player]!!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Next time, let's make a big spaceship!<br>We need to make sure there are two seats,<br>and lots of space for luggage!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Let's go on adventures to all the stars together!<br>It's a promise, [Player]!"
     },
     {
@@ -375,31 +375,31 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Alright, I have to study even harder <br>to become an astronaut!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...Ah, but before that! <br>[Player], would you go out together with me tomorrow?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "The festival stalls that were set up <br>for the ceremony are gradually reopening!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I've always wanted to go—! <br>Tomorrow's your day off, right? <br>[Player], you'll come along, right?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Let's take a walk together! <br>I'll buy souvenirs for Captain, Andrew and the others!"
     },
     {

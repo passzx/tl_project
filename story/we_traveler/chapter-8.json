@@ -6,7 +6,7 @@
     {
       "type": "character",
       "name": "Giant Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "■■■■...!!!"
     },
     {
@@ -20,19 +20,19 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Ugh, haa... haa.<br>Is that... the monster's<br>core light, perhaps?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Yeah... the aura is flowing towards that sphere.<br>No doubt about it!"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Tch, we're doing this with four of us<br>and there's still a thin layer left?<br>What a pain...!"
     },
     {
@@ -49,43 +49,43 @@
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Just as boss says!<br>Conversely, we've come this far<br>against such a giant monster!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Indeed.<br>At first, I wondered what would happen.<br>As expected of Danzo-sama, you are so positive."
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Tch, what a pain in the neck.<br>It keeps absorbing nutrients from the air,<br>so it recovers no matter how much we wound it."
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "...Well. That's precisely why<br>I've been carving into it at a speed<br>that surpasses its recovery."
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "But it looks like its nutrient supply<br>is finally unable to keep up!<br>The wounds are exposed too, right?"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "If we keep up this saturated attack,<br>we'll be able to directly attack the core!<br>Then..."
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "—Huh?<br>Wait a minute..."
     },
     {
@@ -117,13 +117,13 @@
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Huh...? What—?!<br>What are those roots like?!<br>What's that thing doing now...!?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "—! Hey!<br>Look, everyone!<br>The monster's wounds...!"
     },
     {
@@ -137,13 +137,13 @@
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "You're kidding, right...?<br>What is that thing absorbing<br>from those roots...?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—!?<br>Eh, warning...!?"
     },
     {
@@ -157,43 +157,43 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...The Ether pump.<br>It restarted, then went silent.<br>And it's decreasing..."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Could it be that this monster...<br>Is starting to absorb not just the biomachines in the atmosphere,<br>but the Ether pump too...?!"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Ether pump...!?<br>That's the lid-like thing that covered the \"rift\", right!?"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Why would that be nutrition?!<br>Gnomon, explain!!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...The Ether pump's power source is the incoming Ether.<br>Its principle is similar to a hydroelectric power's waterwheel."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It operates using the energy generated when drawing in Ether—<br>And stores the surplus energy internally."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "That is then used as an energy source during restart.<br>In other words... it contains Ether crystal shards of microscopic size."
     },
     {
@@ -210,43 +210,43 @@
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "W-Wait a minute! In that case, wouldn't it be an opportunity for us,<br>since the exposed surface of the \"rift\" is expanding!?"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Because, the reason we were trying to defeat that thing<br>was because it was blocking the exit to outer space!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...No, unfortunately, that won't happen.<br>What covers the \"rift\" has been replaced<br>from the Ether pump to the monster's \"roots\"."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Unless we defeat this monster, which continues its abnormal recovery...<br>We won't be able to leave this universe."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...This monster, currently feeding on the astronomically multiplied<br>ether crystal-infused nanomachine."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "That's... too unfair!<br>Alright, if those \"roots\" are restoring it,<br>then I'll cut them all down—"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "—Wait!<br>Isn't that thing starting to make a sphere of light...!?"
     },
     {
@@ -260,13 +260,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Everyone, gather around!<br>Incantation omitted, emergency defense!!"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "[Player]-sama, here!!"
     },
     {
@@ -296,7 +296,7 @@
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "What the heck...!<br>This is a real weapon now,<br>it's horrible!"
     },
     {
@@ -320,31 +320,31 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...From where the pillar of fire rose,<br>aura is flowing towards it."
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "So, the guys who were at the explosion site<br>weren't burned, but eaten, huh...<br>You bastard!"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "This is seriously bad...!<br>Somehow, we have to cut off that monster's<br>energy supply route!"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Not just us—<br>It's going to gobble up this entire world!?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "What do I do... what do I do?!<br>Think... think...!"
     },
     {
@@ -406,7 +406,7 @@
     {
       "type": "character",
       "name": "???",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "...■■■■, ■■■■!!<br>■■■■■■■!!"
     },
     {
@@ -438,7 +438,7 @@
     {
       "type": "character",
       "name": "Bone-like Skeleton?",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—■■■■!! ■■■■!!<br>■■■■■■■, ■■■■■■!!"
     },
     {
@@ -452,13 +452,13 @@
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "O-Oh!?<br>What is that, a new enemy!?"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "...No. Eh, no way...!?<br>It's smaller than when I saw it before, but—<br>That's Exio's, isn't it!!"
     },
     {
@@ -478,25 +478,25 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "W-What the hell!?<br>You guys, do you seriously know a monster!?"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Ah, um... how should I put it.<br>That's an ID Replica, and..."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Look!<br>That monster, its \"roots\"...!"
     },
     {
       "type": "character",
       "name": "ID Replica",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "■■■, ■■■■!!<br>—■■■■■■!<br>■■■■■■!!"
     },
     {
@@ -528,7 +528,7 @@
     {
       "type": "character",
       "name": "Giant Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—■■■!!<br>■■■■■!!"
     },
     {
@@ -538,19 +538,19 @@
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "W-What an awful sight...!<br>A monster is devouring parts of another monster at an incredible speed."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "But... isn't this our chance!?<br>Its recovery has stopped! It can't recover at explosive speeds like before!"
     },
     {
       "type": "character",
       "name": "ID Replica",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "■■, ■■■■...<br>■■■■■■■■, ■■■■...<br>■■, ■■■■■■!"
     },
     {
@@ -560,7 +560,7 @@
     {
       "type": "character",
       "name": "ID Replica",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "■■■, ■■■■!<br>■■■■■■■■■■■,<br>■■■, ■■■■■■■■■!!"
     },
     {
@@ -570,7 +570,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—[Player]-sama.<br>This monster is...?<br>Is it an ally...?"
     },
     {
@@ -590,13 +590,13 @@
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "At this point, I don't care whose it is!<br>Thank you, ID Replica!<br>Thanks to you, our pinch isn't a pinch anymore!"
     },
     {
       "type": "character",
       "name": "ID Replica",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "...■■■?<br>■■■■■■, ■■■?"
     },
     {
@@ -606,43 +606,43 @@
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Indeed, the situation has improved greatly, but...<br>Back to square one, huh—well!<br>I guess we have no choice but to do something about it!"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "The task is the same!<br>We just need to cut it up again<br>with enough force to overcome its slowed recovery!"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Tch, this is annoying, but... I guess there's no helping it!<br>Let's finish this quickly!!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Yeah...! It's strange,<br>I've been cutting so many enemies,<br>but the blade's sharpness hasn't dulled at all!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "With this—<br>I can forge and wield as many weapons<br>as I want!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "What does that mean?<br>The source of power for Parallel Weapons,<br>was it energy converted from observation count?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Come to think of it, no matter how many material coins<br>I consume, they don't seem to run out...<br>—[Player]-sama."
     },
     {
@@ -666,13 +666,13 @@
     {
       "type": "character",
       "name": "Notification",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Energy supply exceeds maximum measurable amount.<br>Energy conversion processing is being performed sequentially,<br>please wait."
     },
     {
       "type": "character",
       "name": "Notification",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Estimated observers—<br>Approximately 1 trillion, 215 billion, 182 million people."
     },
     {
@@ -692,31 +692,31 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": ".........<br>It far exceeds the current population<br>of Planet Endaira."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Could it be that through the interstellar network...<br>It's being transmitted to other surviving planets...!?"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Wow, seriously—?!<br>That means we're the center of attention<br>across this entire universe!?"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "N-No wonder the blades never chipped at all.<br>Besides, the numbers are so absurd<br>I can't even imagine it anymore."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "So people from various planets are cheering us on...!<br>Amazing, it's too amazing!!"
     },
     {
@@ -734,7 +734,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "...[Player]-sama is calm.<br>I need to learn from you more."
             }
           ]
@@ -744,25 +744,25 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Indeed, in this state...<br>There seems to be no need to worry about<br>energy or material coin consumption...!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": ".........<br>No, but still, we cannot completely say<br>that we have the upper hand yet."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "The enemy has absorbed the Ether pump.<br>If it restarted inside the monster's body,<br>until it is digested and vanishes—"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It will continue to supply Ether, which has been crystallized into shards, to the monster, meaning energy.<br>As long as that limit is unknown..."
     },
     {
@@ -772,7 +772,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...No, wait.<br>Conversely, if the Ether pump is restarting inside,<br>we might be able to use that too..."
     },
     {
@@ -790,19 +790,19 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Everyone.<br>When the enemy's defense weakens and it begins to recover...<br>There's something I want to try."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It will require a bit of time for coin insertion and chanting...<br>Will that be alright?"
     },
     {
       "type": "character",
       "name": "ID Replica",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "■■■, ■■■!<br>■■■■■!!"
     },
     {
@@ -821,13 +821,13 @@
       {
         "type": "character",
         "name": "Gnomon",
-        "avatar": "./char/gnomon.png",
+        "avatar": "../char/gnomon.png",
         "text": "The light of the core is visible—<br>The Ether pump's reaction is increasing."
       },
       {
         "type": "character",
         "name": "Gnomon",
-        "avatar": "./char/gnomon.png",
+        "avatar": "../char/gnomon.png",
         "text": "I knew it......!<br>The Ether pump is still alive inside that thing!"
       },
       {
@@ -846,67 +846,67 @@
       {
         "type": "character",
         "name": "Gnomon",
-        "avatar": "./char/gnomon.png",
+        "avatar": "../char/gnomon.png",
         "text": "Thank you for waiting, here I go!<br>—Cost 256, Ether pump<br>operation authority obtained, re-login confirmed!"
       },
       {
         "type": "character",
         "name": "Gnomon",
-        "avatar": "./char/gnomon.png",
+        "avatar": "../char/gnomon.png",
         "text": "Command from administrator!<br>Ether pump—<br>All units reverse thrust, maximum duration 60 seconds!"
       },
       {
         "type": "character",
         "name": "Danzo (Travelers)",
-        "avatar": "./char/event_danzo.png",
+        "avatar": "../char/event_danzo.png",
         "text": "Oh......!?<br>Is it really that effective!?<br>That guy's writhing!"
       },
       {
         "type": "character",
         "name": "Hydoor (Travelers)",
-        "avatar": "./char/event_hydoor.png",
+        "avatar": "../char/event_hydoor.png",
         "text": "It seems he was counting on it quite a bit!<br>He's weakened enough to be visibly noticeable!"
       },
       {
         "type": "character",
         "name": "Gnomon",
-        "avatar": "./char/gnomon.png",
+        "avatar": "../char/gnomon.png",
         "text": "—Success!<br>However, did we took too much time...!?<br>The \"rift\" is going to swallow this planet!"
       },
       {
         "type": "character",
         "name": "Hydoor (Travelers)",
-        "avatar": "./char/event_hydoor.png",
+        "avatar": "../char/event_hydoor.png",
         "text": "...No problem at all!!<br>It's just a matter of cutting this guy down right now, isn't it!!"
       },
       {
         "type": "character",
         "name": "Hydoor (Travelers)",
-        "avatar": "./char/event_hydoor.png",
+        "avatar": "../char/event_hydoor.png",
         "text": "All of you, lend me your strength!!<br>And then—follow me!!<br>We'll rush out to the edge of the universe in one go!!"
       },
       {
         "type": "character",
         "name": "Barte",
-        "avatar": "./char/barte.png",
+        "avatar": "../char/barte.png",
         "text": "—Understood, Hydoor!<br>For now, I'll polish your sword... into the best weapon in this universe!!"
       },
       {
         "type": "character",
         "name": "Danzo (Travelers)",
-        "avatar": "./char/event_danzo.png",
+        "avatar": "../char/event_danzo.png",
         "text": "OK, leave it to me, Hydoor!!"
       },
       {
         "type": "character",
         "name": "Danzo (Travelers)",
-        "avatar": "./char/event_danzo.png",
+        "avatar": "../char/event_danzo.png",
         "text": "I'll play so hard my arms feel like they're tearing off!!"
       },
       {
         "type": "character",
         "name": "Gnomon",
-        "avatar": "./char/gnomon.png",
+        "avatar": "../char/gnomon.png",
         "text": "...Please, I'm counting on you all!<br>A future for this universe!!"
       },
       {

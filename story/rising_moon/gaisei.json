@@ -35,7 +35,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": ".........<br>........."
     },
     {
@@ -45,7 +45,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Ah, [Player].<br>What a coincidence, but please, command a battle immediately.<br>This unworthy one has just found a suitable opponent..."
     },
     {
@@ -55,7 +55,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...Ah, it seems I've reached my limit."
     },
     {
@@ -82,7 +82,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...I'm hungry."
     },
     {
@@ -105,7 +105,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...You saved me.<br>I thank you, [Player]."
     },
     {
@@ -133,7 +133,7 @@
             {
               "type": "character",
               "name": "Gaisei",
-              "avatar": "./char/gaisei.png",
+              "avatar": "../char/gaisei.png",
               "text": "I have no intention of leaving the debt unpaid.<br>Anything this unworthy one can do, please feel free to use this body as you wish."
             }
           ]
@@ -143,13 +143,13 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "So, why was I there, you ask?<br>It's a trivial reason, not worth speaking of—"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "No, if I recall your words correctly,<br>conversation also leads to strength, doesn't it?"
     },
     {
@@ -159,19 +159,19 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "This unworthy one no longer has a reason to stay on the moon.<br>I was supposed to return with the Observer, but...<br>it seems there's still some research left."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "I was told to wait without battling anyone.<br>It's unpleasant, but to secure our return trip,<br>I had no choice but to—"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "I was waiting, but then I realized I had no money on me.<br>So I was walking around, wondering what to do."
     },
     {
@@ -194,19 +194,19 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...!!<br>I see, that's an option I hadn't thought of."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "I rarely contacted anyone,<br>so it didn't occur to me at all."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...To converse.<br>This is probably where one should start, I suppose."
     },
     {
@@ -216,19 +216,19 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "This unworthy one is unskilled with words.<br>In the first place, I do not feel<br>the necessity of accomplishing anything using words."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Once, the director of the orphanage<br>where this unworthy one grew up repeatedly said:<br>\"Be strong and kind.\""
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "The director I knew always approached any opponent with dialogue first.<br>...He said it was best if power didn't need to be shown."
     },
     {
@@ -238,19 +238,19 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "However, dialogue almost never went well<br>on this unworthy one's planet."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "—Negotiation, reconciliation, promises.<br>Such things that use words<br>collapse easily before overwhelming power!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Therefore, this unworthy one seeks power.<br>Until my power surpasses all others, and I can demonstrate that power,<br>to me, that is the supreme value."
     },
     {
@@ -269,25 +269,25 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...Yet, [Player],<br>you effortlessly shattered this unworthy one's premise."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "For this unworthy one,<br>it's like a bolt from the blue.<br>To gain further power—"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "I must use words, which I am not good at...<br>and even master something as fragile as relationships."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "My gratitude. [Player].<br>This unworthy one shall aim for even<br>greater heights and refine my own power."
     },
     {
@@ -310,7 +310,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Instruct me, [Player].<br>What should this unworthy one do,<br>and how does one train a relationship?"
     },
     {
@@ -325,7 +325,7 @@
           "dialogue_after_selection": [{
             "type": "character",
             "name": "Gaisei",
-            "avatar": "./char/gaisei.png",
+            "avatar": "../char/gaisei.png",
             "text": "...Understood.<br>However, this unworthy one is not very patient.<br>Please tell me in detail here."
           }]
         },
@@ -334,7 +334,7 @@
           "dialogue_after_selection": [{
             "type": "character",
             "name": "Gaisei",
-            "avatar": "./char/gaisei.png",
+            "avatar": "../char/gaisei.png",
             "text": "...Understood.<br>However, this unworthy one is not very patient.<br>Please tell me in detail here."
           }]
         },
@@ -347,25 +347,25 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "First, get to know the other person, you say.<br>I believe I have already said that about this unworthy one."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...Then that's not enough.<br>However, there isn't much this unworthy one can say."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Since leaving the planet where my orphanage was,<br>refining my power has been this unworthy one's everything."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Battle, training, and then battle once more...<br>For this unworthy one's life, everything else is trivial."
     },
     {
@@ -388,13 +388,13 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Battle and training, and time outside of that, you ask?<br>...I don't do anything in particular."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "For this unworthy one, it is meaningless time;<br>it passes without me realizing it."
     },
     {
@@ -404,13 +404,13 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "[Player], does this truly lead to strength?<br>This unworthy one is bored."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "As I said earlier,<br>this unworthy one is not good with words.<br>Is there no other method?"
     },
     {
@@ -433,7 +433,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "I see, physical contact.<br>...In that case, I have some recollection.<br>Indeed, the orphanage director used to do this..."
     },
     {
@@ -443,7 +443,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...This unworthy one cannot feel much of a difference.<br>Other than that, indeed..."
     },
     {
@@ -466,25 +466,25 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Is this a new method<br>of training relationships?"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "This is... good.<br>It's an unknown sensation,<br>different from the exhilaration of battle."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "As expected of [Player].<br>You always show me precise answers to my desires."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "If I continue this,<br>my power will reach even greater heights.<br>[Player], please transform once..."
     },
     {
@@ -494,7 +494,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": ".........<br>........."
     },
     {
@@ -504,37 +504,37 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "I see.<br>It's a method to strengthen relationships by separating,<br>and then re-establishing physical contact."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "What does this mean, [Player]?<br>The moment I separated from you—"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "An unbearable discomfort ran through this unworthy one's body.<br>...This unworthy one does not know this sensation."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "However, the moment I touched you<br>again like this, that discomfort vanished.<br>I don't know the cause, but—"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Please allow me to stay like this for a while longer.<br>...Even though it's not a battle, I can feel<br>a sense of exhilaration as if I'm receiving your command."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "I just want to engrave this excitement,<br>this joy that's different from battle, into my body."
     },
     {

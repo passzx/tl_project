@@ -6,19 +6,19 @@
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "[Player]-san!<br>With you on my back,<br>I want us to go even further!"
       },
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "I'll speed up a bit, so<br>please put this on just in case!"
       },
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "Of course, I won't<br>drop you into the sea, though."
       },
       {
@@ -32,7 +32,7 @@
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "Ehehe...!<br>Being able to watch fireworks with you like this,<br>I'm incredibly happy...!"
       },
       {

@@ -35,13 +35,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": ".........<br>........."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...Eh, wait.<br>[Player], what are you doing here!?"
     },
     {
@@ -64,13 +64,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...Um, well...<br>I was planning to return after doing<br>some shopping and gathering information, so..."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...By the way,<br>aren't you with the heroes today?"
     },
     {
@@ -82,7 +82,7 @@
             {
               "type": "character",
               "name": "Yotaro",
-              "avatar": "./char/yotaro.png",
+              "avatar": "../char/yotaro.png",
               "text": "I see, considering the recent incident, I can't help but feel it's a bit careless..."
             }
           ]
@@ -93,7 +93,7 @@
             {
               "type": "character",
               "name": "Yotaro",
-              "avatar": "./char/yotaro.png",
+              "avatar": "../char/yotaro.png",
               "text": "I see, considering the recent incident, I can't help but feel it's a bit careless..."
             }
           ]
@@ -104,13 +104,13 @@
             {
               "type": "character",
               "name": "Yotaro",
-              "avatar": "./char/yotaro.png",
+              "avatar": "../char/yotaro.png",
               "text": "I told Gaisei-kun not to get into a fight with anyone, and currently he's on standby in a different location."
             },
             {
               "type": "character",
               "name": "Yotaro",
-              "avatar": "./char/yotaro.png",
+              "avatar": "../char/yotaro.png",
               "text": "Even for minor errands, if we act together, it often results in a battle, so..."
             }
           ]
@@ -120,19 +120,19 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Well, that's fine in its own way.<br>...[Player], if you don't mind,<br>would you give me a bit of your time?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "I had wanted to talk with you a bit more.<br>...It got quite chaotic the other day, after all."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Do you know a place where we can sit and talk?<br>If not, I'll just look for one."
     },
     {
@@ -159,13 +159,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...W-Wait a minute. [Player], this shop...<br>Isn't it a high-class establishment?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "The menu looks quite expensive too—<br>...Eek."
     },
     {
@@ -192,13 +192,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...S-Sorry.<br>The repair costs from the other day just<br>wiped out a large sum of money again."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Sorry, I'm the one who invited you,<br>but today I'm taking you up on your offer instead..."
     },
     {
@@ -208,7 +208,7 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...Delicious.<br>The taste really takes you back.<br>[Player], please have some too."
     },
     {
@@ -224,13 +224,13 @@
             {
               "type": "character",
               "name": "Yotaro",
-              "avatar": "./char/yotaro.png",
+              "avatar": "../char/yotaro.png",
               "text": "Ah, s-sorry. I wasn't thinking at all..."
             },
             {
               "type": "character",
               "name": "Yotaro",
-              "avatar": "./char/yotaro.png",
+              "avatar": "../char/yotaro.png",
               "text": "It was an expensive cake, so I thought it would be wrong for me to eat it alone...!"
             },
             {
@@ -248,31 +248,31 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...I had always wanted to<br>meet and talk to you."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "I wondered what kind of person you were,<br>that Gaisei-kun would be so obsessed."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "So, I intended to observe you during this ceremony.<br>It's like they say, 'seeing is believing'."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "But, after seeing you directly and fighting alongside you,<br>I had no choice but to be convinced."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...You're not just strong.<br>You have a mysterious scent that attracts people."
     },
     {
@@ -291,25 +291,25 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Um... well.<br>It's like knowing the taste of<br>something just by looking at it, I suppose."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "For example, when you see a cake,<br>you instinctively think it's sweet,<br>or if it's a lemon, it's sour, right?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "I think it's close to that.<br>I can tell who someone is, or what state<br>they're in, by their taste and smell."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...What kind of taste and from where,<br>that is a bit too embarrassing to say..."
     },
     {
@@ -328,13 +328,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "It's fine if you don't understand.<br>After all, I can't understand your senses either, [Player]."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "I shared it a little during the battle,<br>but it was a strange feeling."
     },
     {
@@ -344,19 +344,19 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...As I said before,<br>I don't dislike you."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "As fellow \"Observers\",<br>I think there are things<br>we can understand about each other."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "However...<br>I do think you're a bit unfair.<br>You're too blessed with luck."
     },
     {
@@ -366,19 +366,19 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...So, if you had been a bad person,<br>I thought I'd antagonize you, before even meeting you."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Yet... you were the kind of person,<br>who would choose to fight alongside<br>both me and Gaisei-kun."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "You treat others without discrimination,<br>and you even accept to cooperate on operating with me..."
     },
     {
@@ -388,13 +388,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...If I had met you a little earlier,<br>I wonder if I could have chosen a<br>different path as an \"Observer\"."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "—Such a fantasy, now that I'm thinking about it,<br>perhaps that's just how much I'm interested in you."
     },
     {
@@ -404,7 +404,7 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "—Ah, that's right, [Player].<br>Please lend me your hand."
     },
     {
@@ -414,25 +414,25 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...Since I'm a villain,<br>I can't leave you any information."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "However, I will definitely repay you for the cake today.<br>I don't like being in debt myself."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "I want to be your equal.<br>...Until then, please hold onto this."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "It's my favorite,<br>so please don't lose it."
     },
     {
@@ -455,19 +455,19 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Today, we met by chance again,<br>and just for a little while...<br>I'm happy enough to feel that way—"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "The more I think of you,<br>the more I think I like you."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...[Player], the cake was delicious.<br>Next time, it's my turn to treat you."
     },
     {

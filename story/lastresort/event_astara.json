@@ -2,13 +2,13 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "...[Player].<br>I've always...<br>wanted to be like this with you."
   },
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "And, at a deeper level...<br>With you..."
   },
   {

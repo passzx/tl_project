@@ -10,19 +10,19 @@
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "So this is Enoshima~!<br>It was closer than I thought.<br>Let's go to that beach right away!"
     },
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Let's do that!<br>Maybe we'll even meet the heroes<br>who are here for the photoshoot!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Sniffle, sniffle...<br>To think visitors would come<br>from outside the island like this..."
     },
     {
@@ -38,7 +38,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Thank you so much...!<br>This is also thanks to you helping me, [Player]-kun."
             }
           ]
@@ -49,7 +49,7 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Sorry, sorry.<br>As I get older, my tear ducts get loose.<br>But..."
             }
           ]
@@ -59,31 +59,31 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "With this, surely,<br>Enoshima can regain its former glory...!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Thank you, truly...<br>Astar-kun, Yohack-kun.<br>And you, [Player]-kun...!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Saotome-san...<br>I understand how you feel, but<br>if you shout too loudly..."
     },
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Did somebody say the heroes' names?<br>Could it be, those people over there are—"
     },
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Oh, it's true!<br>Isn't that Astar-san and Yohack-san!?"
     },
     {
@@ -93,43 +93,43 @@
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Um...!<br>If it's not too much trouble,<br>could I get an autograph!?"
     },
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "I saw the beach flag! Your figures during the competition<br>were incredibly cool, and<br>I've become a huge fan!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "A-An autograph...?<br>I don't have such value—"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "—Of course, it's fine!<br>Here, Astar-san, please take a pen!<br>Um, where should I sign?"
     },
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "I want you to write both your names<br>big and bold on my shirt!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "What...?<br>They want me to write my name,<br>not \"Santa-san\"...?"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "I see, I completely understand!<br>Then I'll write our autographs<br>perfectly here!"
     },
     {
@@ -139,25 +139,25 @@
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Thank you very much!<br>I'm looking forward to the calendar!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "You're welcome!<br>You two, please enjoy<br>Enoshima to the fullest~!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...Sorry, Yohack.<br>I caused you trouble."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "No, no, don't worry about it!<br>Rather, wasn't I being too nosy...?"
     },
     {
@@ -169,13 +169,13 @@
             {
               "type": "character",
               "name": "Astar",
-              "avatar": "./char/astar.png",
+              "avatar": "../char/astar.png",
               "text": "Hmm...<br>I have \"some\" knowledge when it comes to dealing with people as \"Santa-san\"..."
             },
             {
               "type": "character",
               "name": "Astar",
-              "avatar": "./char/astar.png",
+              "avatar": "../char/astar.png",
               "text": "But when it comes to responding as \"myself\", it's difficult to know how to behave."
             }
           ]
@@ -186,19 +186,19 @@
             {
               "type": "character",
               "name": "Yohack",
-              "avatar": "./char/yohack.png",
+              "avatar": "../char/yohack.png",
               "text": "I'm also secretly nervous, you know?<br>But if I get flustered, the other person would be troubled, so..."
             },
             {
               "type": "character",
               "name": "Yohack",
-              "avatar": "./char/yohack.png",
+              "avatar": "../char/yohack.png",
               "text": "I try my best to respond as cheerfully as possible!"
             },
             {
               "type": "character",
               "name": "Yohack",
-              "avatar": "./char/yohack.png",
+              "avatar": "../char/yohack.png",
               "text": "Even so, I do get overwhelmed quite often...!"
             }
           ]
@@ -212,13 +212,13 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Saotome-san.<br>We need to go to the next place soon..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Oh, that's right!<br>Now that I've left the beach to Kiloc and the others,<br>we need to continue with the calendar production!"
     },
     {
@@ -228,85 +228,85 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Ohh!?<br>Sales of EnoRail tickets<br>are gradually increasing!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "The number of visitors to the beach<br>is also steadily increasing.<br>However..."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "At this number,<br>it might be a bit difficult to handle<br>with the current staff."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "There aren't that many village office staff<br>or village volunteers, so..."
     },
     {
       "type": "character",
       "name": "Alend",
-      "avatar": "./char/alend.png",
+      "avatar": "../char/alend.png",
       "text": "In that case, we'll<br>be in charge of patrolling the beach.<br>That should cover the numbers, right?"
     },
     {
       "type": "character",
       "name": "Senthak",
-      "avatar": "./char/senthak.png",
+      "avatar": "../char/senthak.png",
       "text": "That's a great idea, Alend-kun!<br>Let's have [Player]-kun and the others<br>rest here for a while!"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "That's right!<br>If we're on standby at the beach,<br>I think we can handle any unforeseen circumstances."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "There's no need for that.<br>We'll also handle the beach—"
     },
     {
       "type": "character",
       "name": "Senthak",
-      "avatar": "./char/senthak.png",
+      "avatar": "../char/senthak.png",
       "text": "Now, now, don't say that!<br>Astar-kun, you and the others have been handling<br>the event preparations all along!"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "Yohack-san and [Player]-san<br>have been working non-stop since coming to Enoshima, right?"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "Leave this to us!<br>We also want to repay you for going ahead.<br>Right, Captain!"
     },
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "Th-That's right!<br>Just relax as if you're on a big ship!<br>Yohack, [Player]-chan!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "If Joezen-kun and Kiloc-san<br>say that much,<br>then understood!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Well then,<br>I'll leave the beach<br>to everyone!"
     },
     {
@@ -316,49 +316,49 @@
     {
       "type": "character",
       "name": "Alend",
-      "avatar": "./char/alend.png",
+      "avatar": "../char/alend.png",
       "text": "Even so,<br>to receive this much attention<br>just for being a hero."
     },
     {
       "type": "character",
       "name": "Senthak",
-      "avatar": "./char/senthak.png",
+      "avatar": "../char/senthak.png",
       "text": "It's not just because he's a hero,<br>I think it's just Alend-kun's efforts so far<br>taking visible form!"
     },
     {
       "type": "character",
       "name": "Senthak",
-      "avatar": "./char/senthak.png",
+      "avatar": "../char/senthak.png",
       "text": "If the person you're supporting<br>participates in an event,<br>you'll rush there no matter what!"
     },
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "Hm, wait a minute...?<br>If a lot of fans come<br>specifically for \"us\" (heroes)—"
     },
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "Then there must be people who are infatuated with me.<br>If I cast my line in such a place,<br>it'll be a feeding frenzy...!?"
     },
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "I can't just stand here!<br>The beach, my dream harem!<br>They're calling me! Ehehehe...!"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "—You bastard of a Captain!<br>Don't make foolish plans to slack off,<br>hurry up and go to your post!"
     },
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "Ow, ow, Joezen!!<br>Don't pull your dear father's ear!?"
     },
     {
@@ -368,25 +368,25 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "...Joezen-kun and Kiloc-san told us<br>to rest, but time is limited, you know."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "We can't just rest.<br>There must be more we can do."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Even though attention is gathering on Enoshima,<br>it's relying on hero popularity."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "To grant Saotome's wish,<br>we need to make people feel the charm of<br>Enoshima itself through the event."
     },
     {
@@ -403,7 +403,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "E-Everyone...!<br>You're already working more than enough...!"
     },
     {
@@ -417,13 +417,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "So, um,<br>where are we heading next?"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "According to this tourist map,<br>Enoshima Observatory seems to be the closest."
     },
     {
@@ -440,49 +440,49 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "This is a special map I made<br>for when visitors come to Enoshima!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I compiled Enoshima's photogenic spots<br>into a handmade map!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "On the back of the map,<br>you can stamp it."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "We've set up stamps at each point,<br>so it might be a good idea to collect them."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "I see!<br>So it means you can take commemorative photos<br>while collecting stamps!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "In other words, a stamp rally.<br>Indeed, it might be a rational approach<br>to make an impression of Enoshima."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Right, right!<br>And the closest one from here is<br>just as Astar-kun said—"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Look, there's a slightly<br>unusual building<br>over there, isn't there?"
     },
     {
@@ -492,37 +492,37 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "That dome-shaped building, huh.<br>It stands out quite a lot compared to other houses."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "That's right.<br>It looks more like a base<br>than an observatory."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "You're very perceptive, Yohack-kun!<br>Although it's just an observatory now—"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "It used to be an observation base,<br>the center of Enoshima's development."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Yes. It's a very small inhabited island,<br>so its notoriety is low. It's located just before<br>the Boso Peninsula, where Chiba is."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Among the areas near South Kanto,<br>the damage from monsters was minor, and<br>it once gained fame as an observation base—"
     },
     {
@@ -539,19 +539,19 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...I'll talk about the rest<br>at the observatory, since we're here!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I could explain it verbally, but<br>like they say, seeing is believing!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Saotome-san.<br>You haven't forgotten the contents<br>to explain to them, have you?"
     },
     {
@@ -567,13 +567,13 @@
             {
               "type": "character",
               "name": "Yohack",
-              "avatar": "./char/yohack.png",
+              "avatar": "../char/yohack.png",
               "text": "[Player]-san.<br>If you're tired, I'll carry you on my back to the observatory!"
             },
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Yohack-kun is so energetic...<br>If I carried a small child on my back, my knees would buckle just from that..."
             }
           ]
@@ -584,13 +584,13 @@
             {
               "type": "character",
               "name": "Astar",
-              "avatar": "./char/astar.png",
+              "avatar": "../char/astar.png",
               "text": "—Hmph.<br>Judging by that relaxed expression, those days weren't wasted after all."
             },
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "...Hm?<br>Why is Astar-kun looking so smug?"
             }
           ]
@@ -601,13 +601,13 @@
             {
               "type": "character",
               "name": "Shiratori",
-              "avatar": "./char/shiratori.png",
+              "avatar": "../char/shiratori.png",
               "text": "...You do know a lot.<br>As [Player]-san said, there used to be an escalator."
             },
             {
               "type": "character",
               "name": "Shiratori",
-              "avatar": "./char/shiratori.png",
+              "avatar": "../char/shiratori.png",
               "text": "It was abolished a long time ago because it wasn't profitable in Enoshima, where both visitors and residents were decreasing."
             }
           ]
@@ -625,13 +625,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "As Saotome-san said,<br>there are remnants of an observation base<br>in various places."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Multiple antennas and large PCs, huh.<br>The equipment looks quite professional,<br>what were they observing here?"
     },
     {
@@ -648,43 +648,43 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "[Player]-kun seems to have<br>already guessed it, but..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "This was a frontline base for observing<br>the monsters of South Kanto."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "It was before I was born, but<br>the entire South Kanto region<br>was attacked by monsters."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Fortunately, Enoshima, being an \"isolated island\",<br>barely escaped the monster damage, but..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Someone had to observe where the monsters,<br>who destroyed what was said to be Japan's largest city,<br>would attack next."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Monsters, the largest city...<br>S-So that's what happened."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "If such an incident occurred,<br>it makes sense that a dedicated base would be built."
     },
     {
@@ -708,73 +708,73 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...To get back to the topic, Enoshima at that time<br>was the best possible location for observing<br>the monsters of South Kanto."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "That's why survivors from South Kanto and<br>researchers visiting the observation base gathered,<br>and it gradually grew into a large settlement..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "That's how it is.<br>This is the origin of Enoshima Village,<br>a small municipality incorporated into Chiba Prefecture."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome_b.png",
+      "avatar": "../char/saotome_b.png",
       "text": "When I was young,<br>there were still many people<br>living in Enoshima."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome_b.png",
+      "avatar": "../char/saotome_b.png",
       "text": "Friends from childhood,<br>neighbors who were like family.<br>Colleagues who sweated together at the village office."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome_b.png",
+      "avatar": "../char/saotome_b.png",
       "text": "I never doubted that I would continue<br>to live happily with my comrades in Enoshima."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome_b.png",
+      "avatar": "../char/saotome_b.png",
       "text": "But those days<br>didn't last forever."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome_b.png",
+      "avatar": "../char/saotome_b.png",
       "text": "No matter how much we observed the monsters,<br>they showed no signs of moving outside<br>South Kanto."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome_b.png",
+      "avatar": "../char/saotome_b.png",
       "text": "It was as if they were being drawn<br>towards the direction of Point Yh, the bigwigs<br>at the time said."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Following the survey results,<br>the researchers took the lead, and<br>the islanders gradually decreased."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Although it's dozens of kilometers away, nearby<br>there's also Orient City, a larger frontline base<br>for heroes."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "If the urgency is low,<br>there's no need to stay in Enoshima<br>and continue observing at the frontline."
     },
     {
@@ -795,49 +795,49 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "It's understandable that people think that.<br>In reality, the monster activity<br>has completely calmed down."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "For the islanders at that time,<br>the observation base aspect was<br>Enoshima's advantage."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "If that advantage is lost,<br>it's understandable that they would feel<br>inconvenienced by Enoshima."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...That's right. I can't deny that<br>cities with everything available<br>are easier to live in."
     },
     {
       "type": "character",
       "name": "Saotome's Son",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Hey, Dad.<br>Takeru-kun is moving."
     },
     {
       "type": "character",
       "name": "Saotome's Son",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "I don't like that, Dad.<br>We started talking at school, and recently<br>we've become closer than ever."
     },
     {
       "type": "character",
       "name": "Saotome's Son",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Hey, Dad, please ask them too.<br>Takeru-kun's mom and dad."
     },
     {
       "type": "character",
       "name": "Saotome's Son",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Don't leave Enoshima.<br>Let's stay together forever...!"
     },
     {
@@ -847,37 +847,37 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...Yuto.<br>I understand your feelings very well."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "It's not that your dad<br>doesn't want to stop them."
     },
     {
       "type": "character",
       "name": "Saotome's Son",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "R-Right!<br>Dad thinks so too, right!<br>Then—"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "—But, you know,<br>where and how someone lives<br>is their own freedom."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "If Takeru-kun's parents<br>decided to leave Enoshima,<br>I can't stop them."
     },
     {
       "type": "character",
       "name": "Saotome's Son",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "...........<br>..........."
     },
     {
@@ -895,97 +895,97 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "—So, Yuto. So that you don't feel<br>that lonely in the future,<br>this is what I'm thinking."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Let's make Enoshima a more enjoyable place,<br>a wonderful place where everyone will want to keep living!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I didn't want the place I live in<br>to be thought of as having no future,<br>or being the harbor of boredom."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Especially for the children!<br>I don't think it's something to be happy about<br>if they can't love their hometown."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...I see.<br>For the sake of the children, huh."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "To want to make your hometown more enjoyable,<br>I think that's a wonderful idea!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "The event's start is not bad.<br>If we continue to work diligently,<br>we should achieve corresponding results."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "...And, attention commensurate with the results<br>will gather on this isolated island."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "The revitalization of Enoshima is important, but<br>we cannot neglect preparations for the risks<br>that come with it."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Shiratori-kun, you were worried about<br>the same thing before, weren't you?<br>But, didn't you research it with me at that time?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "There are no examples, at least in Japan,<br>of a large number of monsters appearing due to an increase<br>in tourists from village revitalization..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "This local hero project was carefully<br>planned after thorough research.<br>I'm sure it'll be fine!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Saotome-san and Shiratori-san,<br>you truly care deeply<br>about Enoshima."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...In that case,<br>both must be fulfilled."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "I completely understand!<br>We'll definitely liven up Enoshima..."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "And even if monsters appear,<br>if we work together to defeat them,<br>it'll be a complete solution!"
     },
     {
@@ -1005,7 +1005,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Thank you!<br>Well then, let's start taking pictures<br>and continue with the calendar production—"
     },
     {
@@ -1015,7 +1015,7 @@
     {
       "type": "character",
       "name": "Alend",
-      "avatar": "./char/alend.png",
+      "avatar": "../char/alend.png",
       "text": "[Player], Saotome,<br>can you hear me!?"
     },
     {
@@ -1035,13 +1035,13 @@
     {
       "type": "character",
       "name": "Alend",
-      "avatar": "./char/alend.png",
+      "avatar": "../char/alend.png",
       "text": "It's an emergency.<br>Monsters have appeared on the beach.<br>And not just one or two."
     },
     {
       "type": "character",
       "name": "Senthak",
-      "avatar": "./char/senthak.png",
+      "avatar": "../char/senthak.png",
       "text": "We're trying to defeat them,<br>but there are too many...<br>It's getting a bit tough!"
     },
     {
@@ -1051,13 +1051,13 @@
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "I'm worried about the village too, but<br>we can't leave the beach right now<br>with evacuation guidance and monster subjugation!"
     },
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "There's no guarantee monsters won't appear there!<br>[Player]-chan and the others,<br>please handle the village!"
     },
     {
@@ -1081,13 +1081,13 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "N-No way...<br>To think such a number of monsters<br>would appear at once..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I certainly researched it!<br>The safety of this project, that village revitalization<br>would not be detrimental to Enoshima Village—"
     },
     {
@@ -1097,19 +1097,19 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "...Enoshima has never gathered<br>this much approval before.<br>At least, not in my memory."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "I hope this excitement<br>doesn't provoke the monsters..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Given Enoshima's local characteristics,<br>history proves that monsters tend to appear<br>a little more often."
     },
     {
@@ -1119,43 +1119,43 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Oh no...! If only I had taken<br>Shiratori-kun's words more seriously...!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Saotome-san... No.<br>With only the information we had,<br>we couldn't have predicted this situation."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Calm down, Saotome.<br>What you should be doing now<br>is not regretting or reflecting."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "While we're standing here,<br>Enoshima Village might be<br>under attack by monsters."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "All we can do now is<br>do our best with what we have."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Astar-san is right.<br>The places where monsters tend to appear,<br>and the areas that are dangerous without evacuation..."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "No one knows them better<br>than you yourself, Saotome-san."
     },
     {
@@ -1172,13 +1172,13 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Enoshima...<br>Protect it from monsters..."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Saotome-san.<br>Can you stand?"
     },
     {
@@ -1188,49 +1188,49 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Th-That's right.<br>If I just hang my head here,<br>it won't solve anything..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Everyone...<br>I'm sorry, but please lend me your strength."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Please, help me<br>protect Enoshima..."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Of course.<br>Now, let's hurry, Saotome."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "If we combine our strengths,<br>I'm sure we can manage!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Perhaps Enoshiman-san<br>has already gone ahead!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Th-That's right.<br>Enoshiman will surely<br>come running too."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Believing that,<br>let's hurry to the village too."
     },
     {
@@ -1244,13 +1244,13 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Everyone are truly heroes.<br>No matter what difficulties you face,<br>you stand up and face forward the next moment."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Truly...<br>You are strong and kind people."
     },
     {
@@ -1271,7 +1271,7 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "...[Player]-san.<br>You are truly as kind as they are."
     },
     {
@@ -1289,25 +1289,25 @@
     {
       "type": "character",
       "name": "Monsters",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Zuzuzu...!"
     },
     {
       "type": "character",
       "name": "Islander",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Wh-What's going on...!?<br>To think so many monsters would appear...!"
     },
     {
       "type": "character",
       "name": "Islander",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "They've even appeared outside the village!<br>At this rate, there's nowhere to run!"
     },
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Wait a minute!<br>Is Enoshima Village<br>this dangerous!?"
     },
     {
@@ -1332,19 +1332,19 @@
     {
       "type": "character",
       "name": "Island Kid",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Help me!<br>Enoshiman!!"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Hah-hah-hah!<br>As long as there are calls for help,<br>I will always appear—"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Th-That voice!?"
     },
     {
@@ -1354,7 +1354,7 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "—Local hero<br>Enoshiman, has arrived!"
     },
     {
@@ -1374,43 +1374,43 @@
     {
       "type": "character",
       "name": "Island Kid",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Enoshiman!<br>Thank you for helping us!"
     },
     {
       "type": "character",
       "name": "Island Kid",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Since Enoshiman came,<br>everything will be alright now!"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Hah-hah-hah!<br>No need for thanks,<br>as long as I am the local hero!"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "More importantly, you all,<br>do you remember our promise?"
     },
     {
       "type": "character",
       "name": "Island Kid",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "When Enoshiman fights—"
     },
     {
       "type": "character",
       "name": "Island Kid",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Take one step back and cheer!"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Very good!<br>Now, let's defeat the monsters!"
     },
     {
@@ -1420,7 +1420,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Sorry, everyone...!<br>Please help Enoshiman...!"
     },
     {
@@ -1440,25 +1440,25 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Of course!<br>We won't let Enoshiman-san<br>fight alone!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...Let's do it, [Player].<br>We must teach these monsters who are<br>getting too carried away a lesson."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Yohack-kun, Astar-kun!<br>And you, [Player]-kun!<br>Thank you for your assistance!"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Now, let's repel the monsters together!<br>If we combine our strengths,<br>victory surely awaits!"
     },
     {
@@ -1478,13 +1478,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Understood, [Player]-san!<br>Please handle the operation!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "I'll deal with the immediate threat.<br>—Here I come!"
     },
     {
@@ -1494,19 +1494,19 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "—Tch.<br>They're tough."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "We must have defeated quite a few already,<br>but they show no signs of calming down!?"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "These monsters this time<br>seem quite formidable...!"
     },
     {
@@ -1520,25 +1520,25 @@
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "The monster is...!<br>The monster is coming this way!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "I'm coming to help now!"
     },
     {
       "type": "character",
       "name": "Island Kid",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "I'm scared!<br>Help me!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "It's alright.<br>Hide behind me!"
     },
     {
@@ -1556,7 +1556,7 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "At this rate, we'll be worn down!<br>We have to do something—"
     },
     {
@@ -1584,13 +1584,13 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Leave it to me!<br>[Player]!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Thanks for the instructions!<br>At this distance—!"
     },
     {
@@ -1604,7 +1604,7 @@
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "It's no use...!<br>If we don't run, we'll be killed!"
     },
     {
@@ -1628,7 +1628,7 @@
     {
       "type": "character",
       "name": "Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Zuzuzu...!"
     },
     {
@@ -1638,13 +1638,13 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Tch!<br>They surrounded us, huh!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "We have to somehow<br>block the monster's attack...!"
     },
     {
@@ -1662,7 +1662,7 @@
     {
       "type": "character",
       "name": "Both",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Ugh!"
     },
     {
@@ -1672,25 +1672,25 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Astar-kun!<br>Yohack-kun!<br>Are you two alright!?"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...Of course.<br>I'm not one to give up with this much."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "I can still do it!<br>Until we properly protect<br>the people of Enoshima!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "You two...!<br>You're so battered...!"
     },
     {
@@ -1700,7 +1700,7 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Just as I thought...<br>You \"heroes\" would so easily...<br>If it's to protect someone!"
     },
     {
@@ -1724,13 +1724,13 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "This cannot be allowed.<br>This must not happen.<br>Should heroes be harmed—"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "—That alone,<br>I absolutely cannot forgive."
     },
     {
@@ -1744,19 +1744,19 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Against several matured monsters.<br>In front of them, the children and Saotome-kun."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "And,<br>the heroes who protected them<br>are already badly injured."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "A miraculous move that can break<br>this situation is...!"
     },
     {
@@ -1774,13 +1774,13 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "...I see.<br>It seems this is all<br>I have left."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "—As long as I am<br>\"Enoshiman\"."
     },
     {
@@ -1790,13 +1790,13 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "—Astar-kun, Yohack-kun!<br>From here on, leave everything to me!"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "These monsters,<br>I, the local hero of Enoshima,<br>will eliminate them with everything I have!"
     },
     {
@@ -1820,49 +1820,49 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Yohack-kun.<br>I sincerely respect your kindness and positivity."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "You are not ignorant of pain,<br>but a hero with the strength to endure it.<br>Fighting alongside you, I truly felt that."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Enoshiman...-san...?<br>What on earth are you doing...?"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Astar-kun.<br>Your unwavering will and strong body<br>are surely the fruits of tireless effort."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "I am proud to have fought alongside you,<br>who possess a will to push forward towards your goal<br>and an unshakeable conviction."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Enoshiman...!<br>You... no way...!"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "—And protecting Enoshima is<br>my mission as the local hero!"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "You who came to Enoshima<br>are naturally included among<br>those I must protect!"
     },
     {
@@ -1872,19 +1872,19 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "...[Player]-kun.<br>I want to ask you for an operation."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "You, who perfectly handled your job<br>even in a sudden battle,<br>will surely be able to observe my technique."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Come on!<br>Pour your ViewPower into me!"
     },
     {
@@ -1905,7 +1905,7 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "I knew you'd say that, [Player]-kun."
     }
           ]
@@ -1916,13 +1916,13 @@
             {
               "type": "character",
               "name": "Enoshiman",
-              "avatar": "./char/enoshiman.png",
+              "avatar": "../char/enoshiman.png",
               "text": "Time is of the essence.<br>At this rate, someone will surely be sacrificed."
             },
             {
               "type": "character",
               "name": "Enoshiman",
-              "avatar": "./char/enoshiman.png",
+              "avatar": "../char/enoshiman.png",
               "text": "To prevent that, I need your strength.<br>Please, understand."
             }
           ]
@@ -1933,13 +1933,13 @@
             {
               "type": "character",
               "name": "Enoshiman",
-              "avatar": "./char/enoshiman.png",
+              "avatar": "../char/enoshiman.png",
               "text": "Time is of the essence.<br>At this rate, someone will surely be sacrificed."
             },
             {
               "type": "character",
               "name": "Enoshiman",
-              "avatar": "./char/enoshiman.png",
+              "avatar": "../char/enoshiman.png",
               "text": "To prevent that, I need your strength.<br>Please, understand."
             }
           ]
@@ -1963,13 +1963,13 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "—[Player]-kun.<br>It was truly reassuring to have you<br>operating beside me."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Thank you very much for fighting<br>with me until now."
     },
     {
@@ -1979,19 +1979,19 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "To harm the people of Enoshima,<br>and the heroes any further—"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "I, Enoshiman, will not allow it!<br>Now, take this—!!"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Enoshiman<br>Final Blade!!!"
     },
     {
@@ -2005,19 +2005,19 @@
     {
       "type": "character",
       "name": "Tourist",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "We...<br>were saved...?"
     },
     {
       "type": "character",
       "name": "Island Kid",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Yay!<br>Enoshiman defeated the monsters!"
     },
     {
       "type": "character",
       "name": "Saotome's Son",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "...But,<br>where is Enoshiman?"
     },
     {
@@ -2027,7 +2027,7 @@
     {
       "type": "character",
       "name": "Mobile Device",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Connection lost.<br>Cannot continue target operation."
     },
     {
@@ -2048,13 +2048,13 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "N-No way...<br>Enoshiman, along with the monsters..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Am I having<br>a bad dream...?"
     },
     {
@@ -2068,7 +2068,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "It's my...!<br>It's all my fault...!"
     },
     {

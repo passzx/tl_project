@@ -6,7 +6,7 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "...Gh!<br>Monsters are gathering<br>outside again."
     },
     {
@@ -20,7 +20,7 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "...No, there are people in need of rescue nearby.<br>Should I engage in close combat and<br>distance the monsters?"
     },
     {
@@ -30,13 +30,13 @@
     {
       "type": "character",
       "name": "Flamier",
-      "avatar": "./char/flamier.png",
+      "avatar": "../char/flamier.png",
       "text": "-Excuse me!<br>Please watch out for the surrounding blast waves!"
     },
     {
       "type": "character",
       "name": "Flamier",
-      "avatar": "./char/flamier.png",
+      "avatar": "../char/flamier.png",
       "text": "Now, bloom beautifully-!<br>-\"Chain Explosion\", Happy♡Flower Time!!"
     },
     {
@@ -46,55 +46,55 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "-What!?<br>T-The monsters were blown away...!?"
     },
     {
       "type": "character",
       "name": "Flamier",
-      "avatar": "./char/flamier.png",
+      "avatar": "../char/flamier.png",
       "text": "...Andrew!<br>There are still some of them left!"
     },
     {
       "type": "character",
       "name": "Andrew",
-      "avatar": "./char/andrew.png",
+      "avatar": "../char/andrew.png",
       "text": "Understood, My Lady!<br>Leave the rest to me."
     },
     {
       "type": "character",
       "name": "Andrew",
-      "avatar": "./char/andrew.png",
+      "avatar": "../char/andrew.png",
       "text": "I'll hold them back even if it means<br>of using my body as a shield!<br>-\"Transformation\", Gemini's Decider!!"
     },
     {
       "type": "character",
       "name": "Yoshiori",
-      "avatar": "./char/yoshiori.png",
+      "avatar": "../char/yoshiori.png",
       "text": "I'm pretty used to it now, but still,<br>that young lady's Parallel Weapon<br>is beyond flashy..."
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/subaru.png",
+      "avatar": "../char/subaru.png",
       "text": "...The power is unbelievable for what seems to be a flashy technique.<br>It seems all the surrounding monsters<br>have been swept away."
     },
     {
       "type": "character",
       "name": "Flamier",
-      "avatar": "./char/flamier.png",
+      "avatar": "../char/flamier.png",
       "text": "I am honored by your praise. However,<br>it's difficult to adjust if it's not an open space.<br>I'll guard the outside, alright?"
     },
     {
       "type": "character",
       "name": "Ryekie",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "It's the same for me! If I use a powerful technique indoors,<br>I might electrocute the surroundings!<br>Let's guard the outside together!!"
     },
     {
       "type": "character",
       "name": "Sui",
-      "avatar": "./char/sui.png",
+      "avatar": "../char/sui.png",
       "text": "Then, I'll be guarding the entrance-<br>Oh! Isn't that person... Denebola-san!?"
     },
     {
@@ -104,73 +104,73 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Ah, ah!<br>You're the ones [Player]<br>was talking to!"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Thanks for the support, I appreciate it.<br>As you already know, I'm Denebola."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Nice to meet you, Denebola-san.<br>I've heard about you from<br>[Player]-kun."
     },
     {
       "type": "character",
       "name": "Mokdai",
-      "avatar": "./char/mokdai.png",
+      "avatar": "../char/mokdai.png",
       "text": "We'd like to introduce ourselves first,<br>but rescue is the priority now."
     },
     {
       "type": "character",
       "name": "Mokdai",
-      "avatar": "./char/mokdai.png",
+      "avatar": "../char/mokdai.png",
       "text": "Denebola-san, are those people behind you<br>the people you've rescued from inside the monsters?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Ah, yes. They're still unconscious.<br>I've confirmed they're not injured,<br>but I want to transport them to a place where they can rest quietly."
     },
     {
       "type": "character",
       "name": "Mokdai",
-      "avatar": "./char/mokdai.png",
+      "avatar": "../char/mokdai.png",
       "text": "Understood. In that case,<br>we need to transport them to<br>where the medical heroes are."
     },
     {
       "type": "character",
       "name": "Akashi",
-      "avatar": "./char/akashi.png",
+      "avatar": "../char/akashi.png",
       "text": "Alright, Mokdai and I will carry them.<br>Denebola-san, please stay and share your information with them.<br>I'll introduce myself properly when I get back!"
     },
     {
       "type": "character",
       "name": "Monomasa",
-      "avatar": "./char/monomasa.png",
+      "avatar": "../char/monomasa.png",
       "text": "If it's an escort, we'll need manpower,<br>so I'll lend a hand too.<br>Melide... I'll be right back."
     },
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "Yes, understood.<br>Please, Monomasa."
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "Then I'll help with the outside operation. <br>Yoshiori-kun, stay with Melide."
     },
     {
       "type": "character",
       "name": "Yoshiori",
-      "avatar": "./char/yoshiori.png",
+      "avatar": "../char/yoshiori.png",
       "text": "Understood, Exio-san!<br>Leave this side to me!"
     },
     {
@@ -184,37 +184,37 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "...Such efficiency.<br>Is this what real heroes are like?"
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "Hahaha, you'll probably join our ranks soon, won't you?<br>I was watching your movements from the observation seats."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Eh, i-is that so!?<br>I've been running around without being able to transform at all<br>since the exam started, but..."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "This exam has turned into quite a commotion.<br>But, you'll surely get your license!"
     },
     {
       "type": "character",
       "name": "Sui",
-      "avatar": "./char/sui.png",
+      "avatar": "../char/sui.png",
       "text": "By the way, both of you,<br>I'm a little curious..."
     },
     {
       "type": "character",
       "name": "Sui",
-      "avatar": "./char/sui.png",
+      "avatar": "../char/sui.png",
       "text": "Those machine parts lying there,<br>it looks out of place, but did those<br>also come out of the monsters?"
     },
     {
@@ -224,31 +224,31 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Ah, no, those belong to Orbiter.<br>They're parts of a small spaceship, apparently.<br>Yes, let's talk about that too."
     },
     {
       "type": "character",
       "name": "Andrew",
-      "avatar": "./char/andrew.png",
+      "avatar": "../char/andrew.png",
       "text": "...This is Orbiter's spaceship's...<br>I see, you were with them."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Ah. With him, I, Pubraseer, and [Player]<br>were acting as a group of four."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "And, plus two extra villains."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "...Hm?<br>Hey, you said you are Denebola, right?<br>I have a part like that too."
     },
     {
@@ -258,19 +258,19 @@
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/subaru.png",
+      "avatar": "../char/subaru.png",
       "text": "Ah, that was the object caught on the tree, right?<br>Thinking about it again, you wouldn't intentionally<br>throw something like that in such a place."
     },
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "...I recognize it too.<br>Could this part that<br>I have also belong with them?"
     },
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "In the end, I couldn't even deliver it to the police box...<br>The owner must be nearby, then."
     },
     {
@@ -284,25 +284,25 @@
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "It's small, but this is the engine.<br>And, the seat and the rudder.<br>Melide's looks like a foldable shield..."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "There seem to be some missing<br>parts and screws here and there, but...<br>It looks like we can manage with what we have."
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/subaru.png",
+      "avatar": "../char/subaru.png",
       "text": "You said this was a small spaceship?<br>It's like a folding bicycle.<br>Why is there such a thing...?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Ah, to explain from the beginning,<br>when I and [Player] met-"
     },
     {
@@ -316,25 +316,25 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "...I see.<br>So, [Player] and the others<br>went up to the upper floor."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Ah, [Player] said that the main body<br>of the monsters should be somewhere<br>up there."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Surely, they were tracking its presence<br>with their \"Observer\"'s observation ability."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "-Everyone, breaking news!<br>I got a message from [Player]!"
     },
     {
@@ -344,37 +344,37 @@
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "...It seems they've reached the control room<br>that handles the warp system."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "I even received the warp logs from the system.<br>I'm curious how they extracted such specialized information, but-"
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "Currently, [Player] and the others are in the control area<br>of the Ether Reactor, beyond the control room."
     },
     {
       "type": "character",
       "name": "Sui",
-      "avatar": "./char/sui.png",
+      "avatar": "../char/sui.png",
       "text": "Ether Reactor...?<br>That's the facility that converts Ether into energy, right?"
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "Ah, that's right.<br>It's the colony's lifeblood."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "...And the main body of the monsters<br>is apparently there."
     },
     {
@@ -384,85 +384,85 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Are you serious...?<br>If anything happens to that,<br>it's more than just a big deal."
     },
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "Yoshiori-niichan.<br>If the Ether Reactor were to break-"
     },
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "What would happen to the Archimedes Colony?"
     },
     {
       "type": "character",
       "name": "Yoshiori",
-      "avatar": "./char/yoshiori.png",
+      "avatar": "../char/yoshiori.png",
       "text": "...At the very least, if it exploded,<br>humans wouldn't be able to live<br>in the colony."
     },
     {
       "type": "character",
       "name": "Yoshiori",
-      "avatar": "./char/yoshiori.png",
+      "avatar": "../char/yoshiori.png",
       "text": "Besides, it's such a massive energy source.<br>If a huge explosion were to occur, it wouldn't be strange if<br>the entire surrounding area is blown away..."
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/subaru.png",
+      "avatar": "../char/subaru.png",
       "text": "The ceiling covering the colony is<br>resistant to external impacts, but<br>it's the same for the inside-"
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/subaru.png",
+      "avatar": "../char/subaru.png",
       "text": "Conversely, it means there's no way to dissipate<br>damage generated internally to the outside."
     },
     {
       "type": "character",
       "name": "Andrew",
-      "avatar": "./char/andrew.png",
+      "avatar": "../char/andrew.png",
       "text": "It means there's a high possibility<br>of extensive damage."
     },
     {
       "type": "character",
       "name": "Andrew",
-      "avatar": "./char/andrew.png",
+      "avatar": "../char/andrew.png",
       "text": "I'll immediately inform My Lady outside!<br>-Everyone, can you gather up!?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "\"My Lady\"...?<br>Wasn't that the fireworks person from earlier?<br>Why is her name coming up here...?"
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Flamier R. Astridam, affiliated with Heroic Educators.<br>She is the Chairman of Archimedes Corp.,<br>which bears the colony's name- her daughter."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Meaning, she's the VIP of VIPs<br>in this colony."
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "............<br>...Huh?"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Haaaaaaah...!?"
     },
     {
@@ -476,7 +476,7 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "-Captain, Gaisei!<br>Be careful, the monsters are<br>leaping at you!"
     },
     {
@@ -494,13 +494,13 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Understood!<br>[Player], send<br>ViewPower to me!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I'll deploy a field that's easy to fight in!<br>-\"Adventure\"! Gravity Well!!"
     },
     {
@@ -514,25 +514,25 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Deploying a favorable battlefield for oneself,<br>a technique focused on support.<br>Indeed, very interesting."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Gaisei-kun, let's take down the enemies in front of us first!<br>I'll send you ViewPower!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Very well. If the enemy tries to crush me with sheer numbers,<br>then I shall show them a power that surpasses theirs."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "I shall slice through all the enemies...!<br>-\"Battle Blade\"<br>Demon's Claw of Destruction, First Form!"
     },
     {
@@ -542,7 +542,7 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "[Player], let's aim for where Gaisei's<br>blade can't reach.<br>Leave the enemies in the back to me!"
     },
     {
@@ -564,13 +564,13 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...You monsters who devour the future,<br>not a single one shall escape!"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Come, my friends!<br>-\"Polaris\", Pénte Anamniseis!!"
     },
     {
@@ -584,7 +584,7 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...This is strange.<br>[Player], look."
     },
     {
@@ -594,13 +594,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "The monsters that were coming towards us<br>are now heading deeper-<br>towards the Ether Reactor."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...You're right.<br>Their attacks seem to have completely stopped."
     },
     {
@@ -614,13 +614,13 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Showing one's back during combat is not amusing.<br>It just shows a lack of strength."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...However, if these monsters<br>become an obstacle to my battle with [Player]-dono-"
     },
     {
@@ -630,25 +630,25 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "-Wait, Gaisei-kun.<br>The situation with those monsters and the reactor...<br>It's probably much worse than you can imagine."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...\"Observer.\"<br>What does that mean?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Look closely. I thought the monsters were just<br>biting the reactor, but the smell is strange."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "The reactor's smell is getting more and more<br>mixed into them... they're assimilating.<br>It's like a \"complete fusion.\""
     },
     {
@@ -665,43 +665,43 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Yes, the boundary seems to be getting<br>more and more ambiguous..."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "The reactor currently being predated<br>upon looks very unstable.<br>If we carelessly attack the monsters-"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "There's a high possibility that<br>the reactor will explode."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "The reactor will explode...!?<br>If that happens, we too...!"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Besides, even without considering the reactor,<br>if the monsters are gathering, they'll mature, right?"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...Ah, that's a plausible scenario.<br>Once they become adults, they'll be able to<br>physically interfere with this universe."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "If that happens, they'll become uncontrollable.<br>The \"Pillar of Light\" won't be safe either."
     },
     {
@@ -711,13 +711,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "I'm starting to understand the situation.<br>I have one more thing I'm curious about, though..."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "[Player], don't you feel a strange<br>sensation in the flow of Ether around here?"
     },
     {
@@ -739,49 +739,49 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...Moving Ether?<br>What does that mean?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "We, as \"Observers,\" can<br>consciously perceive the flow of Ether."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Naturally occurring Ether<br>flows gently and slowly, but-"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Around here, it's flowing as if it's<br>being sucked into that reactor."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Is that so?<br>It's certainly strange, to be able to<br>feel the sensation of something invisible."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "This is a sensation that only<br>an \"Observer\" would understand."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Even so, today,<br>the Ether was moving strangely,<br>just like a whirlpool-"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "This place is even stranger.<br>Is it because of the reactor that<br>it's like this...?"
     },
     {
@@ -817,19 +817,19 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Heh, that's amazing!<br>[Player] can move the surrounding Ether!"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "I see, so that's how it is.<br>............"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...Eh, wait.<br>What does that mean?<br>You can move Ether...?"
     },
     {
@@ -849,25 +849,25 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...I-I see?<br>Is this what Gaisei-kun calls<br>\"exceptional\"...?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Understood, it's an urgent situation now,<br>so I'll just swallow everything and<br>understand it that way for now."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "That's what I think,<br>but [Player], your power to swirl Ether,<br>and the reactor's suction power-"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Those two powers are making the flow of Ether<br>around here strange... is that it?"
     },
     {
@@ -877,25 +877,25 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...So what?<br>In the end, the goal of defeating monsters<br>hasn't changed."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "No matter what happens to the Ether,<br>we just have to defeat the monsters quickly."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Gaisei-kun, like I said earlier,<br>if we provoke them carelessly, there's a possibility of us<br>dealing catastrophic damage to the reactor."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "They're so densely packed around the reactor,<br>so how do you plan to defeat only the monsters?"
     },
     {
@@ -909,13 +909,13 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...It seems, from what I can tell,<br>there's not much time left<br>until they fully mature."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...Hey, [Player]. What you just said means<br>that we need to defeat the monsters,<br>but we can't destroy the reactor, right?"
     },
     {
@@ -936,31 +936,31 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...Hmm, then,<br>I'll ask \"the person in my heart\"<br>if there's any way."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "\"The person in my heart\"...?<br>Orbiter, what do you mean by that?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "It's hard to explain, but...<br>If I call out to \"the person in my heart\"<br>and ask them questions, they will teach me many things."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "They have the same name as me,<br>they're also called \"Orbiter\"."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I even learned how to build a<br>small spaceship from them!<br>...Just a moment, alright?"
     },
     {
@@ -970,13 +970,13 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "『Yoo-hoo, Orbiter!』<br>I want to know how to defeat<br>the monsters without destroying the reactor."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": ".........<br>........."
     },
     {
@@ -986,37 +986,37 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "-Yeah, I asked.<br>It's...<br>You guys didn't hear anything, right?"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Nothing to this unworthy one's ears.<br>Were you really talking<br>to someone?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I'm telling the truth!<br>They really taught me properly."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Uhm... switch the reactor to emergency power, right?<br>Then, transport the reactor into space-"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "And there, destroy the monsters' core.<br>That way, we can retrieve the reactor later, he said."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "He said we could use the maintenance elevator<br>that leads to space to transport the reactor."
     },
     {
@@ -1026,49 +1026,49 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...I-Indeed.<br>With that method, even in the worst case,<br>an explosion within the colony can be prevented."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "R-Right...<br>In a dire emergency, we can defeat the monsters<br>along with the reactor in outer space."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "But if we destroy the reactor,<br>the energy supply from the Ether<br>will also temporarily stop."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "At the very least, people won't<br>be able to live in the Archimedes Colony,<br>will they?"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "However, given enough time,<br>it's possible to prepare a new reactor<br>and rebuild it."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "If it's a choice between life and death,<br>we should not hesitate."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "No matter what,<br>we must make choices<br>that allow us to survive."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...Life or death, huh?<br>............"
     },
     {
@@ -1092,7 +1092,7 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Ah... that's right.<br>The fate of the colony depends on it.<br>We cannot make a hasty decision."
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "-I see.<br>I understand, thank you,<br>[Player]-kun."
     },
     {
@@ -1134,55 +1134,55 @@
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/subaru.png",
+      "avatar": "../char/subaru.png",
       "text": "The monsters are being drawn into<br>the Ether of the reactor, and assimilating themselves...<br>Is that right?"
     },
     {
       "type": "character",
       "name": "Subaru",
-      "avatar": "./char/subaru.png",
+      "avatar": "../char/subaru.png",
       "text": "It was a similar situation<br>when we met [Player]-san and the others,<br>wasn't it?"
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "These monsters, too, must be drawn<br>to the reactor's Ether, right?"
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "...Indeed. We would like to send<br>support members immediately from here,<br>but that alone won't solve the problem."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "But, the split bodies are also<br>coming towards the entrance."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Even now, Sui, Justice,<br>and Yoshiori are fighting outside, but-"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "If we don't crush them here,<br>they'll head towards [Player] and the others, right?"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "From what I can tell about the state of the monsters' main body,<br>it seems there's no time to launch the elevator<br>after regrouping with everyone."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...If we don't act quickly,<br>the damage will likely be greater."
     },
     {
@@ -1192,13 +1192,13 @@
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "-[Player]-kun.<br>Regarding what we just discussed, I have one question."
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "About the Ether flow, is the Ether \"only\"<br>being drawn towards the reactor?"
     },
     {
@@ -1220,73 +1220,73 @@
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "...I see.<br>Were there any other anomalies?<br>Could you tell me in detail?"
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "That reactor seems to have functions to convert<br>absorbed Ether into energy, and to return it to<br>the atmosphere to maintain a constant concentration."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...What's wrong?<br>If that function is working normally,<br>it seems that there shouldn't be a problem..."
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "...It's the opposite, that is the strange thing.<br>I can understand that the reactor<br>has a mechanism to absorb Ether."
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "However, if the Ether is being devoured by the monsters,<br>that flow should be interrupted there."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...Eh, the monsters consume Ether?"
     },
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "Yes, that's right.<br>That's why monsters seem to be<br>drawn to Ether."
     },
     {
       "type": "character",
       "name": "Melide",
-      "avatar": "./char/melide.png",
+      "avatar": "../char/melide.png",
       "text": "Exio-sama, in that case,<br>what state is that reactor in now...?"
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "If [Player]-kun's senses are correct, and the Ether flow<br>hasn't ceased from where it was devoured-"
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "Then the monsters there<br>also possesses the properties<br>of a reactor."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Monsters, also possessing the properties of a reactor...?<br>What kind of situation is that?"
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "It seems the reactor and the monsters have<br>started to transition into a \"superimposed state.\""
     },
     {
@@ -1296,31 +1296,31 @@
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "-A vast amount of Ether and monsters,<br>as beings from a parallel universe,<br>are highly compatible."
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "Because they can have their existence<br>in this universe reinforced by Ether."
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "And, the monsters-<br>Ether bodies in a superimposed state<br>can influence each other."
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "In other words, if you destroy the monsters' core,<br>the reactor will also be destroyed.<br>It would be impossible to destroy only one or the other."
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "...It's a very rare phenomenon,<br>but I've encountered monsters in a similar state before."
     },
     {
@@ -1337,31 +1337,31 @@
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "...Sorry, thinking isn't my forte,<br>but does that mean that to protect the colony,<br>if we defeat the monsters-"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "The reactor will be destroyed at the same time,<br>and we won't be able to live in this colony anymore,<br>is that correct?"
     },
     {
       "type": "character",
       "name": "Exio",
-      "avatar": "./char/exio.png",
+      "avatar": "../char/exio.png",
       "text": "............<br>Yes, that's correct."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...Hey, [Player].<br>If the reactor explodes in space,<br>the Ether will scatter too, right?"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "If monsters are drawn to Ether,<br>wouldn't that also be dangerous...?"
     },
     {
@@ -1379,25 +1379,25 @@
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "Right.<br>The Ether concentration around the colony will increase,<br>and it's highly likely to attract monsters."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "...And, in the previous plan,<br>you were going to go into space and<br>confront the monsters there, right?"
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "If the reactor explodes,<br>you, who are fighting nearby,<br>...wouldn't make it out unscathed."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "...It concerns your lives.<br>I-I cannot permit that..."
     },
     {
@@ -1419,13 +1419,13 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "...[Player]-kun.<br>No, I cannot allow you all<br>to face such danger."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "............<br>President Huckle, if I may."
     },
     {
@@ -1435,37 +1435,37 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "I too, feel the same way as you.<br>I cannot agree to send<br>my friends to their death."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...However, we are heroes.<br>If everyone's lives are at stake,<br>I... want to do what I can."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "At first, both [Player] and I,<br>everyone, were just caught up in this-"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "But now, we are here by our own will,<br>to defeat the monsters."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "-Please, could you put your trust in us with hope?<br>We promise to return alive, no matter what."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Pubraseer-san...<br>............<br>...Understood."
     },
     {
@@ -1475,19 +1475,19 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "...In that case, until the very last moment,<br>let's prevent the reactor from exploding,<br>and search for a way to defeat the monsters."
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "The lives of the people living in the colony,<br>and their livelihoods. And [Player] and the others,<br>who are facing this battle-"
     },
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "You will search for an option that doesn't involve<br>giving up on any of them until the very last moment.<br>You'll promise me that, won't you?"
     },
     {
@@ -1504,7 +1504,7 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "...Thank you, [Player]-kun.<br>Of course, we will also search for that method."
     },
     {
@@ -1514,49 +1514,49 @@
     {
       "type": "character",
       "name": "Flamier",
-      "avatar": "./char/flamier.png",
+      "avatar": "../char/flamier.png",
       "text": "...Understood.<br>Everyone, as the representative of the colony,<br>I also ask this of you."
     },
     {
       "type": "character",
       "name": "Flamier",
-      "avatar": "./char/flamier.png",
+      "avatar": "../char/flamier.png",
       "text": "I have also contacted my father,<br>and we are asking the citizens<br>to evacuate to nearby colonies as quickly as possible."
     },
     {
       "type": "character",
       "name": "Andrew",
-      "avatar": "./char/andrew.png",
+      "avatar": "../char/andrew.png",
       "text": "Orbiter, you're safe.<br>I was worried about you."
     },
     {
       "type": "character",
       "name": "Flamier",
-      "avatar": "./char/flamier.png",
+      "avatar": "../char/flamier.png",
       "text": "...Orbiter-san, you suddenly disappeared,<br>so I was very surprised, but-"
     },
     {
       "type": "character",
       "name": "Flamier",
-      "avatar": "./char/flamier.png",
+      "avatar": "../char/flamier.png",
       "text": "I'm relieved to see you well.<br>...Please, do not get injured."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...Flamier, Andrew.<br>I'm sorry for disappearing without a word..."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...Uhm.<br>Apologizing now isn't enough, is it?<br>When I return, I'll definitely let you scold me!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I'll apologize properly there.<br>I'll definitely return with [Player] and Captain!"
     },
     {
@@ -1566,7 +1566,7 @@
     {
       "type": "character",
       "name": "Andrew",
-      "avatar": "./char/andrew.png",
+      "avatar": "../char/andrew.png",
       "text": "...[Player]-san.<br>With Orbiter by your side, please,<br>I ask you to take care of him."
     },
     {
@@ -1576,25 +1576,25 @@
     {
       "type": "character",
       "name": "Huckle",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "Since that's settled,<br>there's no time to hesitate.<br>Everyone, let's move immediately!"
     },
     {
       "type": "character",
       "name": "Denebola",
-      "avatar": "./char/denebola.png",
+      "avatar": "../char/denebola.png",
       "text": "Understood, [Player].<br>I'll stop the split bodies<br>from heading to your location."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "Ah, I'm not really good at giving up either,<br>so leave the thinking to me.<br>[Player], be careful."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "If I find anything, no matter where you are in space,<br>I'll definitely deliver it right away.<br>-With this!"
     },
     {
@@ -1604,25 +1604,25 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Ah, my spaceship!<br>All the parts are there...!"
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "Ah, you're Orbiter, right?<br>I know it's something important to you,<br>but I'm borrowing it for a bit."
     },
     {
       "type": "character",
       "name": "Crowne",
-      "avatar": "./char/crowne.png",
+      "avatar": "../char/crowne.png",
       "text": "In return,<br>I'll repair it properly."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Yay-!<br>Thank you, Crowne!"
     },
     {
@@ -1636,37 +1636,37 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...Are we done?<br>I can't battle, and those monsters<br>show no sign of attacking."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "This unworthy one is bored.<br>What will you do now?"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "There's no time to be bored, Gaisei.<br>The monsters are surely approaching maturity."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "You might have heard,<br>but if we defeat those monsters,<br>the reactor will also be destroyed at the same time."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "If we don't find a solution,<br>...there won't be a future waiting for us."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "-Future, huh?<br>The only thing this unworthy one<br>seeks in the future is strength."
     },
     {
@@ -1683,19 +1683,19 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...Oh, [Player]-dono.<br>Are you interested in this unworthy one?"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "However, if I may be so bold,<br>it's a trivial and boring reason.<br>It's not worth talking about."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "-No, Gaisei.<br>Could you tell me your story?<br>Why do you seek strength?"
     },
     {
@@ -1705,19 +1705,19 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...But, is that alright?<br>The monsters will soon mature."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "At this time, chatting...<br>I don't think we have time for that."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Th-That's right, Captain.<br>Now we can wait for the elevator,<br>but there are monsters right in front of us...!"
     },
     {
@@ -1731,49 +1731,49 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...It's precisely because we are in imminent danger,<br>we must become one \"team\"."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "...We are a team.<br>............"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Us, who are scattered ourselves,<br>can only exert individual power, but if we<br>become a team, it's a different story."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "The strength of a team<br>far exceeds that of individuals."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "For each person to deepen their understanding<br>of each other, and cooperate- that is what I believe to be<br>the way to escape this predicament."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...Hoh, a power that surpasses individual strength,<br>a greater power, you say?<br>Fascinating, I'm interested."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...Right, I'm also interested in people who start<br>introducing themselves seriously in this situation.<br>It's what you call \"unprecedented.\""
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Hahaha, that's fine.<br>I'm also interested in you. So, tell me again,<br>about yourselves, won't you?"
     },
     {
@@ -1783,13 +1783,13 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...Very well.<br>You also possess true strength.<br>Just like [Player]-dono."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "If this unworthy one's insignificant<br>story of the past leads to strength,<br>then I shall tell it."
     },
     {
@@ -1799,25 +1799,25 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei_b.png",
+      "avatar": "../char/gaisei_b.png",
       "text": "-In a word, a world of constant resource scarcity,<br> and survival of the fittest.<br>That is the planet where this unworthy one was born."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei_b.png",
+      "avatar": "../char/gaisei_b.png",
       "text": "This unworthy one was raised in an orphanage.<br>This unworthy one's techniques were learned as martial arts<br>for self-defense from the director when he was young."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei_b.png",
+      "avatar": "../char/gaisei_b.png",
       "text": "Learning the director's teachings, this unworthy one dedicated himself to training.<br>It was when the martial arts had finally settled into this unworthy one's body."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei_b.png",
+      "avatar": "../char/gaisei_b.png",
       "text": "One day, while this unworthy one was away training,<br>rioters seeking food broke into the orphanage."
     },
     {
@@ -1827,13 +1827,13 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...The director used to say, as if it were a habit,<br>\"Be strong and kind.\"<br>He repeated it many times."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "However, the result was-<br>a tragedy where everyone except this unworthy one<br>lay prostrate on the ground."
     },
     {
@@ -1850,31 +1850,31 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "C-Could it be,<br>Gaisei's friends too..."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "This unworthy one's strength was insufficient to protect them.<br>The director's teachings were too \"weak\" for survival."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "He learned that those who do not<br>possess the strength from honing their skills<br>have no reason to live."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "To master technique and stand at the pinnacle of strength.<br>That is all that is necessary to survive in this world."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "-If a serpent appears on that path,<br>this unworthy one will become a demon,<br>even if it means crossing countless corpses."
     },
     {
@@ -1884,49 +1884,49 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Let's return to the main topic.<br>This unworthy one, having lost his home,<br>wandered from star to star-"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "One day, when he visited Earth,<br>he met an \"Observer\" there."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...You cherished the people<br>at the orphanage, didn't you?"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "The pain of losing friends or loved ones,<br>...I understand that too.<br>And the emptiness that remains afterwards."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "..............."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...So that's what happened.<br>I didn't know that either."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...There's no particular need to elaborate.<br>However, if it leads to strength,<br>then that's a different story."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...Understood.<br>Then, it's my turn, I suppose.<br>I'm not enthusiastic about disclosing information, but..."
     },
     {
@@ -1936,25 +1936,25 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Shortly before I met Gaisei-kun,<br>my \"Observer\" abilities went berserk."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "The first time I encountered a monster,<br>my observation power reacted much stronger than before-"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...For me, the power of observation is<br>strongly felt as taste and smell.<br>It's like I can taste and smell what I see."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Monsters taste very unpleasant.<br>Like the scent of blood or something rotten... <br>It was so intense that I lost control."
     },
     {
@@ -1971,13 +1971,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "It's probably something like that.<br>I haven't compared my own abilities<br>with anyone else either."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "At that time, my relatives and everyone around me<br>suddenly found out that I was an \"Observer.\" "
     },
     {
@@ -1987,31 +1987,31 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro_b.png",
+      "avatar": "../char/yotaro_b.png",
       "text": "...[Player], you might understand yourself.<br>The circumstances of an \"Observer\"'s existence."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro_b.png",
+      "avatar": "../char/yotaro_b.png",
       "text": "My surroundings then were very<br>much exclusively \"against Observers\".<br>So, I panicked and fled."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro_b.png",
+      "avatar": "../char/yotaro_b.png",
       "text": "I was stuck, unable to return home,<br>and after deliberating for a few days,<br>I met Gaisei-kun, who was fighting a villain."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...Well, as things happened, I transformed him,<br>and now we're being pursued as villains, I guess."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Since we became villains anyway,<br>we're doing it properly, and that brings us to the present.<br>It's like \"if you eat the poison, you might as well eat the plate.\""
     },
     {
@@ -2032,19 +2032,19 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Thank you, both of you.<br>I was able to learn a little about you."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Yes, I was a little surprised too.<br>...We haven't really delved into<br>each other's pasts much."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...That's right.<br>However, the main topic starts here.<br>-Pubraseer-dono."
     },
     {
@@ -2054,7 +2054,7 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Now what do you say has changed?<br>Do you truly believe this will lead to strength?"
     },
     {
@@ -2095,7 +2095,7 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "U-Understood.<br>Alright, here I go, Gaisei-kun."
     },
     {
@@ -2105,25 +2105,25 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...I-Indeed.<br>It was just a little, but there was some change!<br>I guess you could say the \"resolution\" increased."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "The taste and smell are a little clearer than before...<br>I can understand them better than usual."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Oh...<br>Indeed, my body feels a little lighter<br>than with previous transformations."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Heh, hehehe... Splendid!<br>Is this... what you call<br>the power of a team...!?"
     },
     {
@@ -2133,31 +2133,31 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "-Getting to know each other<br>is the first step as a team."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "If we understand each other better,<br>we'll be able to adapt flexibly to emergencies.<br>That will become our weapon."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...And, Orbiter.<br>Thanks to you bravely<br>telling us your secret-"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "That has led to the creation of our new team.<br>Thank you, you're a valuable member of us too."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Eh, me?<br>...Ehehe, really?<br>Captain praised me!"
     },
     {
@@ -2191,79 +2191,79 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "This suit is very thin and decent, isn't it?<br>It doesn't hinder my body movements either."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Hmm, then it shouldn't affect the battle.<br>...This is quite the impressive technology."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "-Everyone, final check.<br>The elevator will ascend<br>to the colony's ceiling."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Just before we reach the ceiling,<br>Gaisei, please destroy the elevator's end device."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "If that is done successfully,<br>the elevator will not stop,<br>and will directly launch into space."
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...Understood.<br>No matter how strong it is,<br>this unworthy one will slice it."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "It depends on your skill, so I'm counting on you.<br>Once we're in the elevator, until then,<br>please brace yourselves, no matter what happens."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "No matter how many monsters appear,<br>even if the monsters' main body<br>becomes a complete adult, right?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Until it's outside the colony,<br>we'll keep the monsters contained<br>inside the elevator, right?"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "That's right, once we're in space,<br>we'll have to search for the monsters' main body's<br>weakness in an unstable environment."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "I'll deploy a gravity field<br>on the elevator's foothold,<br>so we can stand, right!?"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Ah, Orbiter.<br>I want to ask you to do<br>something only you can do."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "And, whether there's a way to break<br>through the \"superimposed state\"...<br>Please observe the monsters carefully."
     },
     {
@@ -2280,13 +2280,13 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Ah, let us believe in that.<br>...Because, we've promised everyone!"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...But, if that method isn't found,<br>and the worst-case scenario occurs-"
     },
     {
@@ -2296,7 +2296,7 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "-Under my responsibility and judgment,<br>I will destroy the reactor myself.<br>...At that time, leave it to me."
     },
     {
@@ -2306,19 +2306,19 @@
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "-Finally, it's time.<br>Captain, the reactor's detachment is ready!"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...Ah, so there were no problems.<br>Once you switch to emergency power,<br>immediately transfer the reactor to the elevator."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Yeah, then all you have to do is push the button.<br>I asked the \"person in my heart\",<br>so the procedure is fine!"
     },
     {
@@ -2328,61 +2328,61 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Now, our resolve is firm.<br>-Everyone, are you ready?"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "...No way, when we intruded into the venue,<br>I never imagined it would come to this-"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "We shall do it!<br>It's not just like \"being in the same boat\".<br>It's also like \"sharing the same fate\"!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "-[Player]-dono.<br>Is this very profound understanding of each other,<br>the secret to your true strength?"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "...Ah, it's getting enjoyable!<br>This unworthy one, though impertinent,<br>cannot suppress his excitement...!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "I want to test this power as soon as possible.<br>...Come now, let us proceed!<br>Here I come, \"Observer\"."
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "It's alright, Gaisei-kun.<br>It seems we'll be able to fight the monsters soon."
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Oh, still the same, huh.<br>Those two are amazing...<br>Alright, I'm ready too!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "-Astronauts, no matter how dangerous it is,<br>are always with Captain!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Captain, [Player]!<br>Let's definitely defeat the monsters!!"
     },
     {
@@ -2407,7 +2407,7 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "-Alright, all preparations are complete.<br>Now, when all is said and done...<br>We just need to safely return to this place!"
     },
     {
@@ -2421,13 +2421,13 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "-Thank you, everyone.<br>...Now, it's time to depart.<br>Let's go, [Player]!"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "It's the beginning of a new journey with my new comrades...<br>-So let's definitely bring back a victory,<br>where we shall give up on nothing!!"
     },
     {
@@ -2442,25 +2442,25 @@
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "Ah, the feast has finally begun!<br>Please ensure this unworthy one's techniques!<br>Please don't break so easily...!"
     },
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Gaisei-kun, please don't forget your objective, alright!?<br>Remember to break the terminal once we are at the ceiling!"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Listen up, everyone!<br>Until we leave the colony, do<br>whatever you can to hold back the monsters!"
     },
     {
       "type": "character",
       "name": "Orbiter",
-      "avatar": "./char/orbiter.png",
+      "avatar": "../char/orbiter.png",
       "text": "Roger, Captain!<br>Alright, [Player], I'll be<br>relying on you for the operation!"
     },
     {
@@ -2470,13 +2470,13 @@
     {
       "type": "character",
       "name": "Yotaro",
-      "avatar": "./char/yotaro.png",
+      "avatar": "../char/yotaro.png",
       "text": "Now's the time, Gaisei-kun!<br>Destroy the terminal device!"
     },
     {
       "type": "character",
       "name": "Gaisei",
-      "avatar": "./char/gaisei.png",
+      "avatar": "../char/gaisei.png",
       "text": "-Understood.<br>Send me your ViewPower, \"Observer\".<br>I'll finish it in an instant...!"
     }
   ]

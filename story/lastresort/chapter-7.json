@@ -2,7 +2,7 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Hello, Shiratori-kun.<br>You're able to walk already!"
     },
     {
@@ -16,67 +16,67 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori_b.png",
+      "avatar": "../char/shiratori_b.png",
       "text": "Enoshiman-san.<br>Thank you very much for saving<br>me from the monsters."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori_b.png",
+      "avatar": "../char/shiratori_b.png",
       "text": "And, I'm sorry.<br>I couldn't properly thank you<br>the other day..."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Hah-hah-hah!<br>You don't need to worry about such things.<br>Just seeing you well is enough for me."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Also, you don't need to use \"-san\".<br>Just call me \"Enoshiman\",<br>like everyone else in Enoshima!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori_b.png",
+      "avatar": "../char/shiratori_b.png",
       "text": "Understood.<br>Uh, Enoshiman..."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Hah-hah, that's the spirit!<br>...By the way, Shiratori-kun.<br>Have you gotten used to life in Enoshima?"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori_b.png",
+      "avatar": "../char/shiratori_b.png",
       "text": "Yes, thanks to you...<br>It's a peaceful and wonderful place here.<br>The islanders have been kind to me too."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori_b.png",
+      "avatar": "../char/shiratori_b.png",
       "text": "I've also found a place to live.<br>Saotome-san from the village<br>office helped me find it."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori_b.png",
+      "avatar": "../char/shiratori_b.png",
       "text": "He said, \"There are plenty of vacant properties<br>to choose from!\" and showed me many places.<br>I got a little tired from all the walking, though."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Hah-hah-hah!<br>That's just like Saotome-kun!<br>I can picture it perfectly."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "It's good that you found a house, of course,<br>but it's also good that your expression<br>has regained some of its cheerfulness!"
     },
     {
@@ -94,13 +94,13 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "—Oh, it's time.<br>I should return to my patrol soon.<br>See you again, Shiratori-kun."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "If a monster appears, don't hesitate to call me!<br>I'll protect you no matter how many times it takes!<br>Hah-hah-hah!!"
     },
     {
@@ -122,55 +122,55 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Starting today, Shiratori-kun<br>will be working with us at the village<br>office as a part-timer!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Everyone, please welcome him<br>with your warm applause!"
     },
     {
       "type": "character",
       "name": "Office Staff",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Of course we'd welcome you, Shiratori!<br>We're always short-staffed here!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Hey, hey!?<br>Don't surprise him on his first day, alright!?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "It's true there's a lot to do,<br>but you're still recovering.<br>Don't overdo it, and rely on us!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Thank you, Saotome-san.<br>...I'm Shiratori, as introduced."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "To not waste the life<br>Enoshiman saved..."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "And to repay the kindness of Enoshima<br>for accepting me, who lost my hometown,<br>I will do my best, even if my life's on the line."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Wahahaha!<br>Your enthusiasm is admirable, but<br>you don't need to be so stressed!"
     },
     {
@@ -192,19 +192,19 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Well then,<br>I'm off to patrol again today."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Ohh, thank you.<br>Be careful on your way!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "When you get back,<br>how about some whitebait soft serve?<br>It's my treat, of course!"
     },
     {
@@ -218,13 +218,13 @@
     {
       "type": "character",
       "name": "Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gyaooooooh!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Ugh...!"
     },
     {
@@ -242,7 +242,7 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "I see...<br>Am I going to die here after all...?"
     },
     {
@@ -260,13 +260,13 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "If I'm going to die anyway...<br>At least..."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "—You aren't dying today!<br>I promised to protect you, didn't I?"
     },
     {
@@ -276,25 +276,25 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "—Enoshiman!<br>Y-You came... but,<br>hurry... please escape too!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "I've never seen such a giant monster before!<br>I don't think even you can defeat it..."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "...Shiratori-kun, I appreciate your concern,<br>but what would happen to Enoshima<br>if I were to run away here?"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "I can't let the people of Enoshima<br>be attacked by monsters!<br>That, of course, includes you!"
     },
     {
@@ -304,25 +304,25 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Enoshiman...<br>For someone like me...<br>Why would you go this far...!?"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Of course I would!<br>Shiratori-kun, you have always helped me by even<br>becoming a village office staff member yourself."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Thanks to you taking the<br>initiative to patrol the island,<br>I was able to save the children."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "If I can't risk my life for you,<br>how can I call myself a local hero?"
     },
     {
@@ -340,7 +340,7 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "More than my own...<br>I need you to be safe..."
     },
     {
@@ -350,13 +350,13 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "No way...!<br>Enoshiman...!?"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Don't mess with me!<br>Enoshiman...!<br>Give me back Enoshiman!!"
     },
     {
@@ -378,13 +378,13 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Damn it...!<br>I've lost another important person to me...!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "I can't even save the person right in<br>front of me, and my miserable self got away alone...!<br>And again..."
     },
     {
@@ -394,19 +394,19 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "It's all my fault.<br>If I hadn't come to Enoshima...!"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Enoshiman wouldn't have died<br>protecting someone useless like me."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "If Enoshiman were alive,<br>I wouldn't care what happened to me...!"
     },
     {
@@ -416,13 +416,13 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "That's right...<br>It's wrong for a useless person like<br>me to survive and for Enoshiman to die."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "I can never forgive that.<br>Therefore, I will correct that mistake.<br>I will revive Enoshiman...!"
     },
     {
@@ -448,19 +448,19 @@
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "It hasn't gone that far yet!<br>At this distance, we might be able to catch up<br>with our Parallel Weapons...!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "—No, we \"have\" to catch up!<br>Let's go, [Player]-san!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "[Player]!<br>Let's show them<br>our stubbornness."
     },
     {
@@ -480,7 +480,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...[Player]-kun.<br>Please take me with you.<br>I beg you, please!"
     },
     {
@@ -490,19 +490,19 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Even if we catch up to EnoRail,<br>we'll then have to stop EnoRail itself!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I can stop EnoRail.<br>How to use the emergency brake,<br>it's even written in the manual for emergencies!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Most of all, I don't want to burden<br>everyone any further.<br>Please, let me accompany you!"
     },
     {
@@ -526,25 +526,25 @@
     {
       "type": "character",
       "name": "Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Giiiiiih!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Whoa!?<br>Monsters at a time like this!?"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "We can't ignore them, of course.<br>However, we must pursue EnoRail<br>immediately..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Oh no...!<br>Time is of the essence, and yet...!"
     },
     {
@@ -564,13 +564,13 @@
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "—Go!<br>You have to stop that train, right!?"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "We'll take care of things here!<br>[Player] and the others,<br>please chase the train!!"
     },
     {
@@ -580,31 +580,31 @@
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Kiloc-san!<br>And you too, Joezen-kun!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Ohh!?<br>As expected of Estevolta's local heroes!<br>You came at the perfect time!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "...Thank you.<br>But what are you doing here?"
     },
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "Alend asked us to!<br>He said our help<br>would surely be needed!"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "This is a critical situation, isn't it!?<br>Hurry, before it's too late!!"
     },
     {
@@ -621,25 +621,25 @@
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "We can't waste the time<br>Kiloc and Joezen bought us.<br>—Let's hurry too."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Saotome-san,<br>please ride behind me!<br>I'll definitely take you to EnoRail!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Understood!<br>I might be quite heavy, but<br>I'm counting on you, Yohack-kun!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "...[Player].<br>Please ride my board.<br>Let's go stop EnoRail together."
     },
     {
@@ -656,7 +656,7 @@
     {
       "type": "character",
       "name": "Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Guooooooh!"
     },
     {
@@ -666,7 +666,7 @@
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "\"Advance\"!<br>Stin Irémi Thálatta!<br>You can't just have your way so easily!"
     },
     {
@@ -676,25 +676,25 @@
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "...Now's our chance!<br>While the Captain is holding back<br>the monsters, I'll send you all off!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Send us off...?<br>What do you mean by that,<br>Joezen-kun...?"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "—This is what I meant!<br>Be careful not to bite your tongue!"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "\"Advance\"!<br>Diadromí se Aithría!<br>Brace yourselves for tailwinds and high waves!"
     },
     {
@@ -704,25 +704,25 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Whoa!?<br>Wh-What a tremendous gust of wind!?"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Saotome-san, you'd already know this,<br>but Joezen-kun's Parallel Weapon<br>can interfere with the weather!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "I see.<br>High waves heading offshore, huh.<br>Perfect for chasing the train."
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "...[Player], match my breathing.<br>I shall ride this wave."
     },
     {
@@ -742,7 +742,7 @@
             {
               "type": "character",
               "name": "Astar (Last Resort)",
-              "avatar": "./char/event_astar.png",
+              "avatar": "../char/event_astar.png",
               "text": "It's alright, [Player].<br>I have no intention of putting you in danger.<br>Please trust me."
             }
           ]
@@ -753,7 +753,7 @@
             {
               "type": "character",
               "name": "Astar (Last Resort)",
-              "avatar": "./char/event_astar.png",
+              "avatar": "../char/event_astar.png",
               "text": "It's alright, [Player].<br>I have no intention of putting you in danger.<br>Please trust me."
             }
           ]
@@ -764,7 +764,7 @@
             {
               "type": "character",
               "name": "Astar (Last Resort)",
-              "avatar": "./char/event_astar.png",
+              "avatar": "../char/event_astar.png",
               "text": "Don't let your guard down, [Player].<br>However, to not flinch even at this speed, that might be just like you..."
             }
           ]
@@ -774,13 +774,13 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "If it weren't for this situation, I'd be able to feel<br>the sea and wind of Enoshima to the fullest, and<br>laugh, saying how refreshing it is..."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Let's bring back the fun Enoshima<br>with our own hands, Saotome-san.<br>Now, let's catch up to the train—!!"
     },
     {
@@ -794,7 +794,7 @@
     {
       "type": "character",
       "name": "Man in the Shadows?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "—I see.<br>You've come after all."
     },
     {
@@ -804,13 +804,13 @@
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Shiratori...<br>So you were alive after all."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "I'm incredibly happy<br>that you are alive, Shiratori-san, but..."
     },
     {
@@ -831,49 +831,49 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Shiratori-kun...?<br>You're alive...!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "But why are you moving EnoRail?<br>And what happened to that appearance of yours?<br>\"Like a hero\"—"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "As [Player]-kun said,<br>are you Enoshiman after all?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "But if so, why are<br>you in a different suit...?"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "To pretend to be Enoshiman,<br>and try to correct the mistake<br>of losing that person—"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Someone the likes of me<br>could never do it."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "And at that time, watching the<br>heroes get hurt with my own eyes..."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "I finally realized my wish.<br>What I truly wanted to protect was...!"
     },
     {
@@ -883,19 +883,19 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "If our suits and our Parallel Weapons<br>are the embodiment of our wishes..."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Don't you think it's only natural<br>for a hero suit to change into a form<br>befitting one's true wish?"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Most of all...<br>Someone like me can't possibly be Enoshiman.<br>The real Enoshiman is much more...!"
     },
     {
@@ -905,49 +905,49 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "—Don't come any closer.<br>I don't want to fight you all."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "That's why, I started EnoRail<br>from Enoshima Station, and yet..."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "You'd acquire your new forms<br>and still chase after me...!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "...Shiratori.<br>I don't know what your objective is,<br>but stop the train immediately."
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "You should know it yourself.<br>This train supports Enoshima's very livelihood."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "The safety of the tracks<br>hasn't been confirmed yet."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "If it keeps running like this,<br>it might derail and sink.<br>If that happens, Enoshima too—"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "That would be convenient.<br>After all, I'm running this train<br>to destroy Enoshima itself."
     },
     {
@@ -964,7 +964,7 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "...This is what I mean!"
     },
     {
@@ -978,13 +978,13 @@
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Whoa!<br>These waves...!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "[Player]!<br>Grab onto me!"
     },
     {
@@ -994,13 +994,13 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "I will sink this train into the sea,<br>and free the heroes from Enoshima!<br>I would appreciate it if you didn't interfere."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "This is my final warning.<br>If you still choose to pursue me, I will show<br>no mercy, even if you are my opponents."
     },
     {
@@ -1010,31 +1010,31 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Shiratori-kun, the one who protected Enoshima<br>as Enoshiman, is now destroying Enoshima...?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "What on earth<br>is happening...?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Shiratori-kun is not the kind of person<br>to do something like this...<br>And that appearance...!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "...To ask Shiratori-san that, and to stop him,<br>we have no choice but to chase after him now!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Yohack is right.<br>Whatever Shiratori is planning,<br>we cannot let him destroy EnoRail."
     },
     {
@@ -1058,13 +1058,13 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "You're still pursuing me, are you?<br>You truly are—"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "It can't be helped.<br>It will be too rough a method,<br>but I will shake you off!"
     },
     {
@@ -1074,7 +1074,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Whoa!?<br>Now it's a head-on wave!?"
     },
     {
@@ -1084,19 +1084,19 @@
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Saotome-san!<br>I'm going to speed up a bit, so<br>hold on tight!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Whoaah!?<br>This speed is incredible!?"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "[Player], let's synchronize!<br>We'll cut through the waves and reach<br>the other side!"
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "As expected of true heroes.<br>This much won't even slow you down, huh.<br>—However!"
     },
     {
@@ -1130,13 +1130,13 @@
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Ugh...!<br>At this rate, my speed will..."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "It's alright,<br>Astar-san, [Player]-san!<br>I'll guide everyone!"
     },
     {
@@ -1146,13 +1146,13 @@
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Full throttle!<br>Everyone, brace for impact!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "\"Unlock\"!<br>Omnes Exitus!"
     },
     {
@@ -1166,7 +1166,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Whoaah!?<br>What is it this time!?"
     },
     {
@@ -1183,25 +1183,25 @@
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "[Player]!<br>I'll open a breakthrough!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Yohack!<br>No matter the means!<br>Throw me forward!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "U-Understood!<br>Astar-san!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "—How about<br>this!"
     },
     {
@@ -1211,13 +1211,13 @@
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Waves of this degree<br>will not stop our advance!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "\"Blessing\"!<br>Sommer Lächeln!"
     },
     {
@@ -1239,61 +1239,61 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "—To break though so easily.<br>So this is what a true hero is..."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Even so, I<br>cannot give up."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...Shiratori-kun.<br>Can't you stop the train no matter what?<br>Do we really have to fight?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "You, who once protected Enoshima as a local hero,<br>why are you trying to destroy Enoshima now...!?"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Saotome.<br>He's already made up his mind.<br>Further questioning is meaningless..."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "...Astar-san.<br>I want to hear the reason.<br>From Shiratori-san's own words."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "It might have been a short time,<br>but we worked hard together<br>for village revitalization, didn't we?"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "And yet,<br>if we can't avoid fighting,<br>at least, tell us the reason...!"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "—A world where kind people fight monsters,<br>and are the first to get hurt."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Don't you think that<br>such a world is wrong?"
     },
     {
@@ -1310,37 +1310,37 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "...To protect ordinary citizens, some people<br>are the first to jump into danger.<br>That's what heroes are."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Such kind people, always sacrificing<br>themselves to stand on the front lines,<br>and then get hurt and fall."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "I cannot believe in the<br>righteousness of such a world."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Shiratori-kun..."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "[Player]-san.<br>Isn't it precisely because you think so<br>that you're here on the battlefield?"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "To fight alongside heroes,<br>and to take on even a little of<br>the heroes' suffering."
     },
     {
@@ -1364,85 +1364,85 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Think about it.<br>This isolated island, so close to South Kanto,<br>is by no means a safe place."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Because there are people clinging to such a place,<br>heroes get hurt protecting them.<br>I have witnessed that firsthand."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Yohack-kun!<br>Astar-kun!<br>Are you two alright!?"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "...Of course.<br>I'm not one to give up with this much."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "I can still do it!<br>Until we properly protect<br>the people of Enoshima!"
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Just as I thought.<br>You \"heroes\" would so easily...<br>if it's to protect someone!"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "I realized.<br>The wish I truly wanted to fulfill was not<br>to inherit Enoshiman's will—"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "But to protect kind people like Enoshiman...<br>To protect you heroes."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "That's why I decided to<br>free the heroes from Enoshima."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "If I sink EnoRail, which supports Enoshima,<br>to the bottom of the sea,<br>life on this island will become unsustainable."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "If I continue to accelerate like this,<br>EnoRail will derail before long.<br>And then, everything will end."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Wait!<br>Shiratori-san, if you do that,<br>you will also plunge into the sea...!"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": ".........<br>...No.<br>I should have done this sooner."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "If so,<br>I wouldn't have invited you<br>all to Enoshima, and hurt you."
     },
     {
@@ -1452,7 +1452,7 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "—Anonymous.<br>Lend me your strength."
     },
     {
@@ -1462,19 +1462,19 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Please forgive me.<br>I must free the heroes,<br>even if it means fighting you all!"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Otherwise,<br>a second Enoshiman will appear someday,<br>and eventually fall prey to monsters!"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "I will not let such a<br>mistake be repeated once again!"
     },
     {
@@ -1492,13 +1492,13 @@
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Ugh...!<br>What power...!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "At this rate,<br>we'll be thrown off...!"
     },
     {
@@ -1526,19 +1526,19 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Am I again<br>unable to do anything?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Just like that time,<br>can I only be protected<br>by the heroes?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "—No!<br>I didn't come here to be protected.<br>This time, I must protect everyone!"
     },
     {
@@ -1555,19 +1555,19 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Please, [Player]-kun...<br>I want to help everyone..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "[Player]-kun,<br>Astar-kun, Yohack-kun...!<br>And—"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Enoshiman—<br>I want to save Shiratori-kun!"
     },
     {
@@ -1577,7 +1577,7 @@
     {
       "type": "character",
       "name": "Mobile Device",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "New path detected.<br>Target: Saotome<br>Strength: Very Strong"
     },
     {
@@ -1597,7 +1597,7 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "This is the end!<br>Oooooooh!!"
     },
     {
@@ -1607,19 +1607,19 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "If I can lure them outside the village,<br>it'll be a bit easier to fight!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I can't just stand by<br>and watch you all get hurt<br>anymore!"
     },
     {
       "type": "character",
       "name": "Mobile Device",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Connect to path?<br>To start operation,<br>tap \"OK\"."
     },
     {
@@ -1633,7 +1633,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I won't let you!<br>This time, I will protect everyone!"
     },
     {
@@ -1643,19 +1643,19 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "No way...!<br>You...!?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I'm done relying on others!<br>From now on, I will protect the heroes...<br>and Enoshima with my own hands!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "\"Reconstruct\"!<br>Yesterday Once More!"
     },
     {
@@ -1665,25 +1665,25 @@
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Th-This light is...!<br>A warm power...!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Saotome-san...!<br>[Player]-san...<br>Your wish...!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Everyone...<br>Thank you very much for protecting<br>this unreliable me until now...!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "But I'm no longer just someone who's protected!<br>From now on, I'll fight alongside you!"
     },
     {
@@ -1697,61 +1697,61 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Saotome-san.<br>Is that the form of your dream...!?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "That's right.<br>It's the form of my dream, who has always<br>watched Enoshiman protect Enoshima."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "With this flag and shield,<br>I will protect everyone, and Enoshima.<br>...Including you, Shiratori-kun."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "...You too are saying the<br>same thing as Enoshiman."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "You aren't a fake like I am,<br>but you are wearing a true hero suit."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "...But, even so, I will<br>persue the path that I believe in!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "[Player]-san.<br>This time, let's stop Shiratori-san."
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "We can definitely do it.<br>Stopping vehicles is our specialty."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Yohack-kun, Astar-kun.<br>And [Player]-kun."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I want to stop Shiratori-kun.<br>So, please fight with me!"
     },
     {
@@ -1771,7 +1771,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Thank you...!<br>I will definitely protect everyone!"
     },
     {
@@ -1786,43 +1786,43 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "After passing through this tunnel,<br>there's a gentle curve!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "At this speed, let alone the usual speed,<br>we can't make the turn!<br>Shiratori-kun's aim is probably there!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "We have to defeat Shiratori-kun<br>and stop EnoRail before then!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Understood, Saotome-san!<br>Let's fight together!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "To protect Enoshima,<br>and to save Shiratori-san...!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Of course. Since we've been entrusted with<br>Enoshiman by the children of Enoshima,<br>we cannot break that promise."
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "...[Player].<br>I'm counting on your operation."
     },
     {
@@ -1832,19 +1832,19 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "You're still formidable, aren't you?<br>So this is the power of a true hero...!"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "And, [Player]-san's power to<br>refuse leaving a hero by themselves...!"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "—However, even so,<br>I cannot lose this battle!"
     },
     {
@@ -1854,7 +1854,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Ugh...!<br>We've entered the underwater tunnel.<br>There's, no time left...!"
     },
     {
@@ -1867,31 +1867,31 @@
             {
               "type": "character",
               "name": "Yohack (Last Resort)",
-              "avatar": "./char/event_yohack.png",
+              "avatar": "../char/event_yohack.png",
               "text": "Shiratori-san...<br>You're still fighting in a darkness without an exit, aren't you?"
             },
             {
               "type": "character",
               "name": "Yohack (Last Resort)",
-              "avatar": "./char/event_yohack.png",
+              "avatar": "../char/event_yohack.png",
               "text": "That's why I will rescue you from there."
             },
             {
               "type": "character",
               "name": "Yohack (Last Resort)",
-              "avatar": "./char/event_yohack.png",
+              "avatar": "../char/event_yohack.png",
               "text": "Even if you do not wish for it!"
             },
             {
               "type": "character",
               "name": "Enoshiman?",
-              "avatar": "./char/event_shiratori.png",
+              "avatar": "../char/event_shiratori.png",
               "text": "You're going out of your way to save me, even though I hurt you...!?"
             },
             {
               "type": "character",
               "name": "Enoshiman?",
-              "avatar": "./char/event_shiratori.png",
+              "avatar": "../char/event_shiratori.png",
               "text": "Yohack-san...<br>Your strength, truly..."
             }
           ]
@@ -1902,25 +1902,25 @@
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "You've always, all by yourself, protected Enoshima!"
             },
             {
               "type": "character",
               "name": "Saotome",
-              "avatar": "./char/saotome.png",
+              "avatar": "../char/saotome.png",
               "text": "Isn't it because you had even the littlest bit of love for Enoshima!?"
             },
             {
               "type": "character",
               "name": "Enoshiman?",
-              "avatar": "./char/event_shiratori.png",
+              "avatar": "../char/event_shiratori.png",
               "text": "Enoshiman, the Enoshima he always protected..."
             },
             {
               "type": "character",
               "name": "Enoshiman?",
-              "avatar": "./char/event_shiratori.png",
+              "avatar": "../char/event_shiratori.png",
               "text": "No, Saotome-san.<br>What I truly want to protect is...!"
             }
           ]
@@ -1931,31 +1931,31 @@
             {
               "type": "character",
               "name": "Astar (Last Resort)",
-              "avatar": "./char/event_astar.png",
+              "avatar": "../char/event_astar.png",
               "text": "...Shiratori.<br>I thought your acting policy (as Enoshiman) wasn't bad."
             },
             {
               "type": "character",
               "name": "Astar (Last Resort)",
-              "avatar": "./char/event_astar.png",
+              "avatar": "../char/event_astar.png",
               "text": "Hiding your true face behind a mask, as someone who brings smiles to children."
             },
             {
               "type": "character",
               "name": "Astar (Last Resort)",
-              "avatar": "./char/event_astar.png",
+              "avatar": "../char/event_astar.png",
               "text": "That's precisely why I will stop you, and bring back the children's smiles."
             },
             {
               "type": "character",
               "name": "Enoshiman?",
-              "avatar": "./char/event_shiratori.png",
+              "avatar": "../char/event_shiratori.png",
               "text": "For that, you're willing to suffer, Astar-san?"
             },
             {
               "type": "character",
               "name": "Enoshiman?",
-              "avatar": "./char/event_shiratori.png",
+              "avatar": "../char/event_shiratori.png",
               "text": "That can't be true.<br>There's no reason why only heroes should have to bear suffering...!"
             }
           ]
@@ -1969,67 +1969,67 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "I think I understand<br>your strength, your kindness,<br>and what you want to say..."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Even so...<br>I have chosen my own path...!"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "The path to save<br>heroes from suffering!!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "It's not just suffering.<br>While fighting for someone else, we also<br>receive joy and happiness...!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "There are tough times, but<br>even so, we chose it ourselves...<br>We're heroes because we love it!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "It's not just heroes<br>who live with wounds."
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Everyone, too, lives doing their best<br>with what they can."
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "That's why I want to be someone who can deliver<br>the warmth I received this time.<br>...That's all."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I understand it too.<br>Shiratori-kun, your very own kindness."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "But, Shiratori-kun, to me, you<br>still seem to be suffering."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "That's why this time,<br>I will protect you, Shiratori-kun.<br>Just as you protected me until now...!"
     },
     {
@@ -2039,37 +2039,37 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "As expected, you all are true heroes...!<br>That's why I cannot yield!"
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "I will win this battle,<br>destroy the abominable chains that bind you,<br>and free the heroes from Enoshima!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Ugh...!<br>Shiratori-san has<br>an incredible fighting spirit...!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "There's no time left!<br>To protect Enoshima,<br>we must stop Shiratori-kun quickly!"
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "...Of course.<br>I also want to stop him."
     },
     {
       "type": "character",
       "name": "Astar (Last Resort)",
-      "avatar": "./char/event_astar.png",
+      "avatar": "../char/event_astar.png",
       "text": "Voice person.<br>Lend us your power!"
     },
     {
@@ -2079,13 +2079,13 @@
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Ugh...!<br>I... still..."
     },
     {
       "type": "character",
       "name": "Enoshiman?",
-      "avatar": "./char/event_shiratori.png",
+      "avatar": "../char/event_shiratori.png",
       "text": "Until I... free the heroes...<br>I cannot... fall...!"
     }
   ]

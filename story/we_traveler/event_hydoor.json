@@ -18,7 +18,7 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Hey, [Player].<br>Kept you waiting a long time, huh."
     },
     {
@@ -33,7 +33,7 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "...I'm not gonna bother retorting anymore.<br>It's dreadful and I'm not in the mood."
             }
           ]
@@ -44,7 +44,7 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "Don't lie to me.<br>You do know the only ship from this planet to Earth arrives in the morning, right?"
             }
           ]
@@ -54,13 +54,13 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Sorry, the ferry from the prison ship only sails at this time.<br>It ended up being pretty late."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Plus, I went to visit the 'land folks' this morning too...<br>It was an all-day affair."
     },
     {
@@ -72,7 +72,7 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": " ...Ah, well, yeah.<br>I wasn't really keen on going to the 'land folks',<br>but I figured it was fine to visit once in a while."
             }
           ]
@@ -83,13 +83,13 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "Well, they were the same as always.<br>They apparently even check out the swimming competitions I compete in, even from inside the prison."
             },
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "They've completely lost their venom and just became good-natured folks.<br>They cheered me on like crazy."
             }
           ]
@@ -100,13 +100,13 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "...Well, same as always.<br>All of them had gloomy faces.<br>They're truly a bunch of weaklings."
             },
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "But they apparently check out the shows I appear in quite a bit.<br>That was the only thing that surprised me."
             }
           ]
@@ -116,19 +116,19 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "It was pretty out of character for me, but...<br>sometimes, visiting old acquaintances isn't so bad."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "You don't really think about your roots unless you make an effort to.<br>It made me feel nostalgic."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "...But I'm not going to the 'land folks' for a while.<br>They're waiting impatiently for me to bring back a partner.<br>Geez..."
     },
     {
@@ -143,13 +143,13 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "Hah! Even if I found someone I could bring back, I'd never let them meet those guys."
             },
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "I can tell exactly what they'll say next. Those country bumpkins."
             }
           ]
@@ -160,13 +160,13 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "Wha—! Hey, you shouldn't say things like that so lightly!<br>I'll punch you, you bastard!"
             },
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "Besides, I know exactly what those guys expect from a partner!<br> I'm absolutely not letting them meet anyone!"
             }
           ]
@@ -187,13 +187,13 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Why would you...?<br>What would you even do by meeting them?<br>You wouldn't have anything to talk about."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "If you went to meet those guys,<br>most of what they'd talk about is my past self, you know?<br>What's so interesting about that?"
     },
     {
@@ -205,7 +205,7 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "Really...?<br>Where's the interesting part in that?"
             }
           ]
@@ -216,7 +216,7 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "You...<br>You're seriously too fond of weird stuff."
             }
           ]
@@ -227,7 +227,7 @@
             {
               "type": "character",
               "name": "Hydoor",
-              "avatar": "./char/hydoor.png",
+              "avatar": "../char/hydoor.png",
               "text": "...How can you say things like that so casually?<br>It's making me embarrassed."
             }
           ]
@@ -237,7 +237,7 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Anyway, if it's about me, you should just ask me directly.<br>Is that not enough for you?"
     },
     {
@@ -257,13 +257,13 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Ugh...<br>I just don't like looking back at the past, you know."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Even during our journey,<br>I only looked back because it seemed necessary..."
     },
     {
@@ -273,13 +273,13 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": " ...[Player].<br>Can you transform me into that form?"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "That form where we cut down that<br>huge monster by borrowing everyone's strength."
     },
     {
@@ -308,49 +308,49 @@
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "...Listen.<br>It's true that the foundation for this Parallel Weapon<br>is my past self, when I was a pirate."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Without that, I wouldn't have chosen this weapon.<br>But..."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Those who only know my past self<br>probably couldn't observe this form."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoorb.png",
+      "avatar": "../char/event_hydoorb.png",
       "text": "This is the form I gained after I, my current self,<br>traveled with you guys in that world, and fought those monsters."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoorb.png",
+      "avatar": "../char/event_hydoorb.png",
       "text": "Of course, even those who know my past wouldn't<br>know what kind of journey we had in that other world."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "And, as I said earlier...<br>I don't really look back on the past much,<br>and I don't tell anyone those stories."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Not even the folks at the agency.<br>So, the person who knows me best in this world is—"
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Without a doubt, it's the companions from that journey.<br>Especially you, who observed this form...<br>you're probably way ahead of the rest."
     },
     {
@@ -360,7 +360,7 @@
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "...Thinking about it like that, it feels a little embarrassing, but...<br>If it's you... it's not bad."
     },
     {
@@ -380,7 +380,7 @@
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "...Sigh. Seriously, you bastard.<br>You want to probe into my life that much?"
     },
     {
@@ -401,19 +401,19 @@
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Don't look at my past self, look at my current self."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Look at me now, right in front of you...<br>It's me, I'm the one who's only looking at you."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Otherwise...<br>I'll take everything by force, you hear me?"
     },
     {
@@ -441,13 +441,13 @@
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "-Haaa. What am I even saying? It's so embarrassing..."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Even if I said something like this, it's probably useless against you, anyway..."
     },
     {
@@ -461,19 +461,19 @@
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "...Come with me.<br>Let's go on a date, [Player]."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "If you want to know about me that much, I'll tell you everything...<br>in the time we have from now on."
     },
     {
       "type": "character",
       "name": "Hydoor (Traveler)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "And while we're at it,<br>you'll also learn that you're the most important person to me.<br>...You'd better be prepared."
     },
     {

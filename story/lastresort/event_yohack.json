@@ -10,7 +10,7 @@
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "[Player]-san~!<br>Over here~!"
   },
   {
@@ -25,7 +25,7 @@
           {
             "type": "character",
             "name": "Yohack",
-            "avatar": "./char/yohack.png",
+            "avatar": "../char/yohack.png",
             "text": "Not at all!<br>I just finished preparing myself!"
           }
         ]
@@ -39,13 +39,13 @@
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "Ehehe!<br>I wanted to confirm something,<br>so I went for a swim!"
   },
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "How is it?<br>When wet, my fur shrinks,<br>and I look quite toned, right!?"
   },
   {
@@ -57,7 +57,7 @@
           {
             "type": "character",
             "name": "Yohack",
-            "avatar": "./char/yohack.png",
+            "avatar": "../char/yohack.png",
             "text": "That's right!<br>I'm quite muscular, you know!"
           }
         ]
@@ -68,7 +68,7 @@
           {
             "type": "character",
             "name": "Yohack",
-            "avatar": "./char/yohack.png",
+            "avatar": "../char/yohack.png",
             "text": "Eh!?<br>Th-That can't be true...!<br>Please take a closer look!"
           }
         ]
@@ -82,19 +82,19 @@
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "Many things happened this time too, but<br>now that it's over, it feels like it was just a moment,<br>it's kind of strange, isn't it?"
   },
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "[Player]-san, you have helped me<br>even more than in Clouge..."
   },
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "You kindly encouraged me,<br>and always supported me by my side,<br>which was incredibly reassuring."
   },
   {
@@ -111,13 +111,13 @@
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "Ehehe!<br>[Player]-san, when you say that..."
   },
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "I feel like I'm getting closer<br>to the hero I wanted to be, little by little!"
   },
   {
@@ -127,31 +127,31 @@
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack_b.png",
+    "avatar": "../char/yohack_b.png",
     "text": "...My locksmith master<br>was the first \"hero\"<br>I ever met."
   },
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack_b.png",
+    "avatar": "../char/yohack_b.png",
     "text": "He rescued me from the darkness,<br>when I was trapped in a spaceship,<br>scared and crying alone."
   },
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "At that time, I also couldn't see an exit,<br>but I didn't want to complain...<br>I was at a loss for what to do."
   },
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "...But, [Player]-san, you pulled me out<br>of the darkness."
   },
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "That made me very happy,<br>and it was so cool seeing it happen.<br>\"You're just like a hero\", I thought."
   },
   {
@@ -161,13 +161,13 @@
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "...[Player]-san!<br>Will you let me transform<br>into the suit from that time?"
   },
   {
     "type": "character",
     "name": "Yohack",
-    "avatar": "./char/yohack.png",
+    "avatar": "../char/yohack.png",
     "text": "There's something I absolutely want to do<br>in that form you observed for me."
   },
   {
@@ -192,7 +192,7 @@
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "Ehehe!<br>Thank you for observing this form again!"
   },
   {
@@ -204,13 +204,13 @@
           {
             "type": "character",
             "name": "Yohack (Last Resort)",
-            "avatar": "./char/event_yohack.png",
+            "avatar": "../char/event_yohack.png",
             "text": "I'm a little embarrassed, but I'm so happy to hear you say that!"
           },
           {
             "type": "character",
             "name": "Yohack (Last Resort)",
-            "avatar": "./char/event_yohack.png",
+            "avatar": "../char/event_yohack.png",
             "text": "Because this is the form you have observed for me, [Player]-san."
           }
         ]
@@ -221,13 +221,13 @@
           {
             "type": "character",
             "name": "Yohack (Last Resort)",
-            "avatar": "./char/event_yohack.png",
+            "avatar": "../char/event_yohack.png",
             "text": "I'm a little embarrassed, but I'm so happy to hear you say that!"
           },
           {
             "type": "character",
             "name": "Yohack (Last Resort)",
-            "avatar": "./char/event_yohack.png",
+            "avatar": "../char/event_yohack.png",
             "text": "Because this is the form you have observed for me, [Player]-san."
           }
         ]
@@ -238,7 +238,7 @@
           {
             "type": "character",
             "name": "Yohack (Last Resort)",
-            "avatar": "./char/event_yohack.png",
+            "avatar": "../char/event_yohack.png",
             "text": "I-Is that so!?<br>I didn't really ever think about it myself...!"
           }
         ]
@@ -252,19 +252,19 @@
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "Actually, Saotome-san<br>told me..."
   },
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "There's a perfect spot to watch<br>fireworks a little offshore!<br>If you'd like, why don't we go together?"
   },
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "I thought it would be wonderful<br>to watch fireworks alone with you, [Player]-san!"
   },
   {
@@ -285,13 +285,13 @@
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "Come, take my hand!<br>I'll guide you<br>to that wonderful spot!"
   },
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "And [Player]-san,<br>to avoid falling into the sea,<br>please hold on tight!"
   },
   {
@@ -311,7 +311,7 @@
           {
             "type": "character",
             "name": "Yohack (Last Resort)",
-            "avatar": "./char/event_yohack.png",
+            "avatar": "../char/event_yohack.png",
             "text": "Ehehe...<br>Being this close, it makes my heart pound, but it also feels calming..."
           }
         ]
@@ -322,7 +322,7 @@
           {
             "type": "character",
             "name": "Yohack (Last Resort)",
-            "avatar": "./char/event_yohack.png",
+            "avatar": "../char/event_yohack.png",
             "text": "Whoa—!<br>It tickles a little, but if you really wanted to touch it...!"
           }
         ]
@@ -336,7 +336,7 @@
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "It seems it's almost time.<br>Ah, over there—"
   },
   {
@@ -350,7 +350,7 @@
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "...It's incredibly beautiful.<br>I'm glad I could see this view<br>with you like this."
   },
   {
@@ -360,13 +360,13 @@
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "[Player]-san.<br>I feel like I realized something important<br>while fighting alongside you."
   },
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "When I'm worried about someone,<br>someone else is surely worried about me.<br>...I realized that I'm not alone."
   },
   {
@@ -383,13 +383,13 @@
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "At that time, you encouraged me,<br>and supported me by my side,<br>which made me truly happy."
   },
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "That's why, this time, I<br>want to support you, [Player]-san...!"
   },
   {
@@ -403,7 +403,7 @@
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "I want to support<br>you this time.<br>Forever...!"
   },
   {
@@ -420,25 +420,25 @@
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "[Player]-san...<br>To think you would truly say that..."
   },
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "...Actually, I was a little scared.<br>I wondered if I was making<br>a very selfish request."
   },
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "But, I also thought this:<br>My request might be selfish, but..."
   },
   {
     "type": "character",
     "name": "Yohack (Last Resort)",
-    "avatar": "./char/event_yohack.png",
+    "avatar": "../char/event_yohack.png",
     "text": "Maybe it's okay to be<br>selfish sometimes."
   },
   {

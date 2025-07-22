@@ -2,7 +2,7 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "Someone...!<br>Someone, help...!"
     },
     {
@@ -20,7 +20,7 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "Ugh...<br>Get me out of here...<br>Please... I beg you..."
     },
     {
@@ -34,13 +34,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "Cough...<br>S-Someone..."
     },
     {
       "type": "character",
       "name": "Man's Voice",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Don't worry, kid.<br>I'll help you right away."
     },
     {
@@ -50,19 +50,19 @@
     {
       "type": "character",
       "name": "Man's Voice",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Because you didn't give up and kept knocking on the door,<br>I realized there was someone left behind."
     },
     {
       "type": "character",
       "name": "Man's Voice",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—You must have been scared,<br>but you did well."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "Ugh...<br>I-I... cough..."
     },
     {
@@ -80,19 +80,19 @@
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "I'm a locksmith, you know.<br>Opening a door that's stuck shut<br>is child's play for me."
     },
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Remember this, kid.<br>As long as you don't give up,<br>there's always an exit."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "An, exit..."
     },
     {
@@ -110,19 +110,19 @@
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—See?<br>Just as I said,<br>it was over in an instant."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "Cough, cough...<br>Th-Thank you..."
     },
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "It's too early to thank me.<br>Let's get out of here quickly."
     },
     {
@@ -144,19 +144,19 @@
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Phew.<br>That was a close call.<br>I owe my life to my \"partner\"."
     },
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "But it's not over yet.<br>We still have to help those left behind."
     },
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "I'm going to speed up a bit,<br>so hold on tight, kid!"
     },
     {
@@ -170,49 +170,49 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "—Please!<br>Please take me as your apprentice!"
     },
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Oh dear...<br>I don't usually take apprentices, you know."
     },
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "If I do say so myself,<br>what would you do as a locksmith?"
     },
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "For a young lad like you,<br>there must be more suitable jobs.<br>There's no need to be so fixated on being a locksmith..."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "I'm very happy for your advice,<br>but please, somehow, I beg you...!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "I really want to be a locksmith<br>like you—"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "—I want to be a locksmith<br>who can offer a helping hand<br>to people who are trapped (in trouble)!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "Just like how you rescued<br>me from that dark place!"
     },
     {
@@ -222,13 +222,13 @@
     {
       "type": "character",
       "name": "Locksmith Man",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "...Kid.<br>What's your name?"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "I'm Yohack!<br>Yohack Raniranza (ヨハック・ラニランザ),<br>from Clouge!"
     },
     {
@@ -254,13 +254,13 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "N-No way...<br>Enoshiman, along with the monsters..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Am I having<br>a bad dream...?"
     },
     {
@@ -274,49 +274,49 @@
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Yohack-kun.<br>I sincerely respect your kindness and positivity."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "You are not ignorant of pain,<br>but a hero with the strength to endure it.<br>Fighting alongside you, I truly felt that."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "Astar-kun.<br>Your unwavering will and strong body<br>are surely the fruits of tireless effort."
     },
     {
       "type": "character",
       "name": "Enoshiman",
-      "avatar": "./char/enoshiman.png",
+      "avatar": "../char/enoshiman.png",
       "text": "I am proud to have fought alongside you,<br>who possess a will to push forward towards your goal<br>and an unshakeable conviction."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Enoshiman-san protected us<br>and used that technique—"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "It's almost like<br>a farewell greeting...!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "He must have wanted to protect them.<br>Something important to him—<br>the people of Enoshima."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "And, even us who<br>fought alongside him..."
     },
     {
@@ -326,7 +326,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "It's my...!<br>It's all my fault...!!"
     },
     {
@@ -340,19 +340,19 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...Saotome.<br>Don't blame yourself alone."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "It's also our fault that<br>we let Enoshiman use such a technique."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "If only we had defeated<br>the monsters sooner..."
     },
     {
@@ -362,19 +362,19 @@
     {
       "type": "character",
       "name": "Island Kid",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Hey, where did<br>Enoshiman go off to?"
     },
     {
       "type": "character",
       "name": "Island Kid",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Enoshiman!<br>Show us your victory pose!"
     },
     {
       "type": "character",
       "name": "Island Kid",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "When we call him,<br>he usually comes right away..."
     },
     {
@@ -384,7 +384,7 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...[Player].<br>Can you still observe Enoshiman?"
     },
     {
@@ -408,61 +408,61 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "In other words...<br>Enoshiman is already..."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "...It's too early to give up!<br>Enoshiman-san shouldn't have been<br>eaten by a monster."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Because if he had been eaten,<br>Enoshiman-san's name wouldn't be coming<br>from the villagers' mouths...!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...His strength is guaranteed.<br>He wouldn't fall so easily."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Believing that Enoshiman is alive,<br>we can only do what we can now."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Evacuation of villagers and tourists,<br>and monster patrol will also be necessary.<br>This is not the time to stand still."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I-I see...<br>You're right..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...Everyone is right.<br>For the sake of everyone in Enoshima,<br>I can't be disheartened."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Anyway, let's think about what's next—<br>No, ensuring everyone's safety comes first."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I don't see Shiratori-kun, but<br>he must be moving nearby too.<br>Once we meet up, we need to think about the next step."
     },
     {
@@ -480,13 +480,13 @@
     {
       "type": "character",
       "name": "Alend",
-      "avatar": "./char/alend.png",
+      "avatar": "../char/alend.png",
       "text": "[Player]...<br>Sorry for being late.<br>We were held up by the monsters."
     },
     {
       "type": "character",
       "name": "Senthak",
-      "avatar": "./char/senthak.png",
+      "avatar": "../char/senthak.png",
       "text": "Sorry, [Player]-kun.<br>If we had rushed here sooner..."
     },
     {
@@ -503,19 +503,19 @@
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "[Player]-san...<br>I heard the report. Many large monsters<br>appeared, and then... that..."
     },
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "...Joezen, take a deep breath.<br>It's not decided yet.<br>We can't afford to be flustered."
     },
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "However... in this chaotic situation,<br>to protect the villagers with such a small number of people.<br>As expected of you, [Player]-chan."
     },
     {
@@ -539,13 +539,13 @@
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "...Ah, I heard from Yohack.<br>Enoshiman, he's still missing, right?"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "Enoshiman-san...<br>I hope he's safe."
     },
     {
@@ -563,13 +563,13 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Everyone, thank you for working hard<br>until this late hour."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "If EnoRail could operate,<br>we could have evacuated the tourists, but<br>in this situation..."
     },
     {
@@ -583,55 +583,55 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "And, I'm truly sorry.<br>Because I did something unnecessary,<br>it ended up in a terrible commotion."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Far from revitalizing Enoshima,<br>I've brought about a result<br>that's almost the worst possible..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "My own wish has<br>hurt many people...<br>And then..."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...I don't think your struggle<br>to fulfill your wish is unnecessary."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "It's not unnecessary at all.<br>Saotome-san, you've worked hard<br>for your precious hometown..."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Saotome-san, it is out of your own<br>kindness to desire for everyone in the<br>village to live happily, isn't it?"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...Even if that's true,<br>the result is undeniably this."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Besides, it would be a lie if I said that<br>there was no ego in my desire to<br>make Enoshima enjoyable."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "That ego...<br>That is what have caused<br>Enoshiman to go missing."
     },
     {
@@ -651,25 +651,25 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "It pains me greatly to ask this<br>right after meeting you, but..."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Please, could you keep my true identity<br>a secret...?"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "If it's known that a plain person like me<br>is Enoshiman, the children's dreams<br>might be shattered..."
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "...Therefore,<br>I would like you to think of me<br>as just \"Shiratori\"."
     },
     {
@@ -701,31 +701,31 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "It's alright, Saotome-san!<br>We will definitely rescue<br>Enoshiman-san!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "No, Yohack-kun.<br>I appreciate the sentiment, but..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I don't want to involve you all any further.<br>Please don't overexert yourselves."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I don't want anyone else<br>to be sacrificed for Enoshima."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Saotome-san...<br>..........."
     },
     {
@@ -739,7 +739,7 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "—Ah!<br>[Player]-san!"
     },
     {
@@ -756,19 +756,19 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Could it be that you came to check on me<br>because you were worried?<br>Thank you!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "I've also received treatment,<br>so I'm completely fine now!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Even if monsters appear again,<br>I can fight perfectly!"
     },
     {
@@ -796,13 +796,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Ahaha...<br>It seems that I cannot deceive<br>your eyes after all, [Player]-san."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Precisely because it's a time like this,<br>I, as a hero, must be smiling."
     },
     {
@@ -816,19 +816,19 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "It might sound strange coming from me, but<br>for Enoshima now that Enoshiman-san is gone..."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "I think \"we\" are the<br>last remaining support."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "But if I'm feeling down,<br>it will surely make everyone anxious.<br>...I don't want to do that."
     },
     {
@@ -844,7 +844,7 @@
             {
               "type": "character",
               "name": "Yohack",
-              "avatar": "./char/yohack.png",
+              "avatar": "../char/yohack.png",
               "text": "That's not true.<br>That's what I wanted myself to be, but I'm not actually doing anything to fulfill it."
             }
           ]
@@ -855,7 +855,7 @@
             {
               "type": "character",
               "name": "Yohack",
-              "avatar": "./char/yohack.png",
+              "avatar": "../char/yohack.png",
               "text": "Thank you for your concern.<br>But, as a hero, I can't be like this..."
             }
           ]
@@ -893,7 +893,7 @@
             {
               "type": "character",
               "name": "Yohack",
-              "avatar": "./char/yohack.png",
+              "avatar": "../char/yohack.png",
               "text": "Whoa—!<br>What are you doing!?"
             },
             {
@@ -925,7 +925,7 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "[Player]-san...!"
     },
     {
@@ -939,13 +939,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "...As expected,<br>[Player]-san, you are amazing."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "With you, I'm sure, that no matter how<br>thick the wall can be, we'll overcome it together!<br>That's what I'm feeling!"
     },
     {
@@ -962,7 +962,7 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Ehehe...<br>Thank you.<br>[Player]-san."
     },
     {
@@ -972,13 +972,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "[Player]-san.<br>Will you listen to my story?"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "[Player]-san,<br>there's something I really want to consult with you,<br>for you who have always supported me."
     },
     {
@@ -995,13 +995,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Ehehe. [Player]-san,<br>I thought you'd say that,<br>so I was a bit selfish."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Well then, since we're here,<br>why don't we go outside?<br>I want to do a patrol too."
     },
     {
@@ -1011,13 +1011,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "...Right now, I think Saotome-san<br>is having the hardest time."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Saotome-san will surely say<br>that's not true, but-"
     },
     {
@@ -1038,19 +1038,19 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "He's taking on the burden of the monsters<br>and Enoshiman-san's disappearance,<br>thinking it's all his fault."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Even though that's not true,<br>I want him to rely on others,<br>but he's trying to handle everything by himself."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "—I really want to help such people,<br>people who are stuck without an exit."
     },
     {
@@ -1071,31 +1071,31 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "Astosis-san at that time<br>was carrying the problems happening<br>in Clouge all by himself."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "...I think<br>I understand."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "Astosis-san didn't think<br>I was unreliable or that he didn't like me."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "Rather, precisely because he cared<br>for me as a childhood friend,<br>that he acted alone."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack_b.png",
+      "avatar": "../char/yohack_b.png",
       "text": "But—"
     },
     {
@@ -1105,19 +1105,19 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Even so, I wanted to be<br>of more help to Astosis-san.<br>I wanted him to rely on me from the start."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "I wanted to take on even a small part<br>of Astosis-san's painful feelings."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "—Is it still selfish<br>to think that way?"
     },
     {
@@ -1149,7 +1149,7 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "[Player]-san...?"
     },
     {
@@ -1174,7 +1174,7 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "[Player]-san...<br>With me...?"
     },
     {
@@ -1188,19 +1188,19 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "I never thought of that.<br>To push through my own selfishness..."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "But, that's right.<br>Even if helping causes trouble,<br>that's not the end of it."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Even so, if we stand up again,<br>and solve the next problem—"
     },
     {
@@ -1220,19 +1220,19 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Ehehe! I completely understand!<br>If we help beyond the point of being a nuisance,<br>everything will be resolved!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Then, instead of brooding here,<br>I'll go for it with a \"nothing ventured, nothing gained\" spirit...!<br>I'll give it my all!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Because that's the kind<br>of locksmith I wanted to be!"
     },
     {
@@ -1253,13 +1253,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Eh, what's wrong, [Player]-san—"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "—Huh, what's this light!?"
     },
     {
@@ -1277,7 +1277,7 @@
             {
               "type": "character",
               "name": "Yohack",
-              "avatar": "./char/yohack.png",
+              "avatar": "../char/yohack.png",
               "text": "I remembered too!<br>It's the same light as Nessen-san's back then...!"
             }
           ]
@@ -1302,13 +1302,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Thank you...<br>It's incredibly reassuring...!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "It's truly good that<br>you are here with me, [Player]-san."
     },
     {
@@ -1334,31 +1334,31 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Since then, the appearance of monsters<br>has calmed down, but<br>we can't let our guard down."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "That's right...!<br>To protect everyone in the village,<br>we have to do our best!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Astar-kun,<br>Yohack-kun...<br>Actually—"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "(I haven't seen Shiratori-kun since yesterday,<br>but... I don't want to overwork<br>the heroes any more than this.)"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "(I'll manage the villagers myself.<br>I'll surely find him.)"
     },
     {
@@ -1368,7 +1368,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "—Everyone in the village was grateful to you.<br>Thank you very much,<br>Astar-kun, Yohack-kun."
     },
     {
@@ -1378,13 +1378,13 @@
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "[Player]-chan!<br>We have some troublesome guests here,<br>so I'm just letting you know!"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "It's a manageable number for me and Captain,<br>but please be careful on your end too!"
     },
     {
@@ -1405,13 +1405,13 @@
     {
       "type": "character",
       "name": "Alend",
-      "avatar": "./char/alend.png",
+      "avatar": "../char/alend.png",
       "text": "Monsters have appeared on the west side of the village.<br>We'll deal with them now, but<br>are things alright on your end?"
     },
     {
       "type": "character",
       "name": "Senthak",
-      "avatar": "./char/senthak.png",
+      "avatar": "../char/senthak.png",
       "text": "We'll take care of things here!<br>Judging from yesterday, monsters<br>might appear on your side too!"
     },
     {
@@ -1428,13 +1428,13 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "This is bad...!<br>To think they'd all appear at once!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "We should be vigilant too.<br>[Player], tell me immediately if you feel<br>the presence of monsters."
     },
     {
@@ -1467,31 +1467,31 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "We barely made it!<br>Now, we'll protect<br>everyone in the village!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "[Player]...!<br>I'm counting on your observation!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Everyone,<br>don't overexert yourselves..."
     },
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "Monsters appearing northwest!<br>Joezen, stop them!"
     },
     {
       "type": "character",
       "name": "Joezen",
-      "avatar": "./char/joezen.png",
+      "avatar": "../char/joezen.png",
       "text": "Understood, Captain!<br>I won't let them go any further!<br>Take this!"
     },
     {
@@ -1501,19 +1501,19 @@
     {
       "type": "character",
       "name": "Kiloc",
-      "avatar": "./char/kiloc.png",
+      "avatar": "../char/kiloc.png",
       "text": "Good, Joezen!<br>Leave the finishing blow to me!"
     },
     {
       "type": "character",
       "name": "Alend",
-      "avatar": "./char/alend.png",
+      "avatar": "../char/alend.png",
       "text": "No entry beyond this point.<br>Sorry, but please leave!"
     },
     {
       "type": "character",
       "name": "Senthak",
-      "avatar": "./char/senthak.png",
+      "avatar": "../char/senthak.png",
       "text": "Alright!<br>I'll wipe them all out!"
     },
     {
@@ -1527,43 +1527,43 @@
     {
       "type": "character",
       "name": "Senthak",
-      "avatar": "./char/senthak.png",
+      "avatar": "../char/senthak.png",
       "text": "Whoa, a second wave just came!<br>At this rate, we'll never<br>be able to go help!"
     },
     {
       "type": "character",
       "name": "Alend",
-      "avatar": "./char/alend.png",
+      "avatar": "../char/alend.png",
       "text": "Calm down, Senthak.<br>We can't solve everything at once,<br>so let's finish the tasks in front of us first."
     },
     {
       "type": "character",
       "name": "Senthak",
-      "avatar": "./char/senthak.png",
+      "avatar": "../char/senthak.png",
       "text": "Th-That's true, but...<br>...Everyone, please be safe."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Ugh...!<br>There's no end to defeating them!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Is this what they call overwhelming numbers?<br>It's quite a tough situation, but..."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Alend and the others are also fighting back.<br>We have to deal with this by ourselves...!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...Am I again<br>only able to watch<br>the heroes get hurt?"
     },
     {
@@ -1573,7 +1573,7 @@
     {
       "type": "character",
       "name": "Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Guoooooh!!"
     },
     {
@@ -1602,7 +1602,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "That alone...!"
     },
     {
@@ -1616,13 +1616,13 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "That alone is unacceptable...!<br>No one else will be harmed by monsters...!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Yuto, the villagers,<br>and the heroes too!<br>I won't let you hurt them anymore!"
     },
     {
@@ -1636,13 +1636,13 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "He's like me back then,<br>and Monomasa back then."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "[Player]!<br>We have to stop Saotome!"
     },
     {
@@ -1671,7 +1671,7 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "If it's people that you wanted to eat so much,<br>then go for me first!<br>Come on, come this way!"
     },
     {
@@ -1681,55 +1681,55 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "If I can lure them outside the village,<br>it'll be a bit easier to fight!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I can't just stand by<br>and watch you all get hurt<br>anymore!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Saotome-san!<br>That's reckless!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...It's useless, Yohack.<br>He's already made up his mind."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "More precisely,<br>he can't find any other options."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "He believes that he can only fulfill<br>his responsibility by sacrificing himself."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "I know what kind of actions<br>someone who believes that will take."
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Saotome-san...!<br>With such a sad feeling,<br>he's carrying everything alone...!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "I don't want anyone else<br>to feel that way anymore...!"
     },
     {
@@ -1750,19 +1750,19 @@
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Please, [Player]-san!<br>Give me the power to save Saotome-san!"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "Even if Saotome-san doesn't ask me for help,<br>even if he doesn't want to be helped—"
     },
     {
       "type": "character",
       "name": "Yohack",
-      "avatar": "./char/yohack.png",
+      "avatar": "../char/yohack.png",
       "text": "—I want to push through with my selfishness!<br>Putting everything I can into it!"
     },
     {
@@ -1782,7 +1782,7 @@
     {
       "type": "character",
       "name": "Mobile Device",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Connect to path?<br>To start operation,<br>tap \"OK\"."
     },
     {
@@ -1800,7 +1800,7 @@
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "This is the form<br>of my other wish...!"
     },
     {
@@ -1814,7 +1814,7 @@
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "This is what Master<br>rode back then...!"
     },
     {
@@ -1836,13 +1836,13 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "A new interpretation of a dream's form,<br>observed by [Player]...!"
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...I see.<br>To think it was a \"sleigh\"."
     },
     {
@@ -1854,13 +1854,13 @@
             {
               "type": "character",
               "name": "Yohack (Last Resort)",
-              "avatar": "./char/event_yohack.png",
+              "avatar": "../char/event_yohack.png",
               "text": "Ehehe!<br>When you praise me, I feel a bit embarrassed, but..."
             },
             {
               "type": "character",
               "name": "Yohack (Last Resort)",
-              "avatar": "./char/event_yohack.png",
+              "avatar": "../char/event_yohack.png",
               "text": "More than that, I feel like I can try even harder!"
             }
           ]
@@ -1876,13 +1876,13 @@
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "[Player]-san!<br>Thank you!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "With this power observed by [Player]-san,<br>I will rescue Saotome-san!"
     },
     {
@@ -1911,19 +1911,19 @@
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "There's no need for that!<br>Because if this is the form of my wish—"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "I should be able to reach<br>beyond any wall!"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "So, [Player]-san!<br>Please believe in me!"
     },
     {
@@ -1951,13 +1951,13 @@
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "\"Unlocking\"!<br>Omnes Exitus!"
       },
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "Saotome-san!<br>It's alright now!<br>I will definitely save you!"
       },
       {
@@ -1971,13 +1971,13 @@
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "Come on, Saotome-san!<br>Reach out your hand!"
       },
       {
         "type": "character",
         "name": "Saotome",
-        "avatar": "./char/saotome.png",
+        "avatar": "../char/saotome.png",
         "text": "Y-Yohack-kun...!"
       },
       {
@@ -2005,19 +2005,19 @@
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "Ehehe!<br>The moment I gripped the handle,<br>I somehow understood."
       },
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "If there's anything in the way of helping someone,<br>I can surely break through it!"
       },
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "...[Player]-san made<br>me believe that."
       },
       {
@@ -2027,79 +2027,79 @@
       {
         "type": "character",
         "name": "Saotome",
-        "avatar": "./char/saotome.png",
+        "avatar": "../char/saotome.png",
         "text": "...Yohack-kun.<br>I, if it's for everyone's sake,<br>it doesn't matter what happens to me—"
       },
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "—Saotome-san.<br>To sacrifice yourself excessively,<br>that is not atonement."
       },
       {
         "type": "character",
         "name": "Astar",
-        "avatar": "./char/astar.png",
+        "avatar": "../char/astar.png",
         "text": "You yourself should already know what<br>those who were left behind will feel,<br>you can't possibly not know."
       },
       {
         "type": "character",
         "name": "Astar",
-        "avatar": "./char/astar.png",
+        "avatar": "../char/astar.png",
         "text": "Are you planning to make Yuto and the villagers<br>experience the same feelings?"
       },
       {
         "type": "character",
         "name": "Saotome",
-        "avatar": "./char/saotome.png",
+        "avatar": "../char/saotome.png",
         "text": "To those left behind...<br>I..."
       },
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "Enoshiman-san<br>fought monsters because he<br>wanted to protect you all."
       },
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "And yet,<br>Saotome-san, if you were to be<br>eaten by a monster in this way..."
       },
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "This time, we would truly<br>never see Enoshiman-san<br>again, wouldn't we?"
       },
       {
         "type": "character",
         "name": "Saotome",
-        "avatar": "./char/saotome.png",
+        "avatar": "../char/saotome.png",
         "text": "Yohack-kun...<br>You're... right..."
       },
       {
         "type": "character",
         "name": "Astar",
-        "avatar": "./char/astar.png",
+        "avatar": "../char/astar.png",
         "text": "Do you understand, Saotome?<br>Whether you act recklessly or not,<br>we will help you."
       },
       {
         "type": "character",
         "name": "Astar",
-        "avatar": "./char/astar.png",
+        "avatar": "../char/astar.png",
         "text": "We could have always cooperated from the start.<br>Because, after all, we are a team<br>that pulls the same sleigh."
       },
       {
         "type": "character",
         "name": "Saotome",
-        "avatar": "./char/saotome.png",
+        "avatar": "../char/saotome.png",
         "text": "Astar-kun...<br>You all, truly..."
       },
       {
         "type": "character",
         "name": "Astar",
-        "avatar": "./char/astar.png",
+        "avatar": "../char/astar.png",
         "text": "...The rest of the reflection session can wait.<br>Now, we must focus on<br>removing the obstacle before us."
       },
       {
@@ -2119,7 +2119,7 @@
       {
         "type": "character",
         "name": "Yohack (Last Resort)",
-        "avatar": "./char/event_yohack.png",
+        "avatar": "../char/event_yohack.png",
         "text": "Understood, [Player]-san!<br>I'll take everyone to the exit of this battle<br>at full speed!"
       },
       {
@@ -2129,7 +2129,7 @@
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Now, let's end this!<br>\"Unlock\"!<br>Omnes Exitus!"
     },
     {
@@ -2154,31 +2154,31 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...A \"sleigh\" that flies through the air,<br>and the ability to break through obstacles, huh."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "Hmph, it seems my eyes weren't mistaken.<br>His aptitude as \"Santa-san\"<br>has been further refined."
     },
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "—Splendid, Yohack.<br>I shall recognize you as an intermediate<br>\"Santa-san apprentice\"."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "I-Intermediate!?<br>\"Santa-san apprentice\"...?<br>Astar-san, isn't that your-?"
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Anyway, he's praising me...<br>Right?<br>Ah, thank you!"
     },
     {
@@ -2199,19 +2199,19 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "I'm truly sorry.<br>Yohack-kun, Astar-kun.<br>And you too, [Player]-kun."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "To do such a thing,<br>and cause everyone worry and burden..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...Even so,<br>thank you very much<br>for helping me like this."
     },
     {
@@ -2221,25 +2221,25 @@
     {
       "type": "character",
       "name": "Astar",
-      "avatar": "./char/astar.png",
+      "avatar": "../char/astar.png",
       "text": "...Hmph.<br>Your expression looks a bit better now."
     },
     {
       "type": "character",
       "name": "Yohack (Last Resort)",
-      "avatar": "./char/event_yohack.png",
+      "avatar": "../char/event_yohack.png",
       "text": "Saotome-san, thank you<br>for taking my hand!"
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "...As expected,<br>you local heroes are amazing."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "You don't give up in any situation,<br>and keep on facing difficulties.<br>I want to be like that too."
     },
     {
@@ -2249,13 +2249,13 @@
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "To regret, that's something that can always happen.<br>If I try everything and it still doesn't work,<br>then I'll have no choice but to depressed, but..."
     },
     {
       "type": "character",
       "name": "Saotome",
-      "avatar": "./char/saotome.png",
+      "avatar": "../char/saotome.png",
       "text": "Now is not that time yet.<br>I will still stubbornly struggle."
     },
     {
@@ -2269,7 +2269,7 @@
     {
       "type": "character",
       "name": "Mobile Device",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "New path detected.<br>Target: Saotome<br>Strength: Very Weak"
     },
     {
@@ -2309,19 +2309,19 @@
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "Ugh...!<br>Th-This place...?"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "The same beach as that time?<br>Why am I...?"
     },
     {
       "type": "character",
       "name": "Shiratori",
-      "avatar": "./char/shiratori.png",
+      "avatar": "../char/shiratori.png",
       "text": "No, the reason can wait.<br>More importantly, I...<br>I have something I must do...!"
     },
     {

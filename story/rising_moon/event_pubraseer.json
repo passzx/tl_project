@@ -14,7 +14,7 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "—[Player], good work.<br>Sorry to bother you after work,<br>but may I have a moment with you?"
     },
     {
@@ -33,13 +33,13 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "I don't have any particular business,<br>but I wanted to talk to you for a bit."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "The aftermath of that incident<br>has finally settled down.<br>...Is your body alright?"
     },
     {
@@ -62,13 +62,13 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "Ah, that's good to hear.<br>When I heard you lost consciousness<br>and were drifting in space—"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "I must admit, my blood ran cold.<br>...Please take care of your body."
     },
     {
@@ -78,13 +78,13 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "I'm truly glad you're safe."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "...Surely, my friends must have felt<br>the same way when I was about to collapse."
     },
     {
@@ -107,13 +107,13 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "...Ah, they are my proud comrades.<br>A very unique group, always lively and noisy—"
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "The time I spent with them brought me much comfort.<br>...I wanted to introduce them to you too."
     },
     {
@@ -140,13 +140,13 @@
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "Ah, that hero suit.<br>Of course, it's the form you observed of me, after all."
     },
     {
       "type": "character",
       "name": "Pubraseer",
-      "avatar": "./char/pubraseer.png",
+      "avatar": "../char/pubraseer.png",
       "text": "I was also thinking<br>of asking you a favor just the same."
     },
     {
@@ -156,7 +156,7 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "—Indeed, this form does make me<br>feel like I've returned to the past.<br>...How is it, does it suit me?"
     },
     {
@@ -175,13 +175,13 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Thank you, [Player].<br>I'm very happy."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "But, when you say that directly to my face,<br>...it's a little embarrassing."
     },
     {
@@ -191,19 +191,19 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...My life, which my friends protected—<br>is present here and now."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "That's how I was able to meet you.<br>...And, I was able to show you this form of me."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "I will continue to hold onto<br>the hope they entrusted to me.<br>...That is what I can do now."
     },
     {
@@ -213,19 +213,19 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...I must look to the future, and,<br>together with my new comrades, set forth."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Not to part with my friends,<br>but to step into the future, together with them."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...I've had regrets until now,<br>but I've finally found my own<br>answer to my friends' wishes."
     },
     {
@@ -235,19 +235,19 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...For me, Orbiter, who aims to be an astronaut—<br>his innocent wish was a bit too dazzling."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...That's why, being able to watch over Orbiter<br>and his determination also brought me much joy."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "—Surely, my friends would have<br>wished for that too."
     },
     {
@@ -257,19 +257,19 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Though it was a team formed by chance,<br>Orbiter, Denebola, Gaisei, Yotaro—"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "And you, [Player].<br>Getting to fight together with everyone,<br>that is an irreplaceable memory for me."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "I ended up forcing a great burden on you, but...<br>Please allow me to thank you again."
     },
     {
@@ -292,7 +292,7 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...[Player].<br>Ah, I can't win against you.<br>...Truly, thank you."
     },
     {
@@ -302,19 +302,19 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "—[Player].<br>Having you as a friend is my greatest joy."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "Pushing my comrades forward, traveling to space together,<br>and safely returning to the moon—"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "You fulfilled a dream that<br>I couldn't possibly achieve in the past.<br>...Thank you."
     },
     {
@@ -324,7 +324,7 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...To me, this is what happiness feels like."
     },
     {
@@ -336,7 +336,7 @@
             {
                 "type": "character",
                 "name": "Pubraseer (Rising Moon)",
-                "avatar": "./char/event_pubraseer.png",
+                "avatar": "../char/event_pubraseer.png",
                 "text": "...<br>...[Player]."
               }
           ]
@@ -347,7 +347,7 @@
             {
                 "type": "character",
                 "name": "Pubraseer (Rising Moon)",
-                "avatar": "./char/event_pubraseer.png",
+                "avatar": "../char/event_pubraseer.png",
                 "text": "...<br>...[Player]."
               }
           ]
@@ -358,7 +358,7 @@
             {
             "type": "character",
             "name": "Pubraseer (Rising Moon)",
-            "avatar": "./char/event_pubraseer.png",
+            "avatar": "../char/event_pubraseer.png",
             "text": "...Heheh, a friend told me the same thing.<br>—But, this is how I truly feel."
           }
         ]
@@ -372,7 +372,7 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "........<br>........"
     },
     {
@@ -382,7 +382,7 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon)",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...[Player].<br>Your body has grown cold.<br>I'm sorry, I wasn't thoughtful."
     },
     {
@@ -392,7 +392,7 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon) ",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...With this, you won't be cold, right?<br>[Player], are you alright?"
     },
     {
@@ -419,19 +419,19 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon) ",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "It must be a bit cold here.<br>...If you'd like, after this,<br>would you come to my room?"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon) ",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...No, that's not right.<br>[Player], would you stay by my side<br>for just a little longer?"
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon) ",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "I want to talk to you much more.<br>...I want to spend time with you,<br>to gaze at the stars with you."
     },
     {
@@ -458,13 +458,13 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon) ",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...Sorry.<br>I can't control how much I want you."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon) ",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...But, this is also a part of me.<br>I want to feel your warmth.<br>...Please, if you'd let me engrave it into me deeply."
     },
     {
@@ -474,19 +474,19 @@
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon) ",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...[Player]. When I'm with you,<br>I gain more memories I don't want to lose."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon) ",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "...And, if possible,<br>I want you to remember me forever."
     },
     {
       "type": "character",
       "name": "Pubraseer (Rising Moon) ",
-      "avatar": "./char/event_pubraseer.png",
+      "avatar": "../char/event_pubraseer.png",
       "text": "I swear not to forget this feeling.<br>—I want to live my future life with you."
     },
     {

@@ -14,7 +14,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Thank you for waiting. <br>It's been a while, [Player]-sama. "
     },
     {
@@ -29,7 +29,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "That's... of course I am. <br>I told you when we met before, didn't I? "
             }
           ]
@@ -39,7 +39,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Thank you for coming all the way from Earth. <br>...So, what can I do for you? "
     },
     {
@@ -51,7 +51,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "I was only told that much beforehand. <br>Is that really all there is to it? "
             }
           ]
@@ -62,7 +62,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "I was only told that much beforehand. <br>Is that really all there is to it? "
             }
           ]
@@ -73,7 +73,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "N-No! <br>That's not what I mean at all! <br>But... I'm at a loss. "
             }
           ]
@@ -90,7 +90,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "I... I see... <br> I honestly thought there might be some other hidden agenda behind it. "
             }
           ]
@@ -101,7 +101,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "I... I see... <br> I honestly thought there might be some other hidden agenda behind it. "
             }
           ]
@@ -111,13 +111,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "I've never met someone without a specific purpose before. <br> I don't know what to do or what to talk about... "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "The Commander even sent me away, <br>saying I was supposed to have the day off... <br>Hmm... "
     },
     {
@@ -138,19 +138,19 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Ah... when I was over there... <br> I only spoke because there were things I had to say. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Otherwise, I wouldn't have been able to serve as a navigator. <br> Besides, everyone who came to see me there had a purpose. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "So... well. <br> In cases where they don't, <br> I don't really know what to talk about... "
     },
     {
@@ -162,13 +162,13 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "Huh? Oh, yes. <br> Well, not much time has passed since then, <br> so there haven't been many changes. "
             },
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "Right now, I've joined the Aradisia Kingdom's Cavalry as an <br>apprentice soldier and currently undergoing training. "
             }
           ]
@@ -179,7 +179,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "Eh? Oh, right. <br>I'm an apprentice soldier and currently undergoing training. "
             }
           ]
@@ -190,7 +190,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "D-Don't tease me. <br> I'm genuinely troubled by this, in my own way. "
             }
           ]
@@ -212,19 +212,19 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Even though I'm a cavalry soldier, <br>I've never handled a sword, <br> so I'm training from the very basics. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "I've started to build up my physical strength... <br> and only then I've realized how much I relied on 'magic' to live. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It's common for me to be so exhausted by the end of training <br> that I just fall asleep without even getting any 'magic' research done... "
     },
     {
@@ -236,7 +236,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "I'd be lying if I said that I didn't feel inconvenient. <br>Even though much of it was lost, the accumulation of thousands <br>of years of scientific technology seemed to have been vast. "
             }
           ]
@@ -252,25 +252,25 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...But, it's not a bad feeling. <br> I've never experienced a life surrounded by so many people before. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "If I had stayed in that other world, <br>my life probably would have ended in such a limited circle of people. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Besides, it's not like the 'magic' gathering isn't progressing at all. <br>The other day, I even mastered a 'magic' to remove alcohol from alcoholic beverages. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "If the experiment I'm currently working on succeeds, <br>I might even acquire a 'magic' that can instantly <br>dry a wet cloth the size of a hand towel. "
     },
     {
@@ -290,19 +290,19 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Well, you see. <br> In this world, I'm making material coins by hand <br>and manually converting and inputting codes myself— "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "So there are definitely limits. <br> Plus, 'magic' is like the culmination of multiple <br>kinds of trivial techniques piling up... "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "I'm just taking it one step at a time... <br> Oh... I just called it 'trivial' myself. <br> It's all over now... "
     },
     {
@@ -323,25 +323,25 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "No. I admit that it was an arduous journey. <br> Even so, I have no regrets about coming to this world whatsoever. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "I've already fulfilled my mission in that world. <br> Thanks to everyone, the 'rift' has been closed. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Conversely, I didn't have any goals beyond that... <br> But now, I've found new ones. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "There's so much I need to learn, and there's so much I want to learn. <br> Surely, the life that is 'my own'... has just only begun. "
     },
     {
@@ -362,13 +362,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It's just about lunchtime. <br> [Player]-sama, since you're already here. <br> Would you like to accompany me for a meal? "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "The other day, His Majesty, <br> who for some reason knows a lot about the town below, <br> recommended a few eateries. <br> I'd be happy to be your guide. "
     },
     {
@@ -386,7 +386,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "No, of course not... <br> I mean, the Korphen family here are indeed <br>potato farmers, and I do like potatoes... "
             }
           ]
@@ -396,7 +396,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Now then, shall we go? <br> ...[Player]-sama. <br> Would you mind lending me your hand? "
     },
     {
@@ -420,19 +420,19 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "There's one more thing that makes me happy. <br> You, Hydoor-sama, Barte-sama, Danzo-sama... "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It's being in a world where I can meet all of you whenever I want. <br> If I hadn't crossed worlds at that time... "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "I wouldn't have been able to see any of you again. <br> That's why... I want to cherish the 'bonds' I formed on that journey. "
     },
     {
@@ -442,7 +442,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...!"
     },
     {
@@ -458,7 +458,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "M-my apologies... <br> I tried to be brave and let myself follow my feelings, <br>but once I actually realized it... "
             }
           ]
@@ -469,7 +469,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "M-my apologies... <br> I tried to be brave and let myself follow my feelings, <br>but once I actually realized it... "
             }
           ]
@@ -480,7 +480,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "[Player]-sama... <br> I feel like you're seeing right through my heart, and it's embarrassing... "
             }
           ]
@@ -490,13 +490,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Well, let's get going. <br> Since I've been given this free time, <br>I can't let it go to waste. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Please... allow me to enjoy the <br>happiness of spending time with you. "
     },
     {

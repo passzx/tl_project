@@ -2,19 +2,19 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...Hm, ugh.<br>Huh... what happened to me...?<br>I'm sure—"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "—Ah, that's right!<br>Ganran!!<br>Where's Ganran!?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...That hazy feeling, it's gone?<br>And the monsters... aren't here either.<br>—Tch!!"
     },
     {
@@ -32,7 +32,7 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...<br>Where am I...?<br>Here..."
     },
     {
@@ -46,7 +46,7 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...<br>Alright..."
     },
     {
@@ -68,13 +68,13 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...What is this world...?<br>The atmosphere is filled with life...<br>A 'current' is being created..."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "I've never seen it like this before.<br>...Ugh.<br>If I keep looking, I'll get dizzy..."
     },
     {
@@ -100,7 +100,7 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "..................<br>Seriously...?<br>—Hm?"
     },
     {
@@ -114,13 +114,13 @@
     {
       "type": "character",
       "name": "Resident?",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "■■■...■■■■?<br>"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...Eh?<br>Huh...?"
     },
     {
@@ -146,13 +146,13 @@
     {
       "type": "character",
       "name": "Ganran",
-      "avatar": "./char/ganran.png",
+      "avatar": "../char/ganran.png",
       "text": "—Barte!<br>Grab my hand!<br>Alright, don't you dare let go!!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...<br>Ganran..."
     },
     {
@@ -190,7 +190,7 @@
     {
       "type": "character",
       "name": "Monsters",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gigogogogoh!!<br>Gipieehh!!"
     },
     {
@@ -214,19 +214,19 @@
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Whoa there!? ...Geez,<br>I guess they ate a lot and grew big, huh?!<br>Gotta cut 'em up quickly!"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Even so... whoa!?<br>Damn these monsters, using the terrain like pros!"
     },
     {
       "type": "character",
       "name": "Barte ",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Seriously, these guys<br>seem to be deliberately hiding...!<br>Are monsters really that smart!?"
     },
     {
@@ -243,7 +243,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Are they individuals optimized for hunting in this location, perhaps?<br>...That's quite troublesome."
     },
     {
@@ -263,25 +263,25 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "Eh... whoa!<br>Rapid strikes, rapid strikes!!"
             },
             {
               "type": "character",
               "name": "Red Larva",
-              "avatar": "./char/placeholder.png",
+              "avatar": "../char/placeholder.png",
               "text": "Gigih!!?<br>Gigaahh!!"
             },
             {
               "type": "character",
               "name": "Hydoor (Travelers)",
-              "avatar": "./char/event_hydoor.png",
+              "avatar": "../char/event_hydoor.png",
               "text": "'Whoa' you say, you pitiful—<br>Whoaaaah!?"
             },
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "...Who are you to talk?<br>However, this situation<br>isn't good...!"
             }
           ]
@@ -292,19 +292,19 @@
             {
               "type": "character",
               "name": "Danzo (Travelers)",
-              "avatar": "./char/event_danzo.png",
+              "avatar": "../char/event_danzo.png",
               "text": "Oh, thank you!!<br>Take that!!"
             },
             {
               "type": "character",
               "name": "Red Larva",
-              "avatar": "./char/placeholder.png",
+              "avatar": "../char/placeholder.png",
               "text": "Gigah!!<br>Gugugu..."
             },
             {
               "type": "character",
               "name": "Danzo (Travelers)",
-              "avatar": "./char/event_danzo.png",
+              "avatar": "../char/event_danzo.png",
               "text": "Haaah~, I wish they'd just make some rustling noises with the leaves or something!<br>Even I'm getting tired of this!"
             }
           ]
@@ -315,19 +315,19 @@
             {
               "type": "character",
               "name": "Hydoor (Travelers)",
-              "avatar": "./char/event_hydoor.png",
+              "avatar": "../char/event_hydoor.png",
               "text": "Whoaahh!!?<br>—That was close, you bastard!!"
             },
             {
               "type": "character",
               "name": "Red Larva",
-              "avatar": "./char/placeholder.png",
+              "avatar": "../char/placeholder.png",
               "text": "Gigagah!!<br>Gu-gehh...!!"
             },
             {
               "type": "character",
               "name": "Hydoor (Travelers)",
-              "avatar": "./char/event_hydoor.png",
+              "avatar": "../char/event_hydoor.png",
               "text": "Phew, thanks, [Player]!<br>But seriously, I don't know where they're coming from, man...!"
             }
           ]
@@ -337,25 +337,25 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "There's a limit to how much we can move by sight.<br>...However, it's also not a good idea<br>to constantly ask the Hero for instructions."
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "True, it might be unreasonable to expect them to take care of everyone...!<br>Damn it, what should we do!?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...Tch, they're coming!<br>There, take that!"
     },
     {
       "type": "character",
       "name": "Purple Larva",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gigeh!!?<br>Gugugu...!!"
     },
     {
@@ -365,31 +365,31 @@
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "...Whoa!<br>You're amazing, Barte-chan!<br>You can read the monsters's movements!?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Not so much 'read' them, but...!<br>—Danzo, behind you!"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "—Whoa, seriously!?<br>Take that!"
     },
     {
       "type": "character",
       "name": "Yellow Larva",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gyagih!?<br>Gigigi!!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "If I do this too much, I'll get dizzy, but...!<br>[Player], I'll help too!<br>Let's get through this quickly!!"
     },
     {
@@ -413,31 +413,31 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "—Gnomon!<br>It's going to jump out right in front of you!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Ah, thank you!<br>—Cost 1, Fireball!"
     },
     {
       "type": "character",
       "name": "Blue Larva",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gigagagaga!!<br>Gugehh!!"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "......<br>......"
     },
     {
       "type": "character",
       "name": "Village Elder",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "...Thank you very much for saving us, Hero-sama!<br>Please, be careful on your journey!"
     },
     {
@@ -461,79 +461,79 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Well, I thought it was going to be tough when we were surrounded,<br>but it somehow worked out!"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Hah, she's already recovered.<br>Even though she looked seasick<br>for a while after the battle."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "I-I can't help it...!<br>If you run your eyes all over the place like that,<br>you're bound to get dizzy!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "It's true I was feeling down then, but seeing all sorts of things<br>from the mountain folk has changed my mood!<br>It's not just back to zero, it's positive!"
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Oh~, was it that good?<br>The mountain people's hunting equipment.<br>You were talking about it so much~!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Yeah! After all, since coming to this world,<br>I haven't had many opportunities to look around like that!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Blades that have been optimized over time<br>to suit the local conditions and uses are<br>still interesting to look at!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Ah, that axe with the hollow inside was<br>interesting and beautiful...<br>The one used for stripping tree bark."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "The blade's direction is special, so it seems difficult, but<br>it's worth trying to forge one...!<br>Alright, next time I find a kiln, I'll try making one!"
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "That's good, that's good!<br>It's best to get your hands moving<br>while your creative impulses are tingling!"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "What are you gonna use that for?!<br>It'll just be extra baggage...<br>But... that doesn't really matter."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Hey, [Player] and Gnomon.<br>How's the 'rift' location?<br>Have you found it?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...I was able to retrieve traces, but...<br>[Player]-sama. Please observe."
     },
     {
@@ -572,37 +572,37 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "...I see. Hmm, you know,<br>you said that the paths where monsters emerge look similar.<br>Is it that?"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Lately, it's been repeatedly getting closer and then moving away.<br>Is the 'rift' itself moving...?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...I think both interpretations are correct.<br>The paths that spew out monsters and the 'rift' are essentially the same path."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It's a path that spewed out so many monsters;<br>I think there's a high possibility of misidentification."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—However. If it were truly a mistake,<br>I don't think such traces would be left behind."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Therefore, it might be more accurate to say that the 'rift'<br>is moving while spewing out monsters."
     },
     {
@@ -627,79 +627,79 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Oh? What's this...?<br>It doesn't seem to be some kind of iron sand, does it?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Yes. These are nanomachines covering the 'rift' — Ether Pumps.<br>What I'm picking up are the damaged ones<br>that have fallen off and become unrecoverable."
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Ah, you mentioned that before.<br>That the 'rift' is covered by nanomachines.<br>You call them Ether Pumps?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Yes. They completely cover the surface of the path,<br>continuously drawing Ether from the connected parallel universe and pouring it into this universe.<br>They are relics of the past."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It's precisely because these are still functioning<br>that this universe is heading towards destruction,<br>and people are coming from other universes via the 'Rainbow'."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "What a nuisance, huh?<br>We were drawn in by that, and ended up here, right?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...But if it's still functioning properly,<br>then why are such fragments falling off?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Even though it's still functioning,<br>over 6000 years have passed since the Ether Pump began operating."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It seems that as it swayed and flexed with the flow of Ether,<br>it finally started showing signs of wear and tear."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Malfunctioning nanomachines are generated, and those parts fall off,<br>creating holes in the membrane, exposing a part of the 'rift'."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "What's written in my 'grimoire'<br>is a 'magic' that detects detached nanomachines<br>existing around such holes."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "By repurposing this and combining it with a 'magic'<br>that gives directionality to the 'Observer's' observation ability,<br>I am able to detect locations."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "And by reaching the closest spot to the hole and observing the 'rift',<br>and then implementing a method to close it,<br>the goal of this journey will be complete."
     },
     {
@@ -719,37 +719,37 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Ah, so the fact that detached ones are falling means<br>that the hole created in the 'rift' definitely passed through here, right? I understand!"
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Does that mean it's physically closer than before?!<br>That's good, that's good!!"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "But what good is picking up such broken machines?<br>You seem to be researching something with 'magic' every night."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Even though they are broken, not all recorded information has disappeared.<br>What I am doing is extracting that information."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It's a steady process of organizing fragmentary information, but...<br>the refinement of the method to close the 'rift' is also progressing smoothly."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "If I can collect more data and proceed with the analysis,<br>I think I can narrow down to a definitive method."
     },
     {
@@ -767,7 +767,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "No, this is my mission.<br>It's not something to be praised for.<br>...But, thank you."
             }
           ]
@@ -777,13 +777,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Oh, and also.<br>Regarding the method for you all to return to your original universe,<br>there are also signs that something can be done about it."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "If we can reach the 'rift' and somehow connect a path<br>to your original universe from there...<br>I think it can be done."
     },
     {
@@ -800,37 +800,37 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Seriously?!<br>Until now, it was 'whether we could go back,' right?!<br>That's a huge step forward!!"
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Wow, that's hopeful news!<br>...But what exactly does 'somehow' mean?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "About that... it's not quite clear yet.<br>But it's certain that things or people connected to Hero-sama<br>will be the key."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Because only when the Hero-sama clearly observes it,<br>a path connecting this 'Endangered World' and <br>the original universe will be established for the first time."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "W-What, that's more vague than I thought...<br>Hey, [Player].<br>Don't you have any idea what it could be?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "The principle is the same as when summoning a ryekie's Parallel Weapon.<br>All you need to do is observe a clue that leads to your original universe."
     },
     {
@@ -862,7 +862,7 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "...Huh?<br>What's wrong, boss?<br>What are you doing, a mime act?"
     },
     {
@@ -879,19 +879,19 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "A 'chain'...? I don't see anything like that...<br>No, wait, the fact that you saw it at this timing means..."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Yes. The fact that it became visible the moment you focused your attention<br>means there's a strong possibility it's a clue."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "[Player]-sama.<br>Was that 'chain' connected somewhere?"
     },
     {
@@ -908,31 +908,31 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...I see.<br>If that was a connection to the original universe,<br>I thought the 'rift' would also be at the end of that 'chain'."
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Well, it looks like we'll have to go with the straightforward approach.<br>But if that really is a clue to returning to the original universe,<br>that's a huge advantage, isn't it!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "That's right, that's quite a promising story!<br>Well, I'll help with the location search too, so<br>let's work hard together!"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Ah, with hope, I can search with much more motivation!<br>So, which way should we head next?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—[Player]-sama.<br>When you observed the 'rift' just now,<br>which direction did you see it in?"
     },
     {
@@ -952,37 +952,37 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Understood.<br>Even though it's getting closer, the direction and distance still seem ambiguous."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Please bow your heads—even so.<br>Although I proposed it as a method,<br>this 'magic' really costs a lot."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Don't be stingy.<br>The fate of the world is at stake,<br>so no one will complain if you use it lavishly."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...It's not so much the money, but the consumption of material coins that's the problem.<br>To resupply coins, we have to stop at a market."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It's not certain that we'll pass through any transit points with a market from now on...<br>So I need to carefully manage the number of uses."
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "...In that case.<br>How about we get help from another person who's already here,<br>someone who can see things we can't?"
     },
     {
@@ -992,25 +992,25 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "—O-Me!?<br>Why in the world..."
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Why? You were just able to predict the monsters's movements, weren't you?<br>Besides, something's bothering me—"
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "That thing on your forehead that was rolling around<br>when you were reading the monsters's movements.<br>...You're flustered, so I hit the nail on the head?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...Haa. You're observant, aren't you?<br>Well, it's fine if it's you guys.<br>Since we're traveling together, it'll be exposed eventually."
     },
     {
@@ -1042,25 +1042,25 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Whoa, what's that!?<br>A third 'eye'...!?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...Y-Yeah, that's right.<br>I'm told not to show it to people,<br>but I always end up relying on it when the time comes."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Is that... a normal eye?<br>No, I haven't seen anything like it in this universe either,<br>so I lack knowledge."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "No. This 'eye' has slightly weaker vision than a normal one,<br>but in exchange, it can see the aura<br>that living beings emit."
     },
     {
@@ -1074,25 +1074,25 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "That's right.<br>I haven't been properly taught about it either,<br>so I only vaguely understand it."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "You humans, animals, plants, trees... various living things<br>are constantly overflowing with aura."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "The way it looks changes quite a bit depending on what kind of person they are...<br>[Player] is amazing."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Sparkling things are constantly swirling around your body.<br>It's so mesmerizing, I could watch it forever."
     },
     {
@@ -1112,91 +1112,91 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "And. Normally, only living things emit this kind of aura.<br>...But this universe is strange."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "The atmosphere everywhere is filled with aura, as if emitted by living things,<br>and it's constantly flowing somewhere."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "It's like constantly looking at water with paint dropped in it...<br>If I stare at it too much, I feel sick."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "In the universe I came from, I never saw it like this...<br>But that's precisely why I can see things."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "I could find the monsters's location thanks to this aura flow.<br>Monsters don't emit aura, you see."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "It's easy to spot something moving through the aura-filled current.<br>That's how it works."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...Well, it's something only possible in this world.<br>If I keep looking, I really get dizzy, so<br>I only look when necessary."
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "I see... So that's how Barte-chan<br>could read the monsters's movements, which only an 'Observer' could normally grasp, huh?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Hmm... This world is filled with aura. That's also a strange story...<br>Is it due to the influence of the biocompatible nanomachines?"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "I don't really get it...<br>But that aura, it flows from somewhere to somewhere, right?<br>Like an ocean current?"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "For example, does the flow direction change with the wind or something?<br>Does it always flow in the same direction?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Yeah. I don't keep this eye open all the time, so I can't be sure...<br>But it always feels like it's flowing in the same direction."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "From what I just saw...<br>it's probably over there?<br>Beyond that tall mountain."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...It seems worth investigating.<br>[Player]-sama.<br>Please lower your head once more."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "And, would you please observe the location of the 'rift'?"
     },
     {
@@ -1213,7 +1213,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Cost 5.<br>Observation directional correction, 60 seconds.<br>Target, Ether Pump."
     },
     {
@@ -1245,43 +1245,43 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "...Whoa.<br>Isn't this, perhaps, a major discovery!?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "No way...<br>The 'rift' is in the direction the aura is flowing, you mean!?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It could be a coincidence...<br>but if it's really true, that's very reassuring.<br>Let's try it a few times and verify it."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Hey, hey, that's amazing, Barte!<br>If it's true, that's a huge achievement!<br>It'll also reduce [Player]'s burden!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Ah, yeah... no way.<br>To think this 'eye' could ever<br>be useful to the party..."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "—Alright!<br>At this point, I'll help with anything I can!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Ah, but please excuse me if I can't keep it open all the time.<br>As I said earlier, I really get dizzy, and opening this 'eye' requires concentration."
     },
     {
@@ -1301,31 +1301,31 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Don't mention it!<br>We're companions moving towards the same goal, right?<br>There's no need to hold back!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Alright then... let's go!<br>The 'rift' is close now, isn't it?<br>Let's find it quickly!"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Yeah!!<br>Let's save this world properly—<br>And return to our original world!!"
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Hmm~, before I knew it, there are tons of tasks, huh?<br>But that's what being a 'Hero' is all about,<br>completing everything perfectly, right? Let's get excited!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...<br>Comrades..."
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Eh?<br>Ah, yes.<br>...Shall we go?"
     },
     {
@@ -1352,7 +1352,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—[Player]-sama.<br>How is it?"
     },
     {
@@ -1369,31 +1369,31 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...What I can see is also that way."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Ohh, the same direction again!?<br>This... surely it's for real!?"
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Yeah, yeah,<br>the credibility is just increasing!<br>So, Gnomon, what do you think?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "As long as I don't know what that 'biological aura' is,<br>I can't make a definitive statement, but..."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "If it matches this closely, then it seems safe to believe it seriously.<br>From now on, let's alternate with Barte-sama for observation."
     },
     {
@@ -1403,79 +1403,79 @@
     {
       "type": "character",
       "name": "Adult Yellow Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gigagagagagah!!<br>Pigiehh!!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Tch, they're fast...!<br>If only I could buy some time for searching and material conversion...<br> Hydoor-sama!"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Oh, leave it to me!!<br>Oraoraoraah!!<br>Who wants to be chopped up, huh!!"
     },
     {
       "type": "character",
       "name": "Adult Yellow Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gyagagah!!<br>Gigih—!!"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Haha, this isn't even a warm-up!!<br>Hey Gnomon, can you do it!?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Yes, that's enough,<br>please step back!<br>...Radiate!!"
     },
     {
       "type": "character",
       "name": "Red Larva",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gugagagagagah!!?<br>Gieehh—!!!"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Whoa, that's more brutal than I thought...<br>You're burning all the ones<br>who entered the formation."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Rather, is mercy necessary?<br>The opponent is coming to hunt with all their might,<br>so we should hunt them back with all our might."
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Haha, you're right!<br>Also, you've finally started relying on me actively!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "W-Well, that's...<br>I thought Hydoor-sama, being fast, was the right person for that situation."
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Come on, don't be shy!!<br>I'm happy, it's like I've gained a brother!!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "B-Brother...?<br>Isn't that a bit too close for comfort?<br>It's over..."
     },
     {
@@ -1485,19 +1485,19 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—I see. So this is the mechanism<br>that applies correction to the observation ability.<br>Thank you for your cooperation, Hero-sama."
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Hiii, you two.<br>Don't you get tired from staring at screens<br>in this kind of camp until late at night?"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "How about it? I just made a super chill new song, <br>would you like to listen to it during your break?"
     },
     {
@@ -1512,7 +1512,7 @@
             {
               "type": "character",
               "name": "Danzo (Travelers)",
-              "avatar": "./char/event_danzo.png",
+              "avatar": "../char/event_danzo.png",
               "text": "Hey there!?<br>Aren't you being too cold, <br>boss!?"
             }
           ]
@@ -1523,7 +1523,7 @@
           {
             "type": "character",
             "name": "Danzo (Travelers)",
-            "avatar": "./char/event_danzo.png",
+            "avatar": "../char/event_danzo.png",
             "text": "Eh. What's with that gigantic cold shoulder?<br>Oh no, just like the current lord.<br>I'm seriously going to cry."
           }
         ]
@@ -1533,37 +1533,37 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Danzo-sama.<br>Your concern is appreciated,<br>but I'd like to make a little more progress."
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Oh? Well, if you two are fine with it, then it's fine.<br>But don't overwork yourselves, okay?"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "It's true that you two are the pillars of this party.<br>But if you're constantly on edge,<br>you'll run out of strength at a crucial moment, you know?"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "So... rest when you can.<br>You might not understand it when you're young,<br>but your concentration doesn't last forever, you know?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Understood, I'll keep that in mind.<br>By the way... you say 'when you're young',<br>how old are you, Danzo-sama?"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Oh, didn't I tell you?<br>I'm 27."
     },
     {
@@ -1583,13 +1583,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Yes... even though there's only an eight-year difference...<br>How should I put it?<br>...Danzo-sama, you're amazing."
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Whoa, whoa, what kind of reaction is that!?<br>Just so you know, the average age of ninjas<br>is different from normal humans, okay!?"
     },
     {
@@ -1599,91 +1599,91 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Oh... ohh!?<br>I thought it was dull because it was just rolling around carelessly, but—"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "This is definitely a sword forged by a renowned blacksmith!!<br>If sharpened properly, it will surely be beautiful...!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "If it's found in ruins like this,<br>it's probably something someone abandoned.<br>I think it's fine to take it."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...However.<br>Barte-sama truly changes her expression when swords and the like is involved."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Of course!!<br>I'm training to forge the sharpest,<br>most beautiful blades!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "To one day create something that makes everyone gasp and involuntarily stare in admiration,<br>I don't cut corners in my research."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...I see.<br>That's why you're looking around at blades everywhere."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Yeah! Soon, with the sharpest masterpiece,<br>I'm going to make my master gasp!<br>That's... my immediate goal!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...I see.<br>That's a very wonderful goal, I think.<br>That's why you want to go back, isn't it?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Well, yeah!<br>What about you, Gnomon?<br>Don't you have a dream, and are you researching for it?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "I... rather, I'm researching because it's my duty,<br>that's how it is."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Eh? Is that really all there is?<br>Does motivation really last that long just because it's a duty?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Even if you can't put it into words,<br>isn't there something inside you?<br>Your own dream or goal, you know."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "E-Even if you say that...<br>Now that you mention it, yes, there is.<br>...I've never even thought about it."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...<br>My dream, huh..."
     },
     {
@@ -1693,13 +1693,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...<br>Hmm... No, but.<br>Surely, there must be other methods..."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "But... I don't have enough materials<br>or time to think about it anymore...<br>..."
     },
     {
@@ -1716,19 +1716,19 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Eh? Oh, [Player]-sama.<br>Coffee... Oh, the bean tea sold at the port town, is that it?<br>Thank you."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "My research... is progressing.<br>Regarding how to close the 'rift' also...<br>I've pretty much narrowed down the methods."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "However...<br>That is..."
     },
     {
@@ -1742,7 +1742,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...We've gotten quite close to the 'rift'.<br>Is this journey almost over?"
     },
     {
@@ -1760,7 +1760,7 @@
             {
               "type": "character",
               "name": "Gnomon",
-              "avatar": "./char/gnomon.png",
+              "avatar": "../char/gnomon.png",
               "text": "...No. I just used the 'magic' available to me.<br>Much of it is thanks to you, Hero-sama, and Barte-sama."
             }
           ]
@@ -1770,13 +1770,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Honestly... I was scared at first.<br>I had lived almost without interacting with other people."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "I, who was even afraid to shake Danzo-sama's outstretched hand that day...<br>I wondered if I could lead this journey well."
     },
     {
@@ -1796,25 +1796,25 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Yes. Everyone is truly warm...<br>They firmly hold their dreams and wishes,<br>and are connected to someone by strong bonds..."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "And... they have courage.<br>Thanks to that, even I, this 'coward',<br>was able to journey this far together."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "If the 'Hero' hadn't been [Player]-sama...<br>if the party members had been different people..."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "I might have lost my nerve...<br>and been unable to do anything."
     },
     {
@@ -1834,7 +1834,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Eh?<br>But..."
     },
     {
@@ -1854,7 +1854,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "......<br>......"
     },
     {
@@ -1874,7 +1874,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "......<br>[Player]-sama..."
     },
     {
@@ -1894,13 +1894,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "......<br>......"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "My courage... huh...<br>..."
     },
     {
@@ -1928,7 +1928,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Yes.<br>Goodnight...<br>..."
     },
     {
@@ -1938,7 +1938,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Please wait.<br>[Player]-sama."
     },
     {
@@ -1958,13 +1958,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Could you gather everyone in the party?<br>I have something important to discuss."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Regarding how to close the 'rift'.<br>I have reached a conclusion,<br>and I would like to talk about it."
     },
     {
@@ -1992,97 +1992,97 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...So, what does that mean?<br>We need to go outside this universe once, is that it?"
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Go outside the 'rift'... and then.<br>[Player] observes the 'rift' of this universe from the outside... is that right?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Yes, that's correct.<br>To grasp the full picture of the 'rift' and close it,<br>that method is the only one."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "What's necessary to close the giant path that is the 'rift',<br>is to observe its full picture and to stop the flow of Ether."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "In both of these, the Ether Pumps covering the 'rift'<br>from the inside exist as a fatal obstacle."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Ether Pumps continuously generate Ether flow.<br>And... even if a part is destroyed, it self-repairs. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Even if one tries to observe and<br>close the 'rift' while these are active,<br>the flow of Ether will impede it. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It's like trying to build a dam in a raging river without stopping the flow.<br>It would require an enormous amount of effort. "
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "Therefore, we need to stop all Ether Pumps simultaneously,<br>block the flow, and then go to the other side of the 'rift'—"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "That is, outside the universe,<br>where the Ether Pumps do not obstruct<br>the overall observation of the 'rift', and close the path."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Hey, wait.<br>So that means you've managed to detect<br>a way to stop the Ether Pumps, right?"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Then, couldn't we just use that and rip them all off,<br>and that would be the end of it?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...No. While I did discover a 'magic' to stop the Ether Pumps,<br>it can only temporarily halt them."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "So, even if we use this stopping magic,<br>the Ether Pumps will reactivate after a certain period of time.<br>Moreover—"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "The 'rift' is estimated to be large enough to swallow this entire planet.<br>It's an immense amount of nanomachines, enough to cover it."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "It would be difficult to destroy these,<br>which are firmly adhered to the path,<br>at a rate that surpasses their self-repair capability."
     },
     {
@@ -2102,55 +2102,55 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Whether you can actually close it.<br>And whether you can return to your original universe...<br>I cannot guarantee that."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "I do not know everything about the 'Observer''s abilities.<br>But... it is a fact that no other method has been found."
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Outside the universe, what kind of place is that...?<br>Can we breathe?<br>Can we move?"
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Well... Even I, who fly all over the universe,<br>have never been there. So I don't know.<br>Can we even go there in the first place...?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Theoretically, it's possible.<br>After the Hero-sama observes the hole in the 'rift'—"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "If I use a 'magic' to transport you all, relying on that,<br>you can reach it.<br>The problem lies beyond that, however..."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "—Hold on, wait.<br>Gnomon, what will happen to you?<br>Will you be saying goodbye to us there?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...If I am to reliably transport everyone outside the universe...<br>I will also need to accompany you outside the universe<br>to stabilize the 'magic'."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "However, if the 'rift' is closed that way...<br>I would not be able to return to this universe."
     },
     {
@@ -2170,31 +2170,31 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...<br>My mission is to help the Hero-sama close the 'rift'."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "For that...<br>even if I lose my place to return to,<br>it should be fine."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "However... indeed.<br>I had a slight hesitation in telling you all this answer."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "I... what am I afraid of?<br>What is the true nature of this hesitation?<br>...I don't even know myself."
     },
     {
       "type": "character",
       "name": "All",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "......<br>......."
     },
     {
@@ -2218,7 +2218,7 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "[Player]!?<br>What in the—whoa!?"
     },
     {
@@ -2228,13 +2228,13 @@
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Whoaahh!?<br>E-Earthquake!?<br>It's pretty big...!"
     },
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "I-It's not just shaking...!<br>What is this sound...!<br>The sky is crying...!?"
     },
     {
@@ -2244,7 +2244,7 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "What, what is that sound...!?<br>—Tch, my ears are splitting...!"
     },
     {
@@ -2254,7 +2254,7 @@
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "...Hey.<br>Surely, a sunrise at this hour<br>is too early, isn't it...?"
     },
     {
@@ -2301,19 +2301,19 @@
     {
       "type": "character",
       "name": "Hydoor",
-      "avatar": "./char/hydoor.png",
+      "avatar": "../char/hydoor.png",
       "text": "Wha—what is this...?<br>This isn't just 'something's wrong';<br>this is beyond that."
     },
     {
       "type": "character",
       "name": "Danzo",
-      "avatar": "./char/danzo.png",
+      "avatar": "../char/danzo.png",
       "text": "Is this...<br>what the end of the world looks like...?<br>This is, seriously..."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "......<br>It's over..."
     },
     {
@@ -2323,37 +2323,37 @@
     {
       "type": "character",
       "name": "Villager",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Heeeh, h-help...!<br>Help meee!!"
     },
     {
       "type": "character",
       "name": "Villager",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "These guys, suddenly from where...!?<br>Whoa!?"
     },
     {
       "type": "character",
       "name": "Purple Meteorite-type Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gigigih!!!<br>Pigiehh!!"
     },
     {
       "type": "character",
       "name": "Green Bird-type Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Pigaoh!!<br>Gaoohhh!!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Are those... the people from the settlement we visited yesterday!?<br>They're being attacked by an outrageous number of monsters!?"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...This means it's finally time.<br>The time limit is approaching, perhaps."
     },
     {
@@ -2370,13 +2370,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—I understand.<br>[Player]-sama, transform.<br>First, let's protect those people."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "And... we must hurry.<br>To the location of the 'rift'."
     },
     {
@@ -2386,49 +2386,49 @@
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Tadaaaa!!<br>Alright, I'll stall them!<br>Listen to my song!!"
     },
     {
       "type": "character",
       "name": "Green Bird-type Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gyarururu!!<br>Gugahhh...!!"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "OK, they're hooked!<br>Now everyone, now's the time!!"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Oh yeah!!<br>—Here goes!!"
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—Target, locked!<br>Concentrated fire!!"
     },
     {
       "type": "character",
       "name": "Green Bird-type Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gugagagagaga!!?<br>Gigih...!!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...With this,<br>it's all of them this time, right!?<br>How is it!?"
     },
     {
       "type": "character",
       "name": "Blue Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gigogogoh...!<br>Gipiehh!!"
     },
     {
@@ -2445,25 +2445,25 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—This is bad.<br>They're increasing rapidly<br>as soon as we deal with them."
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "Ugh, this is endless!?<br>We don't have time to be standing around here,<br>this is totally awful, isn't it!?"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Even so, we can't just leave the people of this settlement<br>in this state, can we!?"
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Damn it...!<br>What in the world do we do!?<br>Isn't there anyone we can entrust this to!?"
     },
     {
@@ -2480,13 +2480,13 @@
     {
       "type": "character",
       "name": "???",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Sorry to keep you waiting!<br>Uraaaah!!"
     },
     {
       "type": "character",
       "name": "Blue Monster",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "Gigah!?<br>Gipiehh..."
     },
     {
@@ -2522,73 +2522,73 @@
     {
       "type": "character",
       "name": "Hero",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "Sorry!<br>Because of this commotion, it took some time to arrive!"
     },
     {
       "type": "character",
       "name": "Hero",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "—We will take care of this place.<br>Heroes, please hurry to the 'rift'."
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "I-Is that okay!?<br>But, just the two of you...!"
     },
     {
       "type": "character",
       "name": "Hero",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "...Don't worry.<br>Our reinforcements will also arrive here shortly."
     },
     {
       "type": "character",
       "name": "Hero",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "You have a mission that only you can accomplish!<br>Go and fulfill it!!"
     },
     {
       "type": "character",
       "name": "Hero",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "You have given us more than enough courage.<br>So... we will resist as much as we can."
     },
     {
       "type": "character",
       "name": "Hero",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "That's it!!!<br>We're counting on you, Heroes!!!"
     },
     {
       "type": "character",
       "name": "Hero",
-      "avatar": "./char/huckle.png",
+      "avatar": "../char/huckle.png",
       "text": "—Here they come.<br>You go to the left rear.<br>I'll take the right."
     },
     {
       "type": "character",
       "name": "Hero",
-      "avatar": "./char/ryekie.png",
+      "avatar": "../char/ryekie.png",
       "text": "Leave it to me!!!<br>I'll do it!!!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "...They left.<br>To think there were such spirited heroes<br>in this world too..."
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "—No.<br>It seems the seeds we sowed<br>have properly sprouted."
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Ah... ah!<br>Just as I thought!<br>They're a troublesome bunch...!"
     },
     {
@@ -2605,13 +2605,13 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...We can't afford to waste<br>the time these people have created for us."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "—[Player]-sama,<br>observe the coordinates of that crack.<br>I will use high-cost movement magic."
     },
     {
@@ -2631,25 +2631,25 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Yes.<br>There's no time for hesitation anymore.<br>We must close the 'rift' as quickly as possible."
     },
     {
       "type": "character",
       "name": "Hydoor (Travelers)",
-      "avatar": "./char/event_hydoor.png",
+      "avatar": "../char/event_hydoor.png",
       "text": "Otherwise, this world and<br>we ourselves will be finished...!<br>Alright, let's do this!!"
     },
     {
       "type": "character",
       "name": "Danzo (Travelers)",
-      "avatar": "./char/event_danzo.png",
+      "avatar": "../char/event_danzo.png",
       "text": "My resolve is already set!!<br>Let's hurry and put an end to it, shall we!?<br>This hopeless turmoil, I mean!!"
     },
     {
       "type": "character",
       "name": "Barte",
-      "avatar": "./char/barte.png",
+      "avatar": "../char/barte.png",
       "text": "Yeah, before we return to our original world...<br>I'll forge the ultimate weapon<br>to save this world!!"
     },
     {
@@ -2667,31 +2667,31 @@
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "...Master.<br>Finally, the world has begun to break down.<br>The time of choice you spoke of is approaching."
     },
     {
       "type": "character",
       "name": "Gnomon",
-      "avatar": "./char/gnomon.png",
+      "avatar": "../char/gnomon.png",
       "text": "But, I..."
     },
     {
       "type": "character",
       "name": "Castle Soldier",
-      "avatar": "./char/placeholder.png",
+      "avatar": "../char/placeholder.png",
       "text": "—Your Majesty!<br>The Heroes have finally located<br>the 'rift' and are heading there!"
     },
     {
       "type": "character",
       "name": "King",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "Ah... I was just watching.<br>...We can't let them do all the hard work alone, can we?"
     },
     {
       "type": "character",
       "name": "King",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "We shall also do what we can.<br>What... even the observation ability of weak 'Observers' like us<br>would be better than nothing."
     },
     {
@@ -2709,13 +2709,13 @@
     {
       "type": "character",
       "name": "King",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "To the people of this country... nay.<br>To Endaira, and to the people remaining in this universe."
     },
     {
       "type": "character",
       "name": "King",
-      "avatar": "./char/alphecca.png",
+      "avatar": "../char/alphecca.png",
       "text": "Please, heed the earnest wish<br>of the king of this small country."
     }
   ]

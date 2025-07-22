@@ -10,7 +10,7 @@
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "...[Player].<br>D-Did I make you wait?"
   },
   {
@@ -25,13 +25,13 @@
           {
             "type": "character",
             "name": "Astar",
-            "avatar": "./char/astar.png",
+            "avatar": "../char/astar.png",
             "text": "S-Sorry.<br>I had something to ask Saotome..."
           },
           {
             "type": "character",
             "name": "Astar",
-            "avatar": "./char/astar.png",
+            "avatar": "../char/astar.png",
             "text": "No, never mind.<br>I just had a little trouble preparing for something."
           }
         ]
@@ -45,19 +45,19 @@
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "...[Player].<br>I must thank you.<br>No, I wanted to tell you something."
   },
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "If you hadn't called out to me,<br>I wouldn't have come to Enoshima like this..."
   },
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "And I wouldn't have been active<br>as a local hero."
   },
   {
@@ -69,7 +69,7 @@
           {
             "type": "character",
             "name": "Astar",
-            "avatar": "./char/astar.png",
+            "avatar": "../char/astar.png",
             "text": "...Yes.<br>Not only I've met a raw talent for \"Santa\", I also gained information about a \"colleague\" (Black Santa)."
           }
         ]
@@ -80,13 +80,13 @@
           {
             "type": "character",
             "name": "Astar",
-            "avatar": "./char/astar.png",
+            "avatar": "../char/astar.png",
             "text": "...That's true.<br>I didn't know that the reward for being a hero would be this much."
           },
           {
             "type": "character",
             "name": "Astar",
-            "avatar": "./char/astar.png",
+            "avatar": "../char/astar.png",
             "text": "With this money, the repair of my \"sleigh\" should progress considerably."
           }
         ]
@@ -97,7 +97,7 @@
           {
             "type": "character",
             "name": "Astar",
-            "avatar": "./char/astar.png",
+            "avatar": "../char/astar.png",
             "text": "...Yes.<br>Not only I've met a raw talent for \"Santa\", I also gained information about a \"colleague\" (Black Santa)."
           }
         ]
@@ -107,7 +107,7 @@
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "Even just that,<br>I can say it was worth taking the job.<br>And, most of all—"
   },
   {
@@ -117,25 +117,25 @@
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "Thanks to you, I was able to<br>play the role of the \"summer Santa\"."
   },
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "Until I came to Enoshima,<br>I had completely forgotten that<br>I could even dream such a dream."
   },
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "And, with the form you observed for me,<br>I was able to bring back smiles to the children.<br>For me, that is the greatest reward."
   },
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "Thank you, [Player].<br>For calling me for this request."
   },
   {
@@ -155,19 +155,19 @@
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "If you really meant it,<br>then accepting hero jobs<br>might not be so bad sometimes."
   },
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "If it's during the \"Santa\" preparation period,<br>I can probably arrange my schedule accordingly."
   },
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "...Of course,<br>I don't intend to neglect my \"main job\"."
   },
   {
@@ -177,13 +177,13 @@
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "...[Player].<br>It's a sudden request, but<br>could you transform me into that form?"
   },
   {
     "type": "character",
     "name": "Astar",
-    "avatar": "./char/astar.png",
+    "avatar": "../char/astar.png",
     "text": "The form of my other dream that you observed—<br>The form of the \"summer Santa\"."
   },
   {
@@ -210,7 +210,7 @@
           {
             "type": "character",
             "name": "Astar (Last Resort)",
-            "avatar": "./char/event_astar.png",
+            "avatar": "../char/event_astar.png",
             "text": "Ah, thank you.<br>When you say that, my heart feels... warm."
           }
         ]
@@ -221,7 +221,7 @@
           {
             "type": "character",
             "name": "Astar (Last Resort)",
-            "avatar": "./char/event_astar.png",
+            "avatar": "../char/event_astar.png",
             "text": "Ah, thank you.<br>When you say that, my heart feels... warm."
           }
         ]
@@ -232,7 +232,7 @@
           {
             "type": "character",
             "name": "Astar (Last Resort)",
-            "avatar": "./char/event_astar.png",
+            "avatar": "../char/event_astar.png",
             "text": "I don't mind you being interested, but that's a bit too direct..."
           }
         ]
@@ -246,19 +246,19 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "...It might not be a big deal, but<br>I heard from Saotome that there's a perfect spot<br>on the sea to watch the fireworks."
   },
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "This time,<br>I want to guide you there.<br>On my surfboard."
   },
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "...[Player].<br>Will you come with me?"
   },
   {
@@ -278,7 +278,7 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "Well then, it's a bit narrow,<br>but please get on my board."
   },
   {
@@ -292,7 +292,7 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "...!<br>Sorry, [Player].<br>It's just because my body is so big..."
   },
   {
@@ -304,7 +304,7 @@
           {
             "type": "character",
             "name": "Astar (Last Resort)",
-            "avatar": "./char/event_astar.png",
+            "avatar": "../char/event_astar.png",
             "text": "C-Cute...!?<br>You think of me that way...!?"
           }
         ]
@@ -315,7 +315,7 @@
           {
             "type": "character",
             "name": "Astar (Last Resort)",
-            "avatar": "./char/event_astar.png",
+            "avatar": "../char/event_astar.png",
             "text": "I-Is that so...?<br>Of course, I don't dislike being told that, but...!"
           }
         ]
@@ -341,19 +341,19 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "...This is the first time.<br>I've seen fireworks this close."
   },
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "I didn't know fireworks<br>were so beautiful."
   },
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "Or perhaps,<br>it's because you're by my side<br>that they shine so brightly..."
   },
   {
@@ -374,7 +374,7 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "No...<br>Never mi—"
   },
   {
@@ -388,7 +388,7 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "It's not nothing...!<br>There's something I absolutely<br>want to tell you."
   },
   {
@@ -398,19 +398,19 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "...[Player].<br>I was happy to have accepted this request<br>with you, and to have fought by your side."
   },
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "That's why, I wanted to do<br>many more things with you."
   },
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "May it be about the next \"Santa\",<br>or hero works,<br>...and other things."
   },
   {
@@ -420,7 +420,7 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "...Voice person.<br>I want you to let me hear<br>your voice by my side, forever."
   },
   {
@@ -440,7 +440,7 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "[Player]...!<br>I... truly...!"
   },
   {

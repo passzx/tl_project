@@ -8,13 +8,13 @@
           {
             "type": "character",
             "name": "Astar (Last Resort)",
-            "avatar": "./char/event_astar.png",
+            "avatar": "../char/event_astar.png",
             "text": "[Player]...<br>Thank you..."
           },
           {
             "type": "character",
             "name": "Astar (Last Resort)",
-            "avatar": "./char/event_astar.png",
+            "avatar": "../char/event_astar.png",
             "text": "Your hands are truly warm..."
           }
         ]
@@ -25,13 +25,13 @@
           {
             "type": "character",
             "name": "Astar (Last Resort)",
-            "avatar": "./char/event_astar.png",
+            "avatar": "../char/event_astar.png",
             "text": "This...<br>I can feel you right by my side..."
           },
           {
             "type": "character",
             "name": "Astar (Last Resort)",
-            "avatar": "./char/event_astar.png",
+            "avatar": "../char/event_astar.png",
             "text": "I...<br>I am truly happy..."
           }
         ]
@@ -49,13 +49,13 @@
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "...[Player].<br>I've always...<br>wanted to be like this with you."
   },
   {
     "type": "character",
     "name": "Astar (Last Resort)",
-    "avatar": "./char/event_astar.png",
+    "avatar": "../char/event_astar.png",
     "text": "And, at a deeper level... With you..."
   },
   {
