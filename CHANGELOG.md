@@ -5,6 +5,10 @@
 
 -------------------------------------------
 
+20/08/2025
+- [snowland] complete
+- new folder for samo icons
+
 22/07/2025
 - fixed [rookies] because I forgot to include the new script for some reason
 - changed the character image file directory to be more efficient (god knows why I didn't do that sooner)
@@ -44,3 +48,4 @@
 25/05/2025:
 - website published
 - [we_traveler] complete + 2 epilogues from [choco_volcano]
+
