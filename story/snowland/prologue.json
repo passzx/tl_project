@@ -7,7 +7,7 @@
     "type": "character",
     "name": "A Snow White Wolf Maiden?",
     "avatar": "../char/housamo/snegurochka.png",
-    "text": "Ah, Brother Jack, you are on camera!<br>Come on now, don't be shy, come over here!"
+    "text": "Ah, Brother Jack, you are on camera!<br>Come on now, Brother, don't be shy, come over here!"
   },
   {
     "type": "character",
@@ -69,7 +69,7 @@
   },
   {
     "type": "title",
-    "text": "Prologue:<br>Make-up Snow Maiden"
+    "text": "Prologue:<br>Make-up Snow Maiden!"
   },
   {
     "type": "narrator",
@@ -2180,4 +2180,5 @@
     "type": "narrator",
     "text": "Ignoring [Player], the three started making a ruckus.<br>The tickets they each clutched fluttered uneasily."
   }
+
 ]
