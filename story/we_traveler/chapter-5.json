@@ -21,19 +21,19 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "Then... then what about you guys?! You're invaders, <br>and you're imposing your own rules!! "
+      "text": "Then... then what about you guys!? You're invaders, <br>and you're imposing your own rules!! "
     },
     {
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "How much have you taken from us?! If you're so mighty, <br>give it all back right now, you parasites!! "
+      "text": "How much have you taken from us!? If you're so mighty, <br>give it all back right now, you parasites!! "
     },
     {
       "type": "character",
       "name": "Isaribi",
       "avatar": "../char/isaribi.png",
-      "text": "...?! <br>What are you talking about? <br>Invaders...?!! "
+      "text": "...!? <br>What are you talking about? <br>Invaders...!?! "
     },
     {
       "type": "narrator",
@@ -273,7 +273,7 @@
     },
     {
       "type": "title",
-      "text": "Chapter 5 - Bearer of Accumulation"
+      "text": "Chapter 5:<br> Bearer of Accumulation"
     },
     {
       "type": "narrator",
@@ -291,7 +291,7 @@
       "type": "character",
       "name": "Guild Member",
       "avatar": "../char/placeholder.png",
-      "text": "How about this?! I tried to make this <br>by imitating an ancient sword excavated from an eastern commune! <br>It's quite something, isn't it? "
+      "text": "How about this!? I tried to make this <br>by imitating an ancient sword excavated from an eastern commune! <br>It's quite something, isn't it? "
     },
     {
       "type": "character",
@@ -515,7 +515,7 @@
       "type": "character",
       "name": "???",
       "avatar": "../char/barte.png",
-      "text": "So—please! <br>Would you mind showing us your weapons close up?! "
+      "text": "So—please! <br>Would you mind showing us your weapons close up!? "
     },
     {
       "type": "character",
@@ -645,7 +645,7 @@
       "type": "character",
       "name": "Guild Member",
       "avatar": "../char/placeholder.png",
-      "text": "Hey, what is this?! <br>It's a chakram made of blades all around, and it has no handle...!? <br>What an unusual shape for a chakram!! "
+      "text": "Hey, what is this!? <br>It's a chakram made of blades all around, and it has no handle...!? <br>What an unusual shape for a chakram!! "
     },
     {
       "type": "character",
@@ -657,7 +657,7 @@
       "type": "character",
       "name": "Danzo",
       "avatar": "../char/danzo.png",
-      "text": "There are all sorts of other things too, you know?! <br>Like small shuriken, kunai, caltrops! <br>And... how about a Ninja Sword! "
+      "text": "There are all sorts of other things too, you know!? <br>Like small shuriken, kunai, caltrops! <br>And... how about a Ninja Sword! "
     },
     {
       "type": "character",
@@ -733,13 +733,13 @@
       "type": "character",
       "name": "Danzo",
       "avatar": "../char/danzo.png",
-      "text": "There's nothing to be embarrassed about! <br>Let's flaunt it more, shall we?! <br>The customers want it, after all~, hehe! "
+      "text": "There's nothing to be embarrassed about! <br>Let's flaunt it more, shall we!? <br>The customers want it, after all~, hehe! "
     },
     {
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "Unlike you, I'm delicate! <br>And why are you acting a little too happy about this?! "
+      "text": "Unlike you, I'm delicate! <br>And why are you acting a little too happy about this!? "
     },
     {
       "type": "character",
@@ -801,7 +801,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "Huh?! F-From these, you say?! <br>The weapon I use after transforming is different <br>from the one I use before transforming, you know?! "
+      "text": "Huh!? F-From these, you say!? <br>The weapon I use after transforming is different <br>from the one I use before transforming, you know!? "
     },
     {
       "type": "character",
@@ -1115,7 +1115,7 @@
       "type": "character",
       "name": "???",
       "avatar": "../char/barte.png",
-      "text": "Oh?! What, what, you, <br>you were someone who understood the beauty of weapons after all! <br>Ah, I'm so happy!! "
+      "text": "Oh!? What, what, you, <br>you were someone who understood the beauty of weapons after all! <br>Ah, I'm so happy!! "
     },
     {
       "type": "character",
@@ -1207,7 +1207,7 @@
       "type": "character",
       "name": "Danzo",
       "avatar": "../char/danzo.png",
-      "text": "Heard it before? What do you mean?! <br>It's the name of the person who went missing <br>from the location show I was MCing!!"
+      "text": "Heard it before? What do you mean!? <br>It's the name of the person who went missing <br>from the location show I was MCing!!"
     },
     {
       "type": "character",
@@ -1245,7 +1245,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "W-What are you talking about!? <br>Hey! Barte, was it?! <br>What in the world is happening?! "
+      "text": "W-What are you talking about!? <br>Hey! Barte, was it!? <br>What in the world is happening!? "
     },
     {
       "type": "character",
@@ -1978,7 +1978,7 @@
           "type": "character",
           "name": "Port People",
           "avatar": "../char/placeholder.png",
-          "text": "My companions, my companions were eaten!<br>Where are the heroes?!"
+          "text": "My companions, my companions were eaten!<br>Where are the heroes!?"
         },
         {
           "type": "choice",
@@ -2160,7 +2160,7 @@
                     "type": "character",
                     "name": "Hydoor",
                     "avatar": "../char/hydoor.png",
-                    "text": "Hey, don't play dumb!<br>You said we might be able to observe it yesterday, didn't you?!"
+                    "text": "Hey, don't play dumb!<br>You said we might be able to observe it yesterday, didn't you!?"
                 }
               ]
             }
@@ -2480,7 +2480,7 @@
                     "type": "character",
                     "name": "Barte",
                     "avatar": "../char/barte.png",
-                    "text": "Heh-heh, right?!<br>I can fight properly too, you know!"
+                    "text": "Heh-heh, right!?<br>I can fight properly too, you know!"
                 }
             ]
             },

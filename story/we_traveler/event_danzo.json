@@ -15,7 +15,7 @@
       "type": "character",
       "name": "Danzo (Traveler)",
       "avatar": "../char/event_danzo.png",
-      "text": "Yeah! How's that, boss?!<br>I feel pretty good about it!"
+      "text": "Yeah! How's that, boss!?<br>I feel pretty good about it!"
     },
     {
       "type": "choice",
@@ -76,7 +76,7 @@
               "type": "character",
               "name": "Danzo (Traveler)",
               "avatar": "../char/event_danzo.png",
-              "text": "Right?!<br>I can't wait either, I wonder what kind of feedback we'll get?!"
+              "text": "Right!?<br>I can't wait either, I wonder what kind of feedback we'll get!?"
             }
           ]
         },
@@ -87,7 +87,7 @@
               "type": "character",
               "name": "Danzo (Traveler)",
               "avatar": "../char/event_danzo.png",
-              "text": "N-No, no, what are you saying?!<br>[Player]-kun, you came up with the crucial parts, didn't you?!"
+              "text": "N-No, no, what are you saying!?<br>[Player]-kun, you came up with the crucial parts, didn't you!?"
             },
             {
               "type": "character",

@@ -838,7 +838,7 @@
       "type": "character",
       "name": "Royal Guard Captain",
       "avatar": "../char/placeholder.png",
-      "text": "What?! <br>—Guwahh!! "
+      "text": "What!? <br>—Guwahh!! "
     },
     {
       "type": "character",
@@ -1360,7 +1360,7 @@
     },
     {
       "type": "title",
-      "text": "Chapter 1 - The Bringer of Strife"
+      "text": "Chapter 1:<br> The Bringer of Strife"
     },
     {
       "type": "narrator",

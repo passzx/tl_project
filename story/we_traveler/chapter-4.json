@@ -9,13 +9,13 @@
       "type": "character",
       "name": "Middle-aged Man",
       "avatar": "../char/placeholder.png",
-      "text": "—There you are! <br> Slipping away without learning your lesson, <br> won't you... return to your training?!"
+      "text": "—There you are! <br> Slipping away without learning your lesson, <br> won't you... return to your training!?"
     },
     {
       "type": "character",
       "name": "Black-clad Youth",
       "avatar": "../char/placeholder.png",
-      "text": "Gah, Gramps...?! <br> What are you doing— Guah?!"
+      "text": "Gah, Gramps...!? <br> What are you doing— Guah!?"
     },
     {
       "type": "character",
@@ -169,7 +169,7 @@
     },
     {
       "type": "title",
-      "text": "Chapter 4 - The Bringer of Pleasure"
+      "text": "Chapter 4:<br> The Bringer of Pleasure"
     },
     {
       "type": "narrator",
@@ -201,7 +201,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "H-Hey... we've walked a ton to get here! <br> Can't we just take a quick dip <br> to wash off the sweat, just for a bit!? Huh?! "
+      "text": "H-Hey... we've walked a ton to get here! <br> Can't we just take a quick dip <br> to wash off the sweat, just for a bit!? Huh!? "
     },
     {
       "type": "choice",
@@ -449,19 +449,19 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "What, are you making fun of me?! <br> Guys like you... take this! <br> I'll get you! "
+      "text": "What, are you making fun of me!? <br> Guys like you... take this! <br> I'll get you! "
     },
     {
       "type": "character",
       "name": "Gnomon",
       "avatar": "../char/gnomon.png",
-      "text": "Whoa?! Hey, <br> don't splash me! <br> I'm—whoa! "
+      "text": "Whoa!? Hey, <br> don't splash me! <br> I'm—whoa! "
     },
     {
       "type": "character",
       "name": "Danzo",
       "avatar": "../char/danzo.png",
-      "text": "Haha, like a fish in water, right?! <br> It's good, let's have fun like this! <br> Right, Hy-kun! "
+      "text": "Haha, like a fish in water, right!? <br> It's good, let's have fun like this! <br> Right, Hy-kun! "
     },
     {
       "type": "character",
@@ -579,7 +579,7 @@
         "type": "character",
         "name": "Danzo",
         "avatar": "../char/danzo.png",
-        "text": "...Hm? <br> Oh, [Player]-kun?! <br> Did I perhaps wake you up? "
+        "text": "...Hm? <br> Oh, [Player]-kun!? <br> Did I perhaps wake you up? "
       },
       {
         "type": "character",
@@ -964,7 +964,7 @@
         "type": "character",
         "name": "Danzo",
         "avatar": "../char/danzo.png",
-        "text": "Yes? What is it, boss—?! <br> What happened to that terminal?! <br> I feel like I've seen that kind of light somewhere before...! "
+        "text": "Yes? What is it, boss—!? <br> What happened to that terminal!? <br> I feel like I've seen that kind of light somewhere before...! "
     },
     {
       "type": "choice",
@@ -983,7 +983,7 @@
         "type": "character",
         "name": "Danzo",
         "avatar": "../char/danzo.png",
-        "text": "...Is that true?! <br> You mean you can respond so flexibly, boss?! "
+        "text": "...Is that true!? <br> You mean you can respond so flexibly, boss!? "
       },
       {
         "type": "character",
@@ -1055,7 +1055,7 @@
       "type": "character",
       "name": "Danzo (Travelers)",
       "avatar": "../char/event_danzo.png",
-      "text": "...Ohh?! <br> Th-This is—amazing!! <br> We did it, boss!! "
+      "text": "...Ohh!? <br> Th-This is—amazing!! <br> We did it, boss!! "
     },
     {
       "type": "character",
@@ -1108,7 +1108,7 @@
           "dialogue_after_selection": []
         },
         {
-          "text": "C-Can I really do it...?!",
+          "text": "C-Can I really do it...!?",
           "dialogue_after_selection": [
             {
               "type": "character",
@@ -1146,7 +1146,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "Whoa, what terrible timing?! <br> Do monsters just pop up <br> that frequently in this world?! "
+      "text": "Whoa, what terrible timing!? <br> Do monsters just pop up <br> that frequently in this world!? "
     },
     {
       "type": "character",
@@ -1330,7 +1330,7 @@
               "type": "character",
               "name": "Danzo (Travelers)",
               "avatar": "../char/event_danzo.png",
-              "text": "Eh, now?! <br> Come on, don't say anything uncool! <br> It's fine to have a traveling entertainer playing electric guitar, right?! "
+              "text": "Eh, now!? <br> Come on, don't say anything uncool! <br> It's fine to have a traveling entertainer playing electric guitar, right!? "
             }
           ]
         },
@@ -1357,7 +1357,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "Whoa, when did you do that?! <br> You didn't show us that form until yesterday! <br> What's going on?! "
+      "text": "Whoa, when did you do that!? <br> You didn't show us that form until yesterday! <br> What's going on!? "
     },
     {
       "type": "character",
@@ -1471,7 +1471,7 @@
       "type": "choice",
       "options": [
         {
-          "text": "Th-This is also the power of music...?!",
+          "text": "Th-This is also the power of music...!?",
           "dialogue_after_selection": []
         },
         {
@@ -1481,7 +1481,7 @@
               "type": "character",
               "name": "Danzo (Travelers)",
               "avatar": "../char/event_danzo.png",
-              "text": "It's improv, improv!! <br> It's a staple of live shows, right?! <br> Let's keep the excitement going to the very end! "
+              "text": "It's improv, improv!! <br> It's a staple of live shows, right!? <br> Let's keep the excitement going to the very end! "
             }
           ]
         },
@@ -1586,7 +1586,7 @@
           "dialogue_after_selection": []
         },
         {
-          "text": "It's a kunai and a pick...?!",
+          "text": "It's a kunai and a pick...!?",
           "dialogue_after_selection": []
         },
         {
@@ -1769,7 +1769,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "You suggested it?! <br> And you really hid it?! <br> What's the point of that surprise!! "
+      "text": "You suggested it!? <br> And you really hid it!? <br> What's the point of that surprise!! "
     },
     {
       "type": "character",
@@ -1799,7 +1799,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "...?! <br> N-No, that's not...! "
+      "text": "...!? <br> N-No, that's not...! "
     },
     {
       "type": "character",
@@ -1927,7 +1927,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "\"That explains it,\" what do you mean?! <br> What did you just understand?! "
+      "text": "\"That explains it,\" what do you mean!? <br> What did you just understand!? "
     },
     {
       "type": "choice",
@@ -2022,7 +2022,7 @@
         "type": "character",
         "name": "Hydoor",
         "avatar": "../char/hydoor.png",
-        "text": "M-Me?! <br> What about my weapon?! "
+        "text": "M-Me!? <br> What about my weapon!? "
       },
       {
         "type": "character",
@@ -2040,7 +2040,7 @@
         "type": "character",
         "name": "Hydoor",
         "avatar": "../char/hydoor.png",
-        "text": "O-Oh?! <br> Is it that obvious even to a commoner?! "
+        "text": "O-Oh!? <br> Is it that obvious even to a commoner!? "
       },
       {
         "type": "character",

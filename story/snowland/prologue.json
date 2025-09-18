@@ -7,7 +7,7 @@
     "type": "character",
     "name": "A Snow White Wolf Maiden?",
     "avatar": "../char/housamo/snegurochka.png",
-    "text": "Ah, Brother Jack, you are on camera!<br>Come on now, Brother, don't be shy, come over here!"
+    "text": "Ah, Brother Jack, you are on camera!<br>Come on now, don't be shy, come over here!"
   },
   {
     "type": "character",
@@ -25,7 +25,7 @@
     "type": "character",
     "name": "A Snow White Wolf Maiden?",
     "avatar": "../char/housamo/snegurochka.png",
-    "text": "Geez, why are you always so mean?!<br>Just come over here, I want to be in the picture with you!"
+    "text": "Geez, why are you always so mean!?<br>Just come over here, I want to be in the picture with you!"
   },
   {
     "type": "character",
@@ -2180,5 +2180,4 @@
     "type": "narrator",
     "text": "Ignoring [Player], the three started making a ruckus.<br>The tickets they each clutched fluttered uneasily."
   }
-
 ]

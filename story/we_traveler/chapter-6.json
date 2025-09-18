@@ -177,7 +177,7 @@
     },
     {
       "type": "title",
-      "text": "Chapter 6 - The Apprentice Mage"
+      "text": "Chapter 6:<br> The Apprentice Mage"
     },
     {
       "type": "narrator",
@@ -215,7 +215,7 @@
       "type": "character",
       "name": "Danzo (Travelers)",
       "avatar": "../char/event_danzo.png",
-      "text": "Whoa there!? ...Geez,<br>I guess they ate a lot and grew big, huh?!<br>Gotta cut 'em up quickly!"
+      "text": "Whoa there!? ...Geez,<br>I guess they ate a lot and grew big, huh!?<br>Gotta cut 'em up quickly!"
     },
     {
       "type": "character",
@@ -522,7 +522,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "What are you gonna use that for?!<br>It'll just be extra baggage...<br>But... that doesn't really matter."
+      "text": "What are you gonna use that for!?<br>It'll just be extra baggage...<br>But... that doesn't really matter."
     },
     {
       "type": "character",
@@ -726,7 +726,7 @@
       "type": "character",
       "name": "Danzo",
       "avatar": "../char/danzo.png",
-      "text": "Does that mean it's physically closer than before?!<br>That's good, that's good!!"
+      "text": "Does that mean it's physically closer than before!?<br>That's good, that's good!!"
     },
     {
       "type": "character",
@@ -801,7 +801,7 @@
       "type": "character",
       "name": "Barte",
       "avatar": "../char/barte.png",
-      "text": "Seriously?!<br>Until now, it was 'whether we could go back,' right?!<br>That's a huge step forward!!"
+      "text": "Seriously!?<br>Until now, it was 'whether we could go back,' right!?<br>That's a huge step forward!!"
     },
     {
       "type": "character",

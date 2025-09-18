@@ -1,7 +1,7 @@
 [
     {
       "type": "title",
-      "text": "Chapter 8 - At the End of the World..."
+      "text": "Chapter 8:<br> At the End of the World..."
     },
     {
       "type": "character",
@@ -118,7 +118,7 @@
       "type": "character",
       "name": "Hydoor (Travelers)",
       "avatar": "../char/event_hydoor.png",
-      "text": "Huh...? What—?!<br>What are those roots like?!<br>What's that thing doing now...!?"
+      "text": "Huh...? What—!?<br>What are those roots like!?<br>What's that thing doing now...!?"
     },
     {
       "type": "character",
@@ -164,7 +164,7 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "../char/gnomon.png",
-      "text": "Could it be that this monster...<br>Is starting to absorb not just the biomachines in the atmosphere,<br>but the Ether pump too...?!"
+      "text": "Could it be that this monster...<br>Is starting to absorb not just the biomachines in the atmosphere,<br>but the Ether pump too...!?"
     },
     {
       "type": "character",
@@ -176,7 +176,7 @@
       "type": "character",
       "name": "Hydoor (Travelers)",
       "avatar": "../char/event_hydoor.png",
-      "text": "Why would that be nutrition?!<br>Gnomon, explain!!"
+      "text": "Why would that be nutrition!?<br>Gnomon, explain!!"
     },
     {
       "type": "character",
@@ -345,7 +345,7 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "../char/gnomon.png",
-      "text": "What do I do... what do I do?!<br>Think... think...!"
+      "text": "What do I do... what do I do!?<br>Think... think...!"
     },
     {
       "type": "narrator",
@@ -705,7 +705,7 @@
       "type": "character",
       "name": "Danzo (Travelers)",
       "avatar": "../char/event_danzo.png",
-      "text": "Wow, seriously—?!<br>That means we're the center of attention<br>across this entire universe!?"
+      "text": "Wow, seriously—!?<br>That means we're the center of attention<br>across this entire universe!?"
     },
     {
       "type": "character",

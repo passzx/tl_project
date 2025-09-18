@@ -15,7 +15,7 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "../char/gnomon.png",
-      "text": "M-mas... Master?!<br>Why..."
+      "text": "M-mas... Master!?<br>Why..."
     },
     {
       "type": "character",
@@ -301,7 +301,7 @@
       "type": "character",
       "name": "Gnomon",
       "avatar": "../char/gnomon.png",
-      "text": "—?!<br>Master, your body...!"
+      "text": "—!?<br>Master, your body...!"
     },
     {
       "type": "character",
@@ -371,7 +371,7 @@
     },
     {
       "type": "title",
-      "text": "Chapter 7 - The One Who Touched Mystery"
+      "text": "Chapter 7:<br> The One Who Touched Mystery"
     },
     {
       "type": "character",
@@ -487,7 +487,7 @@
       "type": "character",
       "name": "Hydoor (Travelers)",
       "avatar": "../char/event_hydoor.png",
-      "text": "—?!<br>W-What?!<br>What did you do?!"
+      "text": "—!?<br>W-What!?<br>What did you do!?"
     },
     {
       "type": "character",
@@ -925,7 +925,7 @@
       "type": "character",
       "name": "Barte",
       "avatar": "../char/barte.png",
-      "text": "Th-that was a huge sound, but...<br>What was that?!<br>Glass...!?"
+      "text": "Th-that was a huge sound, but...<br>What was that!?<br>Glass...!?"
     },
     {
       "type": "character",

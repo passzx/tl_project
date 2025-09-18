@@ -405,7 +405,7 @@
       "type": "character",
       "name": "Hydoor (Travelers)",
       "avatar": "../char/event_hydoor.png",
-      "text": "Aren't those the guys we met all over the place?!"
+      "text": "Aren't those the guys we met all over the place!?"
     },
     {
       "type": "character",
@@ -669,7 +669,7 @@
     },
     {
       "type": "title",
-      "text": "Final Chapter - The One Who Regenerates the World"
+      "text": "Finale:<br> The One Who Regenerates the World"
     },
     {
       "type": "character",
@@ -847,7 +847,7 @@
       "type": "character",
       "name": "Melide",
       "avatar": "../char/melide.png",
-      "text": "Eh... \"Coming\"?<br>What on earth—...?!<br>This fluctuation of Ether...!"
+      "text": "Eh... \"Coming\"?<br>What on earth—...!?<br>This fluctuation of Ether...!"
     },
     {
       "type": "character",
@@ -918,7 +918,7 @@
               "type": "character",
               "name": "Danzo",
               "avatar": "../char/danzo.png",
-              "text": "I don't know, but...!<br>Anyway, why are we in the sky again?!"
+              "text": "I don't know, but...!<br>Anyway, why are we in the sky again!?"
             }
           ]
         }
@@ -934,7 +934,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "A-ahhhhhhh!?!<br>Why is it like this again!?!<br>H-Help meee!!"
+      "text": "A-ahhhhhhh!!?<br>Why is it like this again!!?<br>H-Help meee!!"
     },
     {
       "type": "narrator",
@@ -1031,7 +1031,7 @@
       "type": "character",
       "name": "Barte",
       "avatar": "../char/barte.png",
-      "text": "You're kidding me?!<br>After all the trouble of flying across worlds again,<br>is this the end for us?!"
+      "text": "You're kidding me!?<br>After all the trouble of flying across worlds again,<br>is this the end for us!?"
     },
     {
       "type": "character",
@@ -1672,7 +1672,7 @@
       "type": "character",
       "name": "Barte",
       "avatar": "../char/barte.png",
-      "text": "—What?!<br>Huh!?"
+      "text": "—What!?<br>Huh!?"
     },
     {
       "type": "character",
@@ -1690,13 +1690,13 @@
       "type": "character",
       "name": "Ganran",
       "avatar": "../char/ganran.png",
-      "text": "If you're going to call yourself my apprentice,<br>you should naturally uphold it, shouldn't you?!<br>Don't you dare say you forgot!!"
+      "text": "If you're going to call yourself my apprentice,<br>you should naturally uphold it, shouldn't you!?<br>Don't you dare say you forgot!!"
     },
     {
       "type": "character",
       "name": "Barte",
       "avatar": "../char/barte.png",
-      "text": "...! Is that the first thing you're going to say?!<br>It's not like I wanted to be sent to another world!"
+      "text": "...! Is that the first thing you're going to say!?<br>It's not like I wanted to be sent to another world!"
     },
     {
       "type": "character",
