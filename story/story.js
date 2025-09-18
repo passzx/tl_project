@@ -131,6 +131,47 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    const debounce = (func, delay) => {
+        let timeoutId;
+        return (...args) => {
+            clearTimeout(timeoutId);
+            timeoutId = setTimeout(() => {
+                func(...args);
+            }, delay);
+        };
+    };
+
+    let currentBgImage = null;
+
+    // background update when center of the screen is past the bg check
+    function checkBackgroundScroll() {
+        const triggers = document.querySelectorAll('.bg-scroll-trigger');
+        const viewportCenter = window.innerHeight / 2;
+        let newBg = null;
+
+        for (let i = triggers.length - 1; i >= 0; i--) {
+            const trigger = triggers[i];
+            const rect = trigger.getBoundingClientRect();
+            if (rect.top <= viewportCenter) {
+                newBg = trigger.dataset.bgImage;
+                break;
+            }
+        }
+
+        // this situation (same background) will likely never happen but just in case
+        if (newBg !== currentBgImage) {
+            currentBgImage = newBg;
+            if (newBg === 'none' || !newBg) {
+                document.body.style.backgroundImage = '';
+            } else {
+                document.body.style.backgroundImage = `url('${newBg}')`;
+            }
+        }
+    }
+    
+    // debounce to avoid a bunch of bgs scrolling
+    const debouncedCheckBackgroundScroll = debounce(checkBackgroundScroll, 200);
+
     // story loading
     async function loadStory(jsonPath) {
       try {
@@ -204,12 +245,18 @@ document.addEventListener('DOMContentLoaded', () => {
                   });
                   choiceBox.appendChild(choiceOutcomesDiv);
                   eventPageContent.appendChild(choiceBox);
+              } else if (item.type === 'bg') {
+                  const bgTrigger = document.createElement('div');
+                  bgTrigger.classList.add('bg-scroll-trigger');
+                  bgTrigger.setAttribute('data-bg-image', item.bg);
+                  eventPageContent.appendChild(bgTrigger);
               } else {
                   renderDialogueItem(item, eventPageContent);
               }
           });
 
           populateCharacterDialogueBoxes();
+          checkBackgroundScroll();
 
       } catch (error) {
           console.error('Error loading story:', error);
@@ -224,6 +271,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const jsonPath = `./${fileNameWithoutExtension}.json`;
 
     loadStory(jsonPath);
+
+    window.addEventListener('scroll', debouncedCheckBackgroundScroll);
+    window.addEventListener('resize', debouncedCheckBackgroundScroll);
 
     // sending you to the shadow realm
     if (homeButton) {
@@ -246,5 +296,9 @@ document.addEventListener('DOMContentLoaded', () => {
             alert('Nope. That cannot be empty.');
           }
         });
+    }
+
+    function processTextForDisplay(text, player) {
+      return text.replace(/\[Player\]/g, player);
     }
 });
