@@ -2,8 +2,14 @@
 - better mobile support
 - better chapter navigation
 - better website deployment
+- removing light mode?
 
 -------------------------------------------
+
+18/09/2025
+- backgrounds!!! (for newer stories)
+- fixed some consistency issues
+- added [tropical2025]
 
 20/08/2025
 - [snowland] complete
@@ -48,4 +54,5 @@
 25/05/2025:
 - website published
 - [we_traveler] complete + 2 epilogues from [choco_volcano]
+
 
