@@ -61,7 +61,7 @@
     "type": "character",
     "name": "Astar",
     "avatar": "../char/astar.png",
-    "text": "Oh, a gift!? From you?!<br>...Such a thing, are you sure?<br>I, I've already received enough from you, you know..."
+    "text": "Oh, a gift!? From you!?<br>...Such a thing, are you sure?<br>I, I've already received enough from you, you know..."
   },
   {
     "type": "narrator",

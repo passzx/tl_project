@@ -93,7 +93,7 @@
         "type": "character",
         "name": "Ganran",
         "avatar": "../char/ganran.png",
-        "text": "—Tch! You're attacking, <br>so you must be ready to be hit, right?!"
+        "text": "—Tch! You're attacking, <br>so you must be ready to be hit, right!?"
     },
     {
         "type": "narrator",
@@ -1060,7 +1060,7 @@
         "type": "character",
         "name": "reXer (Volcano)",
         "avatar": "../char/event_reXer.png",
-        "text": "...Hitomi sacrificed herself to send us forward, <br>so how can I let myself be defeated here?!"
+        "text": "...Hitomi sacrificed herself to send us forward, <br>so how can I let myself be defeated here!?"
     },
     {
         "type": "character",
@@ -1711,7 +1711,7 @@
     },
     {
         "type": "title",
-        "text": "Chapter 7 - It's Alright, For I Can Walk On My Own"
+        "text": "Chapter 7:<br> It's Alright, For I Can Walk On My Own"
     },
     {
         "type": "character",
