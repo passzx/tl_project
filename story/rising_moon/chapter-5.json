@@ -1920,7 +1920,7 @@
     },
     {
       "type": "title",
-      "text": "Chapter 5 - What Was Entrusted to the Meteor"
+      "text": "Chapter 5:<br> What Was Entrusted to the Meteor"
     },
     {
       "type": "narrator",
@@ -1936,7 +1936,7 @@
       "type": "character",
       "name": "Yoshiori",
       "avatar": "../char/yoshiori.png",
-      "text": "You must have been ready, right?!<br>-\"Recover\"! Operation Regain!!"
+      "text": "You must have been ready, right!?<br>-\"Recover\"! Operation Regain!!"
     },
     {
       "type": "narrator",

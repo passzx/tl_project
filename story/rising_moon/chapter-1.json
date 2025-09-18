@@ -599,7 +599,7 @@
     },
     {
         "type": "title",
-        "text": "Chapter 1 - The Ceremony of Hope"
+        "text": "Chapter 1:<br> The Ceremony of Hope"
     },
     {
       "type": "narrator",
@@ -1571,7 +1571,7 @@
       "type": "character",
       "name": "Ryekie",
       "avatar": "../char/ryekie.png",
-      "text": "I see!<br>We can cheer for the examinees'<br>performance on this monitor, right?!"
+      "text": "I see!<br>We can cheer for the examinees'<br>performance on this monitor, right!?"
     },
     {
       "type": "narrator",

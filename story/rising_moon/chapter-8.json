@@ -1001,7 +1001,7 @@
     },
     {
       "type": "title",
-      "text": "Chapter 8 - Overlapping Bonds - Part 2"
+      "text": "Chapter 8:<br> Overlapping Bonds - Part 2"
     },
     {
       "type": "narrator",
@@ -1528,7 +1528,7 @@
         "type": "character",
         "name": "Pubraseer (Rising Moon)",
         "avatar": "../char/event_pubraseer.png",
-        "text": "Guh...!<br>The attack's power is too high!<Br>Are you alright, Orbiter?!"
+        "text": "Guh...!<br>The attack's power is too high!<Br>Are you alright, Orbiter!?"
       },
       {
         "type": "character",
@@ -1540,7 +1540,7 @@
         "type": "character",
         "name": "Gaisei",
         "avatar": "../char/gaisei.png",
-        "text": "...To this extent, huh?!<br>Ah... I want to defeat it!<br>This unworthy one is still... not satisfied...!"
+        "text": "...To this extent, huh!?<br>Ah... I want to defeat it!<br>This unworthy one is still... not satisfied...!"
       },
       {
         "type": "character",

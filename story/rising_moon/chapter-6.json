@@ -1323,7 +1323,7 @@
     },
     {
       "type": "title",
-      "text": "Chapter 6 - The Intersecting Cosmic Wake"
+      "text": "Chapter 6:<br> The Intersecting Cosmic Wake"
     },
     {
       "type": "character",
@@ -1595,7 +1595,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "Enough with the nonsense!<br>If we have more people, that's great, isn't it?!<br>-Alright, let's do this, Akashi!"
+      "text": "Enough with the nonsense!<br>If we have more people, that's great, isn't it!?<br>-Alright, let's do this, Akashi!"
     },
     {
       "type": "character",

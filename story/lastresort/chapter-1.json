@@ -135,13 +135,13 @@
       "type": "character",
       "name": "Saotome",
       "avatar": "../char/saotome.png",
-      "text": "Yuto?!<br>W-what's wrong?!<br>Why are you in such a hurry!"
+      "text": "Yuto!?<br>W-what's wrong!?<br>Why are you in such a hurry!"
     },
     {
       "type": "character",
       "name": "Yuto",
       "avatar": "../char/placeholder.png",
-      "text": "What's wrong, you asked?! Our \"project\"<br>is growing at an incredible pace!"
+      "text": "What's wrong, you asked!? Our \"project\"<br>is growing at an incredible pace!"
     },
     {
       "type": "character",
@@ -930,7 +930,7 @@
     },
     {
       "type": "title",
-      "text": "Chapter 1 - Welcome to Enoshima!"
+      "text": "Chapter 1:<br> Welcome to Enoshima!"
     },
     {
       "type": "narrator",

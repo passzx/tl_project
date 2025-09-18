@@ -155,7 +155,7 @@
       "type": "character",
       "name": "Hydoor",
       "avatar": "../char/hydoor.png",
-      "text": "What?! Are you picking a fight?!<br>You're still muttering sarcastic things<br>under your breath!? Speak up!"
+      "text": "What!? Are you picking a fight!?<br>You're still muttering sarcastic things<br>under your breath!? Speak up!"
     },
     {
       "type": "character",
@@ -373,7 +373,7 @@
     },
     {
         "type": "title",
-        "text": "Chapter 2 - The Dazzling Warp Storm"
+        "text": "Chapter 2:<br> The Dazzling Warp Storm"
     },
     {
       "type": "narrator",
@@ -642,7 +642,7 @@
                 "type": "character",
                 "name": "Orbiter",
                 "avatar": "../char/orbiter.png",
-                "text": "Watch my step...?<br>Whoa, whoa, whoa!?!"
+                "text": "Watch my step...?<br>Whoa, whoa, whoa!!?"
               }
           ]
         }
@@ -2094,7 +2094,7 @@
               "type": "character",
               "name": "Hydoor",
               "avatar": "../char/hydoor.png",
-              "text": "Hahaha, pretty cool, huh?!<br>When it comes to being bad, it's gotta be a pirate!<br>It's been a while since I've worn this!"
+              "text": "Hahaha, pretty cool, huh!?<br>When it comes to being bad, it's gotta be a pirate!<br>It's been a while since I've worn this!"
             },
             {
               "type": "character",

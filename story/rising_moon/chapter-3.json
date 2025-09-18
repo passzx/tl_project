@@ -595,7 +595,7 @@
     },
     {
       "type": "title",
-      "text": "Chapter 3 - Searching for the Radiance"
+      "text": "Chapter 3:<br> Searching for the Radiance"
     },
     {
       "type": "narrator",
@@ -1927,7 +1927,7 @@
       "type": "character",
       "name": "Akashi",
       "avatar": "../char/akashi.png",
-      "text": "Where are you now...?!<br>P-Pubraseer-san...?<br>Why are you with them?"
+      "text": "Where are you now...!?<br>P-Pubraseer-san...?<br>Why are you with them?"
     },
     {
       "type": "character",
@@ -2422,7 +2422,7 @@
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "Eheheh, how is it, good, right?!<br>Even I can fight to protect my spaceship!"
+      "text": "Eheheh, how is it, good, right!?<br>Even I can fight to protect my spaceship!"
     },
     {
       "type": "character",
