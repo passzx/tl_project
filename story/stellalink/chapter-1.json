@@ -659,7 +659,7 @@
       "type": "character",
       "name": "Roudin",
       "avatar": "../char/roudin.png",
-      "text": "Some of the pavilions... Or to be more<br>precise, the Japan Pavilion from Earth,<br>is unfortunately deserted."
+      "text": "Some of the pavilions... Or to be more<br>precise, Japan Pavilion from Earth,<br>is unfortunately deserted."
     },
     {
       "type": "choice",
@@ -679,7 +679,7 @@
       "type": "character",
       "name": "Ryekie",
       "avatar": "../char/ryekie.png",
-      "text": "I knew about GCE, but<br>I didn't know the Japan Pavilion was participating.<br>This is the first time I've heard of it!!"
+      "text": "I knew about GCE, but<br>I didn't know Japan Pavilion was participating.<br>This is the first time I've heard of it!!"
     },
     {
       "type": "character",
@@ -787,13 +787,13 @@
       "type": "character",
       "name": "Roudin",
       "avatar": "../char/roudin.png",
-      "text": "To liven up the Japan Pavilion, we would<br>like to borrow the power of Parallel Flight Inc."
+      "text": "To liven up Japan Pavilion, we would<br>like to borrow the power of Parallel Flight Inc."
     },
     {
       "type": "character",
       "name": "Huckle",
       "avatar": "../char/huckle.png",
-      "text": "Hmm, so you'd like the heroes of<br>Parallel Flight to help out at<br>the Japan Pavilion as well?"
+      "text": "Hmm, so you'd like the heroes of<br>Parallel Flight to help out at<br>Japan Pavilion as well?"
     },
     {
       "type": "character",
@@ -809,7 +809,7 @@
       "type": "character",
       "name": "Roudin",
       "avatar": "../char/roudin.png",
-      "text": "[Player], please.<br>I need your help. As an Operator,<br>could you help out the Japan Pavilion?"
+      "text": "[Player], please.<br>I need your help. As an Operator,<br>could you help out Japan Pavilion?"
     },
     {
       "type": "choice",
@@ -989,7 +989,7 @@
       "type": "character",
       "name": "Huckle",
       "avatar": "../char/huckle.png",
-      "text": "...I see, I understand the request.<br>For one week during the GCE,<br>stationed at the Japan Pavilion—"
+      "text": "...I see, I understand the request.<br>For one week during the GCE,<br>stationed at Japan Pavilion—"
     },
     {
       "type": "character",
@@ -1192,7 +1192,7 @@
       "type": "character",
       "name": "Barrel",
       "avatar": "../char/barrel.png",
-      "text": "Make a grand entrance in suits that<br>immediately identify us as the Japan Pavilion!<br>There's no doubt it will stand out~!"
+      "text": "Make a grand entrance in suits that<br>immediately identify us as Japan Pavilion!<br>There's no doubt it will stand out~!"
     },
     {
       "type": "character",
@@ -1518,7 +1518,7 @@
     },
     {
       "type": "narrator",
-      "text": "Leaving Earth, to the lunar surface, Archimedes Colony.<br>At the Galaxy Carnival Expo,<br>they were visiting the Japan Pavilion."
+      "text": "Leaving Earth, to the lunar surface, Archimedes Colony.<br>At the Galaxy Carnival Expo,<br>they were visiting Japan Pavilion."
     },
     {
       "type": "choice",

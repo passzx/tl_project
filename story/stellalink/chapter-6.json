@@ -434,7 +434,7 @@
       "type": "character",
       "name": "Nessen (Masquerade)",
       "avatar": "../char/event_nessen.png",
-      "text": "Both organizers are aware of the<br>'members' of the Fortina Pavilion."
+      "text": "Both organizers are aware of the<br>'members' of Fortina Pavilion."
     },
     {
       "type": "character",
@@ -768,7 +768,7 @@
     },
     {
       "type": "narrator",
-      "text": "The members of the Fortina Pavilion<br>act as if their situation hasn't changed.<br>At that, Barrel's face sinks."
+      "text": "The members of Fortina Pavilion<br>act as if their situation hasn't changed.<br>At that, Barrel's face sinks."
     },
     {
       "type": "character",

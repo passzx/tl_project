@@ -834,7 +834,7 @@
       "type": "character",
       "name": "Turbak",
       "avatar": "../char/turbak.png",
-      "text": "Everyone, good work!<br>This is today's collaboration stream partner,<br>the Wehmalt Pavilion!"
+      "text": "Everyone, good work!<br>This is today's collaboration stream partner,<br>Wehmalt Pavilion!"
     },
     {
       "type": "character",
@@ -890,7 +890,7 @@
       "type": "character",
       "name": "Lilac",
       "avatar": "../char/lilac.png",
-      "text": "Good work, everyone from the Japan Pavilion.<br>I look forward to working with you today.<br>And..."
+      "text": "Good work, everyone from Japan Pavilion.<br>I look forward to working with you today.<br>And..."
     },
     {
       "type": "character",
@@ -1252,7 +1252,7 @@
       "type": "character",
       "name": "Lilac",
       "avatar": "../char/lilac.png",
-      "text": "Today, we'll be experiencing the<br>Wehmalt Flower Festival with everyone<br>from the Japan Pavilion."
+      "text": "Today, we'll be experiencing the<br>Wehmalt Flower Festival with everyone<br>from Japan Pavilion."
     },
     {
       "type": "character",
@@ -1577,11 +1577,11 @@
       "type": "character",
       "name": "Barrel (Stella Link)",
       "avatar": "../char/event_barrel.png",
-      "text": "From here on, it's the Japan Pavilion's introduction~!<br>Everyone from the Wehmalt Pavilion,<br>please treat us well~!!"
+      "text": "From here on, it's Japan Pavilion's introduction~!<br>Everyone from Wehmalt Pavilion,<br>please treat us well~!!"
     },
     {
       "type": "narrator",
-      "text": "After the stage, which was even more<br>lively than yesterday, the group<br>moved to the Japan Pavilion."
+      "text": "After the stage, which was even more<br>lively than yesterday, the group<br>moved to Japan Pavilion."
     },
     {
       "type": "narrator",

@@ -236,7 +236,7 @@
       "type": "character",
       "name": "Turbak",
       "avatar": "../char/turbak.png",
-      "text": "Well then, first, let me explain<br>about this place, the Japan Pavilion.<br>But, I suppose—"
+      "text": "Well then, first, let me explain<br>about this place, Japan Pavilion.<br>But, I suppose—"
     },
     {
       "type": "character",
@@ -562,7 +562,7 @@
       "type": "character",
       "name": "Barrel",
       "avatar": "../char/barrel.png",
-      "text": "Now, to everyone who came to the event,<br>I'm going to show them just how great<br>the Japan Pavilion is~!!"
+      "text": "Now, to everyone who came to the event,<br>I'm going to show them just how great<br>Japan Pavilion is~!!"
     },
     {
       "type": "character",
@@ -620,7 +620,7 @@
       "type": "character",
       "name": "Roudin",
       "avatar": "../char/roudin.png",
-      "text": "Well then, let me get down to the specifics.<br>It's about how we're going to attract<br>customers to the Japan Pavilion—"
+      "text": "Well then, let me get down to the specifics.<br>It's about how we're going to attract<br>customers to Japan Pavilion—"
     },
     {
       "type": "character",
@@ -701,7 +701,7 @@
       "type": "character",
       "name": "Roudin",
       "avatar": "../char/roudin.png",
-      "text": "The quality of the Japan Pavilion is pretty high.<br>Once people start flowing in, it will spread<br>by itself and we can expect more visitors."
+      "text": "The quality of Japan Pavilion is pretty high.<br>Once people start flowing in, it will spread<br>by itself and we can expect more visitors."
     },
     {
       "type": "character",
@@ -939,7 +939,7 @@
       "type": "character",
       "name": "Astosis",
       "avatar": "../char/astosis.png",
-      "text": "Thankfully, the Clouge Pavilion has far more<br>guests visiting than we expected."
+      "text": "Thankfully, Clouge Pavilion has far more<br>guests visiting than we expected."
     },
     {
       "type": "character",
@@ -997,7 +997,7 @@
       "type": "character",
       "name": "Nessen (Masquerade)",
       "avatar": "../char/event_nessen.png",
-      "text": "To everyone from the Japan Pavilion,<br>and [Player]-sama.<br>Thank you for your cooperation this time."
+      "text": "To everyone from Japan Pavilion,<br>and [Player]-sama.<br>Thank you for your cooperation this time."
     },
     {
       "type": "character",
@@ -1166,7 +1166,7 @@
     },
     {
       "type": "narrator",
-      "text": "Listening to the words of the heroes from<br>the Clouge Pavilion, the heroes from the<br>Japan Pavilion go around the stalls."
+      "text": "Listening to the words of the heroes from<br>Clouge Pavilion, the heroes from the<br>Japan Pavilion go around the stalls."
     },
     {
       "type": "character",
@@ -1500,7 +1500,7 @@
               "type": "character",
               "name": "Barrel",
               "avatar": "../char/barrel.png",
-              "text": "Like this, with everyone at the Japan Pavilion, preparing it, and promoting it.<br>And, to enjoy a festival from a distant star~"
+              "text": "Like this, with everyone at Japan Pavilion, preparing it, and promoting it.<br>And, to enjoy a festival from a distant star~"
             },
             {
               "type": "character",
@@ -1630,13 +1630,13 @@
       "type": "character",
       "name": "Turbak",
       "avatar": "../char/turbak.png",
-      "text": "This event is hosted by the Japan Pavilion.<br>So the stage is also Japanese-themed."
+      "text": "This event is hosted by Japan Pavilion.<br>So the stage is also Japanese-themed."
     },
     {
       "type": "character",
       "name": "Barrel",
       "avatar": "../char/barrel.png",
-      "text": "The location is also adjacent<br>to the Japan Pavilion~.<br>The customers are coming~!"
+      "text": "The location is also adjacent<br>to Japan Pavilion~.<br>The customers are coming~!"
     },
     {
       "type": "character",
@@ -1747,7 +1747,7 @@
     },
     {
       "type": "narrator",
-      "text": "The group heads to the stage,<br>and the heroes from the Clouge Pavilion<br>call out to them."
+      "text": "The group heads to the stage,<br>and the heroes from Clouge Pavilion<br>call out to them."
     },
     {
       "type": "character",
@@ -1841,7 +1841,7 @@
     },
     {
       "type": "narrator",
-      "text": "To do the second half of the collaboration stream,<br>they had arrived at the Japan Pavilion."
+      "text": "To do the second half of the collaboration stream,<br>they had arrived at Japan Pavilion."
     },
     {
       "type": "character",
@@ -1901,13 +1901,13 @@
     },
     {
       "type": "narrator",
-      "text": "And so, with the excitement of the stage<br>still fresh, they start the stream<br>to introduce the Japan Pavilion."
+      "text": "And so, with the excitement of the stage<br>still fresh, they start the stream<br>to introduce Japan Pavilion."
     },
     {
       "type": "character",
       "name": "Turbak",
       "avatar": "../char/turbak.png",
-      "text": "To all our viewers, from here on,<br>we'll be introducing the Japan Pavilion!<br>Please look forward to it!"
+      "text": "To all our viewers, from here on,<br>we'll be introducing Japan Pavilion!<br>Please look forward to it!"
     },
     {
       "type": "narrator",

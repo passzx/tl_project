@@ -127,7 +127,7 @@
     },
     {
       "type": "narrator",
-      "text": "The morning after the stream with Wehmalt,<br>the group gathered at the Japan Pavilion,<br>which was projecting a clear blue sky overhead."
+      "text": "The morning after the stream with Wehmalt,<br>the group gathered at Japan Pavilion,<br>which was projecting a clear blue sky overhead."
     },
     {
       "type": "character",
@@ -249,7 +249,7 @@
       "type": "character",
       "name": "Barrel",
       "avatar": "../char/barrel.png",
-      "text": "So, that means the mission we<br>received to liven up the Japan Pavilion<br>is accomplished for now~!"
+      "text": "So, that means the mission we<br>received to liven up Japan Pavilion<br>is accomplished for now~!"
     },
     {
       "type": "character",
@@ -357,7 +357,7 @@
       "type": "character",
       "name": "Turbak",
       "avatar": "../char/turbak.png",
-      "text": "Yeah, the Fortina Pavilion.<br>It's a hot topic on the Internet right now,<br>but I don't really know what kind of festival it is."
+      "text": "Yeah, Fortina Pavilion.<br>It's a hot topic on the Internet right now,<br>but I don't really know what kind of festival it is."
     },
     {
       "type": "choice",
@@ -543,7 +543,7 @@
     },
     {
       "type": "narrator",
-      "text": "Led by Turbak,<br>the group leaves the Japan Pavilion<br>and walks through the event venue."
+      "text": "Led by Turbak,<br>the group leaves Japan Pavilion<br>and walks through the event venue."
     },
     {
       "type": "narrator",
@@ -711,7 +711,7 @@
       "type": "character",
       "name": "Sensettia",
       "avatar": "../char/sensettia.png",
-      "text": "Sorry to startle you,<br>welcome to the Fortina Pavilion!<br>Here, a complimentary welcome drink."
+      "text": "Sorry to startle you,<br>welcome to Fortina Pavilion!<br>Here, a complimentary welcome drink."
     },
     {
       "type": "character",
@@ -960,7 +960,7 @@
     },
     {
       "type": "narrator",
-      "text": "At Viscunam's sudden remark,<br>the group from the Japan Pavilion<br>is uniformly surprised."
+      "text": "At Viscunam's sudden remark,<br>the group from Japan Pavilion<br>is uniformly surprised."
     },
     {
       "type": "character",
