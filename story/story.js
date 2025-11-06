@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', () => {
                   dialogueBox.innerHTML = `<p class="dialogue-text">${displayText}</p>`;
               } else if (item.type === 'note') {
                   dialogueBox = document.createElement('div');
-                  dialogueBox.classList.add('dialogue-box', 'choice-display-box');
+                  dialogueBox.classList.add('dialogue-box');
                   dialogueBox.innerHTML = `<p style="font-size: 0.8em; opacity: 0.5; font-style: italic; text-align: center;">${displayText}</p>`;
               } else if (item.type === 'title') {
                 dialogueBox = document.createElement('div');

@@ -231,7 +231,7 @@ body {
 
 .work-summary-details .dates {
   color: var(--primary-color-darker);
-  font-size: 1em;
+  font-size: 1.2em;
   margin-bottom: 10px;
 }
 
@@ -343,7 +343,6 @@ body {
 
 .narrator-box {
   text-align: center;
-  font-style: italic;
   color: var(--text-color-light);
   font-size: 1.1em;
 }
