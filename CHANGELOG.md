@@ -3,6 +3,7 @@
 - better chapter navigation
 - better website deployment
 - removing light mode?
+- fix lazy loading somehow
 
 -------------------------------------------
 
@@ -11,6 +12,7 @@
 - notes no longer take up the same space as a choice box
 - added [stellalink]
 (nobody notice that I used the wrong background for chapter 7's battle)
+- changed Theoreol's [choco_volcano]'s epilogue
 
 18/09/2025
 - backgrounds!!! (for newer stories)
