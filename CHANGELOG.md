@@ -6,6 +6,12 @@
 
 -------------------------------------------
 
+06/11/2025
+- no more italic narrator dialogue boxes (some people told me it was hard to read)
+- notes no longer take up the same space as a choice box
+- added [stellalink]
+(nobody notice that I used the wrong background for chapter 7's battle)
+
 18/09/2025
 - backgrounds!!! (for newer stories)
 - fixed some consistency issues
