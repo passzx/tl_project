@@ -1,164 +1,179 @@
 <!DOCTYPE html>
-<html lang="vi">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trang chủ | PopBox</title>
-    <link rel="stylesheet" href="./styles/styles.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="./icon/apple-touch-icon.webp">
-    <link rel="icon" type="image/png" sizes="32x32" href="./icon/favicon-32x32.webp">
-    <link rel="icon" type="image/png" sizes="16x16" href="./icon/favicon-16x16.webp">
-    <link rel="manifest" href="./icon/site.webmanifest">
-    <link rel="shortcut icon" href="./icon/favicon.ico">
-    <link rel="stylesheet" href="./styles/index.css">
-    <meta name="description" content="Cửa hàng tổng hợp của bạn cho món bắp rang bơ ngon nhất! Khám phá các hương vị cổ điển, đồ uống và bộ dụng cụ DIY của chúng tôi. Niềm vui bùng nổ, được giao tận nơi.">
-    <meta name="keywords" content="bắp rang bơ, ecommerce, đồ ăn vặt, xem phim, bắp rang caramen, bắp rang bơ, bắp rang tự làm">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="PopBox - Bắp rang bơ ngon nhất">
-    <meta property="og:description" content="Cửa hàng tổng hợp của bạn cho món bắp rang bơ ngon nhất! Khám phá các hương vị cổ điển, đồ uống và bộ dụng cụ DIY.">
-    <meta property="og:image" content="images/pA.webp">
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:title" content="PopBox - Bắp rang bơ ngon nhất">
-    <meta property="twitter:description" content="Cửa hàng tổng hợp của bạn cho món bắp rang bơ ngon nhất! Khám phá các hương vị cổ điển, đồ uống và bộ dụng cụ DIY.">
-    <meta property="twitter:image" content="images/pA.webp">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ED71CZC4S3"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>PzTJ's TL Repository</title>
+        <link rel="stylesheet" href="./main/styles.css">
+        <link rel="stylesheet" href="./story/story.css">
 
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
-      gtag('config', 'G-ED71CZC4S3');
-    </script>
-  </head>
-  <body>
-    <header class="main-header">
-      <nav class="main-nav">
-        <div class="nav-left">
-          <a href="index.html" class="nav-logo" aria-label="Trang chủ">
-            <img src="images/logo.svg" alt="Site Logo">
-          </a>
-        </div>
-        <button class="mobile-nav-toggle" aria-label="Mở/đóng menu điều hướng" aria-expanded="false">
-          <span class="hamburger-icon"></span>
-          <span class="hamburger-icon"></span>
-          <span class="hamburger-icon"></span>
-        </button>
-        <div class="nav-center" id="main-navigation">
-          <ul>
-            <li>
-              <a href="about.html">
-                <img src="images/nav1.webp" alt="" class="mobile-nav-icon"> Về chúng tôi </a>
-            </li>
-            <li>
-              <a href="catalogue.html">
-                <img src="images/nav2.webp" alt="" class="mobile-nav-icon"> Sản phẩm </a>
-            </li>
-            <li>
-              <a href="news.html">
-                <img src="images/nav3.webp" alt="" class="mobile-nav-icon"> Tin tức </a>
-            </li>
-            <li>
-              <a href="faq.html">
-                <img src="images/nav4.webp" alt="" class="mobile-nav-icon"> Hỏi đáp </a>
-            </li>
-            <li>
-              <a href="career.html">
-                <img src="images/nav5.webp" alt="" class="mobile-nav-icon"> Tuyển dụng </a>
-            </li>
+        <link rel="apple-touch-icon" sizes="180x180" href="./icon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="./icon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="./icon/favicon-16x16.png">
+        <link rel="manifest" href="./icon/site.webmanifest">
+        <link rel="shortcut icon" href="./icon/favicon.ico">
+    </head>
+
+    <body>
+      <header class="main-header" id="mainHeader">
+        <nav class="main-nav">
+          <div class="nav-left">
+            <button class="hamburger-menu" aria-label="Open menu" id="hamburgerMenu">
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+            </button>
+          </div>
+          <div class="nav-right header-buttons-group">
+            <button id="homeButton" aria-label="Home">🏠</button>
+            <button id="renamePlayerButton" aria-label="Rename Player">✏️</button>
+            <button id="darkModeToggle" aria-label="Dark Mode">🌙</button>
+          </div>
+        </nav>
+      </header>
+
+      <aside class="sidebar" id="sidebar">
+        <nav class="sidebar-nav">
+            <h3>Works</h3>
+          <ul class="chapter-list">
+            <li><a href="./story/we_traveler/index.html">World End Travelers</a></li>
+            <li><a href="./story/choco_volcano/index.html">From Choco Volcano, with Love</a></li>
+            <li><a href="./story/rising_moon/index.html">The Glorious Rising Moon</a></li>
+            <li><a href="./story/rookies/index.html">Rookies Summer Festa</a></li>
+            <li><a href="./story/lastresort/index.html">Enoshima Last Resort</a></li>
+            <li><a href="./story/snowland/index.html">Magical Snowland</a></li>
+            <li><a href="./story/tropical2025/index.html">Tropical Burn Holiday</a></li>
+            <li><a href="./story/stellalink/index.html">Stella Link Carnival</a></li>
           </ul>
-        </div>
-        <div class="nav-right">
-          <form class="nav-search-form" role="search" onsubmit="return false;">
-            <input type="text" class="nav-search-input" placeholder="Tìm kiếm...">
-            <button type="submit" class="nav-search-btn" aria-label="Tìm kiếm">🔍</button>
-          </form>
-          <a href="login.html" class="nav-icon" aria-label="Đăng nhập">
-            <img src="images/user.webp" alt="Login Icon">
-          </a>
-          <a href="cart.html" class="nav-icon" aria-label="Giỏ hàng">
-            <img src="images/cart.webp" alt="Cart Icon">
-          </a>
-        </div>
-      </nav>
-    </header>
-    
-    <main>
-      <section class="slider-section" aria-label="Quảng cáo nổi bật">
-        <div class="slider-wrapper" id="slider-wrapper">
-          <div class="slide">
-            <img src="images/login_bg2.webp" alt="Các bát bắp rang bơ">
-            <div class="slide-caption">
-              <h2>Chào mừng đến PopBox</h2>
-              <p>Cửa hàng cho mọi nhu cầu bắp rang bơ của bạn!</p>
-              <a href="catalogue.html" class="button">Xem sản phẩm</a>
-            </div>
-          </div>
-          <div class="slide">
-            <img src="images/news_large_1.webp" alt="Đồ họa Giảm giá lớn">
-            <div class="slide-caption">
-              <h2>Giảm giá cực lớn!</h2>
-              <p>Hãy sẵn sàng cho đợt giảm giá lớn vào cuối tuần này.</p>
-              <a href="news.html" class="button">Xem tin tức</a>
-            </div>
-          </div>
-          <div class="slide">
-            <img src="images/pA.webp" alt="Các vị bắp rang bơ">
-            <div class="slide-caption">
-              <h2>Khám phá các hương vị</h2>
-              <p>Từ bơ cổ điển đến phô mai béo ngậy.</p>
-              <a href="catalogue.html#category-popcorn" class="button">Xem hương vị</a>
-            </div>
-          </div>
-        </div>
-        <button class="slider-nav prev" id="slider-prev" aria-label="Slide trước">❮</button>
-        <button class="slider-nav next" id="slider-next" aria-label="Slide tiếp">❯</button>
-        <div class="slider-dots" id="slider-dots">
-          </div>
-      </section>
+        </nav>
+      </aside>
 
-      <div class="container">
-        <section class="hero-section">
-          <div class="hero-logo">
-            <img src="images/logo.svg" alt="Site Logo Large">
+      <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+      <main class="main-content container">
+        <section class="info-sections">
+          <div class="info-box">
+            <h2>About</h2>
+            <p>hi
+            <br>the person with zero to no experience attempts translating</p>
+            <p>I'm not a native speaker in either English or Japanese, so please pardon any mistakes, and if it's too wrong, you can always contact me for some emergency fixes</p>
+            <p>for any requests or questions, contact <a href="https://x.com/passzx">@passzx</a> on Twitter (I'm not calling it X)</p>
+            <p style="font-size: 0.8em; opacity: 0.5; text-align: center;">fun fact: I made this entire website and started translating because I got a bit too smitten with one character in particular (bonus points if you can figure out)</p>
           </div>
-          <div class="hero-content">
-            <h1>PopBox</h1>
-            <div class="hero-buttons">
-              <a href="catalogue.html" class="button hero-button">Tất cả sản phẩm</a>
-              <a href="news.html" class="button hero-button">Tin tức và Khuyến mãi</a>
-            </div>
+          <div class="info-box">
+            <h2>Guidelines</h2>
+            <p>please take a moment to read these guidelines:</p>
+            <p>- you can link, quote my translations (if anyone actually wants to) as long as you credit me appropriately
+            <br>- you can use my translations to re-translate to another language
+            <br>- do not make profits out of them, as the original materials are copyrighted, and I do not own them in any way
+            <br>- (please) don't train AIs with my translations.</p>
+
+            <p>that's it, really.</p>
           </div>
         </section>
 
-        <section class="map-section">
-          <h2>Ghé thăm chúng tôi</h2>
-          <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.816546818561!2d105.84399008128861!3d20.9999896748113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac71752d8f79%3A0xd2ec575c01017afa!2sNational%20Economics%20University!5e0!3m2!1sen!2s!4v1745084146100!5m2!1sen!2s" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div>
-        </div>
-      </section>
-    </main>
+        <section class="works-section">
+          <div class="works-grid">
+            <a href="./story/we_traveler/index.html" class="work-box">
+              <div class="work-box-image">
+                <img src="./titles/we_traveler.jpg" alt="World End Travelers Logo">
+              </div>
+              <div class="work-box-details">
+                <h3>ワールドエンド・トラベラーズ<br>(World End Travelers)</h3>
+                <p class="dates">30/04/2025 -> 28/05/2025</p>
+                <p class="quote">"O Brave Hero who crossed the rainbow,<br>please, save this world-"</p>
+                <p style="font-size: 80%; opacity: 0.5; text-align: center;">From ライブ・ア・ヒーロー！(©2020 Lifewonders, LLC)</p>
+              </div>
+            </a>
 
-    <footer class="main-footer">
-      <p class="quote">"Why did I choose to do this thing alone...?" - Me</p>
-    </footer>
-    
-    <script src="./scripts/main.js"></script>
-    <script src="./scripts/index-slider.js"></script>
-    <script type="text/javascript">
-      var Tawk_API = Tawk_API || {},
-        Tawk_LoadStart = new Date();
-      (function() {
-        var s1 = document.createElement("script"),
-          s0 = document.getElementsByTagName("script")[0];
-        s1.async = true;
-        s1.src = 'https://embed.tawk.to/68e87032c312bc194e49af7e/1j75vci5v';
-        s1.charset = 'UTF-8';
-        s1.setAttribute('crossorigin', '*');
-        s0.parentNode.insertBefore(s1, s0);
-      })();
-    </script>
-  </body>
+            <a href="./story/choco_volcano/index.html" class="work-box">
+              <div class="work-box-image">
+                <img src="./titles/choco_volcano.jpg" alt="From Choco Volcano, with Love Logo">
+              </div>
+              <div class="work-box-details">
+                <h3>チョコ・ヴォルカーノより愛を込めて<br>(From Choco Volcano, with Love)</h3>
+                <p class="dates">Original: 27/02/2024 -> 26/03/2024 <br> Reprint: 19/03/2025 -> 10/04/2025</p>
+                <p class="quote">"On a special day, to give chocolate filled with one's feelings."</p>
+                <p style="font-size: 80%; opacity: 0.5; text-align: center;">From ライブ・ア・ヒーロー！(©2020 Lifewonders, LLC)</p>
+              </div>
+            </a>
+
+            <a href="./story/rising_moon/index.html" class="work-box">
+              <div class="work-box-image">
+                <img src="./titles/rising_moon.jpg" alt="The Glorious Rising Moon Logo">
+              </div>
+              <div class="work-box-details">
+                <h3>栄光のライジング・ムーン<br>(The Glorious Rising Moon)</h3>
+                <p class="dates">08/10/2024 -> 05/11/2024</p>
+                <p class="quote">"...The "Hero License Public Examination"<br>will be held!"</p>
+                <p style="font-size: 80%; opacity: 0.5; text-align: center;">From ライブ・ア・ヒーロー！(©2020 Lifewonders, LLC)</p>
+              </div>
+            </a>
+
+            <a href="./story/rookies/index.html" class="work-box">
+              <div class="work-box-image">
+                <img src="./titles/rookies.jpg" alt="Rookies Summer Festa Logo">
+              </div>
+              <div class="work-box-details">
+                <h3>ルーキーズ・サマーフェスタ<br>(Rookies Summer Festa)</h3>
+                <p class="dates">Original: 29/08/2024 -> 19/09/2024<br>Reprint: 18/09/2025 -> 07/10/2025</p>
+                <p class="quote">"We, want to be heroes!"</p>
+                <p style="font-size: 80%; opacity: 0.5; text-align: center;">From ライブ・ア・ヒーロー！(©2020 Lifewonders, LLC)</p>
+              </div>
+            </a>
+
+            <a href="./story/lastresort/index.html" class="work-box">
+              <div class="work-box-image">
+                <img src="./titles/lastresort.jpg" alt="Enoshima Last Resort Logo">
+              </div>
+              <div class="work-box-details">
+                <h3>エノシマ・ラストリゾート<br>～ご当地ヒーロー大集合！～</h3><h3 style="font-size: 1em;">(Enoshima Last Resort ~Local Heroes Gathering!~)</h3>
+                <p class="dates">24/06/2025 -> 22/07/2025</p>
+                <p class="quote">"At the height of summer in Enoshima,<br>a swimsuit calendar project is kicking off!?"</p>
+                <p style="font-size: 80%; opacity: 0.5; text-align: center;">From ライブ・ア・ヒーロー！(©2020 Lifewonders, LLC)</p>
+              </div>
+            </a>
+
+            <a href="./story/snowland/index.html" class="work-box">
+              <div class="work-box-image">
+                <img src="./titles/snowland.jpg" alt="Holy Night Transformation!? Magical Snowland Logo">
+              </div>
+              <div class="work-box-details">
+                <h3 style="font-size: 1.4em;">聖夜に変身！？ マジカルスノーランド<br>(Holy Night Transformation!?<br>Magical Snowland)</h3>
+                <p class="dates">13/12/2024 -> 31/12/2024</p>
+                <p class="quote">"An amusement park full of snow and fluffiness!?"</p>
+                <p style="font-size: 80%; opacity: 0.5; text-align: center;">From 東京放課後サモナーズ (©2016 Lifewonders, LLC)</p>
+              </div>
+            </a>
+
+            <a href="./story/tropical2025/index.html" class="work-box">
+              <div class="work-box-image">
+                <img src="./titles/tropical2025.jpg" alt="Tropical Burn Holiday ～Move Out! Tropical Fire Brigade～ Logo">
+              </div>
+              <div class="work-box-details">
+                <h3>トロピカル・バーンホリデー<br>～出動！南国消防団～</h3><h3 style="font-size: 100%;">(Tropical Burn Holiday<br>～Move Out! Tropical Fire Brigade～)</h3>
+                <p class="dates">16/09/2025 -> 14/10/2025</p>
+                <p class="quote">"People are scrambling around to<br>prepare for disaster prevention!?"</p>
+                <p style="font-size: 80%; opacity: 0.5; text-align: center;">From 東京放課後サモナーズ (©2016 Lifewonders, LLC)</p>
+              </div>
+            </a>
+
+            <a href="./story/stellalink/index.html" class="work-box">
+              <div class="work-box-image">
+                <img src="./titles/stellalink.jpg" alt="Stella Link Carnival Logo">
+              </div>
+              <div class="work-box-details">
+                <h3>ステラリンク・カーニバル<br>(Stella Link Carnival)</h3>
+                <p class="dates">07/10/2025 -> 04/11/2025</p>
+                <p class="quote">"The heroes' festival is far from finished!"</p>
+                <p style="font-size: 80%; opacity: 0.5; text-align: center;">From ライブ・ア・ヒーロー！(©2020 Lifewonders, LLC)</p>
+              </div>
+            </a>
+
+            </div>
+        </section>
+        
+      </main> 
+      <script src="./story/about.js"></script>
+      </body>
 </html>
