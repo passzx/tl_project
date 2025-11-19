@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trang chủ | PopBox</title>
+    <title>Sản phẩm</title>
     <link rel="stylesheet" href="./styles/styles.css">
     <link rel="apple-touch-icon" sizes="180x180" href="./icon/apple-touch-icon.webp">
     <link rel="icon" type="image/png" sizes="32x32" href="./icon/favicon-32x32.webp">
     <link rel="icon" type="image/png" sizes="16x16" href="./icon/favicon-16x16.webp">
     <link rel="manifest" href="./icon/site.webmanifest">
     <link rel="shortcut icon" href="./icon/favicon.ico">
-    <link rel="stylesheet" href="./styles/index.css">
+    <link rel="stylesheet" href="./styles/catalogue.css">
     <meta name="description" content="Cửa hàng tổng hợp của bạn cho món bắp rang bơ ngon nhất! Khám phá các hương vị cổ điển, đồ uống và bộ dụng cụ DIY của chúng tôi. Niềm vui bùng nổ, được giao tận nơi.">
     <meta name="keywords" content="bắp rang bơ, ecommerce, đồ ăn vặt, xem phim, bắp rang caramen, bắp rang bơ, bắp rang tự làm">
     <meta property="og:type" content="website">
@@ -83,82 +83,100 @@
         </div>
       </nav>
     </header>
-    
-    <main>
-      <section class="slider-section" aria-label="Quảng cáo nổi bật">
-        <div class="slider-wrapper" id="slider-wrapper">
-          <div class="slide">
-            <img src="images/login_bg2.webp" alt="Các bát bắp rang bơ">
-            <div class="slide-caption">
-              <h2>Chào mừng đến PopBox</h2>
-              <p>Cửa hàng cho mọi nhu cầu bắp rang bơ của bạn!</p>
-              <a href="catalogue.html" class="button">Xem sản phẩm</a>
+    <main class="catalogue-main">
+      <div class="catalogue-container">
+        <section class="cart-panel" id="cart-panel">
+          <h2>Giỏ hàng</h2>
+          <div class="cart-items" id="cart-items-list">
+            <p id="cart-empty-message">Giỏ hàng của bạn đang trống.</p>
+          </div>
+          <div class="cart-summary">
+            <div class="cart-total">
+              <span>Tổng:</span>
+              <span id="cart-total-price">$0.00</span>
             </div>
-          </div>
-          <div class="slide">
-            <img src="images/news_large_1.webp" alt="Đồ họa Giảm giá lớn">
-            <div class="slide-caption">
-              <h2>Giảm giá cực lớn!</h2>
-              <p>Hãy sẵn sàng cho đợt giảm giá lớn vào cuối tuần này.</p>
-              <a href="news.html" class="button">Xem tin tức</a>
-            </div>
-          </div>
-          <div class="slide">
-            <img src="images/pA.webp" alt="Các vị bắp rang bơ">
-            <div class="slide-caption">
-              <h2>Khám phá các hương vị</h2>
-              <p>Từ bơ cổ điển đến phô mai béo ngậy.</p>
-              <a href="catalogue.html#category-popcorn" class="button">Xem hương vị</a>
-            </div>
-          </div>
-        </div>
-        <button class="slider-nav prev" id="slider-prev" aria-label="Slide trước">❮</button>
-        <button class="slider-nav next" id="slider-next" aria-label="Slide tiếp">❯</button>
-        <div class="slider-dots" id="slider-dots">
-          </div>
-      </section>
-
-      <div class="container">
-        <section class="hero-section">
-          <div class="hero-logo">
-            <img src="images/logo.svg" alt="Site Logo Large">
-          </div>
-          <div class="hero-content">
-            <h1>PopBox</h1>
-            <div class="hero-buttons">
-              <a href="catalogue.html" class="button hero-button">Tất cả sản phẩm</a>
-              <a href="news.html" class="button hero-button">Tin tức và Khuyến mãi</a>
-            </div>
+            <button class="button checkout-btn" id="checkout-btn">Thanh toán</button>
           </div>
         </section>
-
-        <section class="map-section">
-          <h2>Ghé thăm chúng tôi</h2>
-          <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.816546818561!2d105.84399008128861!3d20.9999896748113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac71752d8f79%3A0xd2ec575c01017afa!2sNational%20Economics%20University!5e0!3m2!1sen!2s!4v1745084146100!5m2!1sen!2s" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        
+        <section class="product-panel" id="product-panel">
+          <nav class="product-nav" id="product-nav">
+            <ul>
+              <li>
+                <a href="#category-deals">
+                  <img src="images/p_category_1.webp" alt=""> Ưu đãi hôm nay </a>
+              </li>
+              <li>
+                <a href="#category-popcorn">
+                  <img src="images/p_category_2.webp" alt=""> Bắp rang bơ </a>
+              </li>
+              <li>
+                <a href="#category-drinks">
+                  <img src="images/p_category_3.webp" alt=""> Đồ uống </a>
+              </li>
+              <li>
+                <a href="#category-diy">
+                  <img src="images/p_category_4.webp" alt=""> Bộ tự làm (DIY) </a>
+              </li>
+            </ul>
+          </nav>
+          <div class="product-list" id="product-list">
+            <section id="category-deals" class="product-category">
+              <h3>Ưu đãi hôm nay</h3>
+              <div class="products-grid"></div>
+            </section>
+            <section id="category-popcorn" class="product-category">
+              <h3>Bắp rang bơ</h3>
+              <div class="products-grid"></div>
+            </section>
+            <section id="category-drinks" class="product-category">
+              <h3>Đồ uống</h3>
+              <div class="products-grid"></div>
+            </section>
+            <section id="category-diy" class="product-category">
+              <h3>Bộ tự làm (DIY)</h3>
+              <div class="products-grid"></div>
+            </section>
+          </div>
+        </section>
+      </div>
+      
+      <div class="product-detail-modal" id="product-detail-modal">
+        <button class="modal-close-btn" id="modal-close-btn" type="button">&times;</button>
+        <div class="modal-content">
+          <img src="" alt="Ảnh sản phẩm" id="modal-product-image" class="modal-product-image">
+          <div class="modal-product-info">
+            <h3 id="modal-product-name">Tên sản phẩm</h3>
+            <div id="modal-detail-link-container"></div>
+            <p id="modal-product-description">Mô tả sản phẩm...</p>
+            <form id="modal-options-form">
+              <fieldset class="size-options">
+                <legend>Chọn kích cỡ:</legend>
+              </fieldset>
+              <div class="deal-choice-container" style="display: none;">
+                <label for="modal-deal-popcorn-choice">Chọn loại bắp:</label>
+                <select id="modal-deal-popcorn-choice" style="font-family: Cabin" name="popcornChoice"></select>
+              </div>
+              <div class="deal-choice-container" style="display: none;">
+                <label for="modal-deal-drink-choice">Chọn đồ uống:</label>
+                <select id="modal-deal-drink-choice" style="font-family: Cabin" name="drinkChoice"></select>
+              </div>
+              <div class="quantity-picker" style="display: flex;">
+                <label for="modal-quantity">Số lượng:</label>
+                <button type="button" class="quantity-btn minus" id="modal-qty-minus">-</button>
+                <input type="number" id="modal-quantity" name="quantity" value="1" min="1" step="1">
+                <button type="button" class="quantity-btn plus" id="modal-qty-plus">+</button>
+              </div>
+              <div class="modal-price-display"> Giá: <span id="modal-current-price">$0.00</span>
+              </div>
+              <button type="submit" class="button add-to-cart-btn" id="modal-add-to-cart-btn">Thêm vào giỏ</button>
+            </form>
           </div>
         </div>
-      </section>
+      </div>
+      <div class="modal-overlay" id="modal-overlay"></div>
     </main>
-
-    <footer class="main-footer">
-      <p class="quote">"Why did I choose to do this thing alone...?" - Me</p>
-    </footer>
-    
     <script src="./scripts/main.js"></script>
-    <script src="./scripts/index-slider.js"></script>
-    <script type="text/javascript">
-      var Tawk_API = Tawk_API || {},
-        Tawk_LoadStart = new Date();
-      (function() {
-        var s1 = document.createElement("script"),
-          s0 = document.getElementsByTagName("script")[0];
-        s1.async = true;
-        s1.src = 'https://embed.tawk.to/68e87032c312bc194e49af7e/1j75vci5v';
-        s1.charset = 'UTF-8';
-        s1.setAttribute('crossorigin', '*');
-        s0.parentNode.insertBefore(s1, s0);
-      })();
-    </script>
+    <script src="./scripts/catalogue.js"></script>
   </body>
 </html>

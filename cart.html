@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trang chủ | PopBox</title>
+    <title>Giỏ hàng của bạn</title>
     <link rel="stylesheet" href="./styles/styles.css">
     <link rel="apple-touch-icon" sizes="180x180" href="./icon/apple-touch-icon.webp">
     <link rel="icon" type="image/png" sizes="32x32" href="./icon/favicon-32x32.webp">
     <link rel="icon" type="image/png" sizes="16x16" href="./icon/favicon-16x16.webp">
     <link rel="manifest" href="./icon/site.webmanifest">
     <link rel="shortcut icon" href="./icon/favicon.ico">
-    <link rel="stylesheet" href="./styles/index.css">
+    <link rel="stylesheet" href="./styles/cart.css">
     <meta name="description" content="Cửa hàng tổng hợp của bạn cho món bắp rang bơ ngon nhất! Khám phá các hương vị cổ điển, đồ uống và bộ dụng cụ DIY của chúng tôi. Niềm vui bùng nổ, được giao tận nơi.">
     <meta name="keywords" content="bắp rang bơ, ecommerce, đồ ăn vặt, xem phim, bắp rang caramen, bắp rang bơ, bắp rang tự làm">
     <meta property="og:type" content="website">
@@ -83,70 +83,54 @@
         </div>
       </nav>
     </header>
-    
-    <main>
-      <section class="slider-section" aria-label="Quảng cáo nổi bật">
-        <div class="slider-wrapper" id="slider-wrapper">
-          <div class="slide">
-            <img src="images/login_bg2.webp" alt="Các bát bắp rang bơ">
-            <div class="slide-caption">
-              <h2>Chào mừng đến PopBox</h2>
-              <p>Cửa hàng cho mọi nhu cầu bắp rang bơ của bạn!</p>
-              <a href="catalogue.html" class="button">Xem sản phẩm</a>
+    <main class="cart-page-main">
+      <div class="cart-page-container">
+        <section class="main-cart-area">
+          <h1>Giỏ hàng của bạn</h1>
+          <div class="cart-items-detailed" id="cart-items-detailed-list">
+            <p id="cart-detailed-empty-message">Giỏ hàng của bạn đang trống.</p>
+          </div>
+          <div class="cart-summary-detailed">
+            
+            <div class="discount-section">
+              <label for="discount-code-input">Mã giảm giá:</label>
+              <div class="discount-input-group">
+                <input type="text" id="discount-code-input" placeholder="Nhập mã của bạn">
+                <button class="button" id="apply-discount-btn">Áp dụng</button>
+              </div>
+              <p id="discount-message" class="form-message"></p>
             </div>
-          </div>
-          <div class="slide">
-            <img src="images/news_large_1.webp" alt="Đồ họa Giảm giá lớn">
-            <div class="slide-caption">
-              <h2>Giảm giá cực lớn!</h2>
-              <p>Hãy sẵn sàng cho đợt giảm giá lớn vào cuối tuần này.</p>
-              <a href="news.html" class="button">Xem tin tức</a>
+            
+            <div class="cart-total-detailed">
+              <span>Tạm tính:</span>
+              <span id="cart-subtotal-price-detailed">$0.00</span>
             </div>
-          </div>
-          <div class="slide">
-            <img src="images/pA.webp" alt="Các vị bắp rang bơ">
-            <div class="slide-caption">
-              <h2>Khám phá các hương vị</h2>
-              <p>Từ bơ cổ điển đến phô mai béo ngậy.</p>
-              <a href="catalogue.html#category-popcorn" class="button">Xem hương vị</a>
+            <div class="cart-total-detailed discount-row" style="display: none;">
+              <span>Giảm giá:</span>
+              <span id="cart-discount-amount-detailed">-$0.00</span>
             </div>
-          </div>
-        </div>
-        <button class="slider-nav prev" id="slider-prev" aria-label="Slide trước">❮</button>
-        <button class="slider-nav next" id="slider-next" aria-label="Slide tiếp">❯</button>
-        <div class="slider-dots" id="slider-dots">
-          </div>
-      </section>
-
-      <div class="container">
-        <section class="hero-section">
-          <div class="hero-logo">
-            <img src="images/logo.svg" alt="Site Logo Large">
-          </div>
-          <div class="hero-content">
-            <h1>PopBox</h1>
-            <div class="hero-buttons">
-              <a href="catalogue.html" class="button hero-button">Tất cả sản phẩm</a>
-              <a href="news.html" class="button hero-button">Tin tức và Khuyến mãi</a>
+            <div class="cart-total-detailed final-total">
+              <span>Tổng cộng:</span>
+              <span id="cart-total-price-detailed">$0.00</span>
             </div>
-          </div>
+            <button class="button checkout-btn-detailed" id="checkout-btn-detailed">Tiến hành thanh toán (Mô phỏng)</button>
+            
+            <div class="paypal-divider">
+              <span>hoặc</span>
+            </div>
+            <button class="button paypal-btn" id="paypal-checkout-btn">
+              Thanh toán với PayPal
+            </button>
+            </div>
         </section>
-
-        <section class="map-section">
-          <h2>Ghé thăm chúng tôi</h2>
-          <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.816546818561!2d105.84399008128861!3d20.9999896748113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac71752d8f79%3A0xd2ec575c01017afa!2sNational%20Economics%20University!5e0!3m2!1sen!2s!4v1745084146100!5m2!1sen!2s" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div>
-        </div>
-      </section>
+        <aside class="suggested-items-area">
+          <h2>Có thể bạn cũng thích...</h2>
+          <div class="suggestions-list" id="suggestions-list"></div>
+        </aside>
+      </div>
     </main>
-
-    <footer class="main-footer">
-      <p class="quote">"Why did I choose to do this thing alone...?" - Me</p>
-    </footer>
-    
     <script src="./scripts/main.js"></script>
-    <script src="./scripts/index-slider.js"></script>
+    <script src="./scripts/cart.js"></script>
     <script type="text/javascript">
       var Tawk_API = Tawk_API || {},
         Tawk_LoadStart = new Date();

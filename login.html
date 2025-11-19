@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Người dùng</title>
+    <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="./icon/apple-touch-icon.webp">
+    <link rel="icon" type="image/png" sizes="32x32" href="./icon/favicon-32x32.webp">
+    <link rel="icon" type="image/png" sizes="16x16" href="./icon/favicon-16x16.webp">
+    <link rel="manifest" href="./icon/site.webmanifest">
+    <link rel="shortcut icon" href="./icon/favicon.ico">
+    <link rel="stylesheet" href="./styles/login.css">
+  </head>
+  <body>
+    <header class="main-header">
+      <nav class="main-nav">
+        <div class="nav-left">
+          <a href="index.html" class="nav-logo" aria-label="Trang chủ">
+            <img src="images/logo.svg" alt="Site Logo">
+          </a>
+        </div>
+        <button class="mobile-nav-toggle" aria-label="Mở/đóng menu điều hướng" aria-expanded="false">
+          <span class="hamburger-icon"></span>
+          <span class="hamburger-icon"></span>
+          <span class="hamburger-icon"></span>
+        </button>
+        <div class="nav-center" id="main-navigation">
+          <ul>
+            <li>
+              <a href="about.html">
+                <img src="images/nav1.webp" alt="" class="mobile-nav-icon"> Về chúng tôi </a>
+            </li>
+            <li>
+              <a href="catalogue.html">
+                <img src="images/nav2.webp" alt="" class="mobile-nav-icon"> Sản phẩm </a>
+            </li>
+            <li>
+              <a href="news.html">
+                <img src="images/nav3.webp" alt="" class="mobile-nav-icon"> Tin tức </a>
+            </li>
+            <li>
+              <a href="faq.html">
+                <img src="images/nav4.webp" alt="" class="mobile-nav-icon"> Hỏi đáp </a>
+            </li>
+            <li>
+              <a href="career.html">
+                <img src="images/nav5.webp" alt="" class="mobile-nav-icon"> Tuyển dụng </a>
+            </li>
+          </ul>
+        </div>
+        <div class="nav-right">
+          <form class="nav-search-form" role="search" onsubmit="return false;">
+            <input type="text" class="nav-search-input" placeholder="Tìm kiếm...">
+            <button type="submit" class="nav-search-btn" aria-label="Tìm kiếm">🔍</button>
+          </form>
+          <a href="login.html" class="nav-icon" aria-label="Đăng nhập">
+            <img src="images/user.webp" alt="Login Icon">
+          </a>
+          <a href="cart.html" class="nav-icon" aria-label="Giỏ hàng">
+            <img src="images/cart.webp" alt="Cart Icon">
+          </a>
+        </div>
+      </nav>
+    </header>
+    <main class="login-page-main">
+      <div class="login-container">
+        <div class="login-image-panel" id="login-image-panel"></div>
+        <div class="login-form-panel">
+          <div class="form-toggle">
+            <button id="show-login-btn" class="toggle-btn active" type="button">Đăng nhập</button>
+            <button id="show-register-btn" class="toggle-btn" type="button">Đăng ký</button>
+            <div class="active-indicator"></div>
+          </div>
+          <form id="login-form" class="auth-form active-form">
+            <h2>Đăng nhập</h2>
+            <div class="form-group">
+              <label for="login-username">Tên đăng nhập</label>
+              <input type="text" id="login-username" name="username" autocomplete="username" required>
+            </div>
+            <div class="form-group">
+              <label for="login-password">Mật khẩu</label>
+              <input type="password" id="login-password" name="password" autocomplete="current-password" required>
+            </div>
+            <a href="#" id="forgot-password-link" class="forgot-password">Quên mật khẩu?</a>
+            <button type="submit" class="button submit-btn">Đăng nhập</button>
+            <p class="form-message" id="login-message"></p>
+          </form>
+          <form id="register-form" class="auth-form">
+            <h2>Đăng ký</h2>
+            <div class="form-group">
+              <label for="register-phone">Số điện thoại</label>
+              <input type="tel" id="register-phone" name="phone" autocomplete="tel" required>
+            </div>
+            <div class="form-group">
+              <label for="register-username">Tên đăng nhập</label>
+              <input type="text" id="register-username" name="username" autocomplete="username" required>
+            </div>
+            <div class="form-row">
+              <div class="form-group">
+                <label for="register-password">Mật khẩu</label>
+                <input type="password" id="register-password" name="password" autocomplete="new-password" required>
+              </div>
+              <div class="form-group">
+                <label for="register-repeat-password">Nhập lại mật khẩu</label>
+                <input type="password" id="register-repeat-password" name="repeatPassword" autocomplete="new-password" required>
+              </div>
+            </div>
+            <button type="submit" class="button submit-btn">Đăng ký</button>
+            <p class="form-message" id="register-message"></p>
+          </form>
+          <div id="user-info-panel" class="user-info-panel">
+            <h2>Thông tin người dùng</h2>
+            <div class="profile-header">
+              <img src="images/icon.webp" alt="Profile Icon" class="profile-icon">
+              <div class="profile-details">
+                <span class="detail-label">Tên đăng nhập:</span>
+                <span id="user-info-username" class="detail-value"></span>
+                <span class="detail-label">Số điện thoại:</span>
+                <span id="user-info-phone" class="detail-value"></span>
+              </div>
+            </div>
+            <div class="user-actions">
+              <button id="logout-btn" type="button" class="button logout-btn">Đăng xuất</button>
+              <button id="delete-account-btn" type="button" class="button delete-btn">Xóa tài khoản</button>
+            </div>
+            <p class="form-message" id="user-info-message"></p>
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src="./scripts/main.js"></script>
+    <script src="./scripts/login.js"></script>
+  </body>
+</html>
