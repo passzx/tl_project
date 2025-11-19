@@ -1,0 +1,193 @@
+:root {
+    --header-height: 75px;
+    --primary-color: #3498db;
+    --text-color: #333;
+    --border-color: #e0e0e0;
+    --card-background: #ffffff;
+    --card-radius: 12px;
+    --card-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    --grid-gap: 25px;
+}
+
+.news-page-main {
+     padding: 30px 0;
+     background-color: #f5f5f7;
+}
+
+.news-container {
+    text-align: center;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.news-container h1 {
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    color: #1d1d1f;
+}
+
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: var(--grid-gap);
+}
+
+.news-item.span-3 {
+    grid-column: span 6;
+}
+
+.news-item.span-2 {
+    grid-column: span 3;
+}
+
+.news-item.span-1 {
+    grid-column: span 2;
+}
+
+.news-item {
+    background-color: var(--card-background);
+    border-radius: var(--card-radius);
+    box-shadow: var(--card-shadow);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: box-shadow 0.3s ease;
+}
+
+.news-item.item-crossed-out::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: url('../images/X.svg');
+    background-size: 60%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: rgba(255, 0, 0, 0.15);
+    z-index: 5;
+    opacity: 1;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.news-item.item-crossed-out .news-item-image-wrapper,
+.news-item.item-crossed-out .news-item-content {
+    opacity: 0.5;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.news-item.item-crossed-out {
+    cursor: default;
+}
+
+.news-item.item-crossed-out .news-item-link {
+    pointer-events: none;
+}
+
+.news-item:hover {
+     box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+}
+
+.news-item-link {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.news-item-image-wrapper {
+    overflow: hidden;
+    background-color: #eee;
+}
+
+.news-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: transform 0.4s ease-in-out;
+}
+
+.news-item:hover img {
+    transform: scale(1.05);
+}
+
+.news-item-content {
+    padding: 20px 25px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.news-item-category {
+    font-size: 0.75em;
+    font-weight: 600;
+    color: #6e6e73;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    letter-spacing: 0.5px;
+}
+
+.news-item-title {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: #1d1d1f;
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: 1.3;
+}
+.news-item.span-3 .news-item-title { font-size: 1.8em; }
+.news-item.span-2 .news-item-title { font-size: 1.5em; }
+
+.news-item-date {
+    font-size: 0.85em;
+    color: #6e6e73;
+    margin-top: auto;
+    padding-top: 10px;
+}
+
+.main-footer {
+    background-color: rgba(50, 50, 50, 0.8);
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .main-footer .quote {
+    margin: 0;
+    font-size: 0.8em;
+    opacity: 0.5;
+    font-style: italic;
+  }
+
+@media (max-width: 992px) {
+    .news-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+    .news-item.span-3 { grid-column: span 2; }
+    .news-item.span-2 { grid-column: span 2; }
+    .news-item.span-1 { grid-column: span 1; }
+
+    .news-container h1 { font-size: 2em; }
+    .news-item.span-3 .news-item-title { font-size: 1.6em; }
+    .news-item.span-2 .news-item-title { font-size: 1.4em; }
+    .news-item.span-1 .news-item-title { font-size: 1.2em; }
+}
+
+@media (max-width: 600px) {
+     .news-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    .news-item.span-3,
+    .news-item.span-2,
+    .news-item.span-1 {
+        grid-column: span 1;
+    }
+    .news-container h1 { font-size: 1.8em; }
+    .news-item .news-item-title { font-size: 1.3em; }
+     .news-item-content { padding: 15px 20px; }
+
+}
