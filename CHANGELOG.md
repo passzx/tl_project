@@ -3,9 +3,13 @@
 - better chapter navigation
 - better website deployment
 - removing light mode?
-- fix lazy loading somehow
 
 -------------------------------------------
+
+3/12/2025
+- minor term changes (Parallel Queue, Estebolta, etc.)
+- changed internal event names to match in-games
+- updated [risingmoon]
 
 06/11/2025
 - no more italic narrator dialogue boxes (some people told me it was hard to read)

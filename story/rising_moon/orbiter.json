@@ -1,5 +1,9 @@
 [
   {
+    "type": "bg",
+    "bg": "../bg/lah/ceremonialhall_night.png"
+  },
+  {
     "type": "narrator",
     "text": "Although the incident was resolved,<br>the scars of the damage still remained<br>at the ceremony hall of Archimedes Colony."
   },
@@ -21,12 +25,10 @@
       "type": "choice",
       "options": [
         {
-          "text": "Good work to you too, Orbiter!",
-          "dialogue_after_selection": []
+          "text": "Good work to you too, Orbiter!"
         },
         {
-          "text": "Thank you for helping out today too.",
-          "dialogue_after_selection": []
+          "text": "Thank you for helping out today too."
         }
       ]
     },
@@ -46,18 +48,16 @@
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "Hey, hey, let's chat a little!<br>I told Andrew and Flamier that I'd be home late!"
+      "text": "Hey, hey, let's chat a little!<br>I told Andrew and Flamier<br>that I'd be home late!"
     },
     {
       "type": "choice",
       "options": [
         {
-          "text": "Of course, let's sit down for a bit.",
-          "dialogue_after_selection": []
+          "text": "Of course, let's sit down for a bit."
         },
         {
-          "text": "I wanted to talk to you too, Orbiter.",
-          "dialogue_after_selection": []
+          "text": "I wanted to talk to you too, Orbiter."
         }
       ]
     },
@@ -97,12 +97,10 @@
       "type": "choice",
       "options": [
         {
-          "text": "You have so many things you want to do!",
-          "dialogue_after_selection": []
+          "text": "You have so many things you want to do!"
         },
         {
-          "text": "I'm cheering for you too.",
-          "dialogue_after_selection": []
+          "text": "I'm cheering for you too."
         }
       ]
     },
@@ -110,7 +108,7 @@
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "Yeah, thank you, [Player].<br>I'm going to properly aim to be an astronaut this time!"
+      "text": "Yeah, thank you, [Player].<br>I'm going to properly aim<br>to be an astronaut this time!"
     },
     {
       "type": "character",
@@ -144,12 +142,10 @@
       "type": "choice",
       "options": [
         {
-          "text": "It's amazing that you can think that way.",
-          "dialogue_after_selection": []
+          "text": "It's amazing that you can think that way."
         },
         {
-          "text": "Orbiter, you're so admirable...",
-          "dialogue_after_selection": []
+          "text": "Orbiter, you're so admirable..."
         }
       ]
     },
@@ -183,18 +179,16 @@
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "—Hey, [Player].<br>When you were inside me...<br>what did it feel like?"
+      "text": "—Hey, [Player].<br>When you were inside me...<br>What did it feel like?"
     },
     {
       "type": "choice",
       "options": [
         {
-          "text": "Somehow, I felt relieved.",
-          "dialogue_after_selection": []
+          "text": "Somehow, I felt relieved."
         },
         {
-          "text": "It made me feel warm inside.",
-          "dialogue_after_selection": []
+          "text": "It made me feel warm inside."
         }
       ]
     },
@@ -236,7 +230,7 @@
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "...I've failed to save someone once before—<br>that's what it felt like."
+      "text": "...I've failed to save<br>someone once before—<br>...That's what it felt like."
     },
     {
       "type": "narrator",
@@ -258,12 +252,10 @@
       "type": "choice",
       "options": [
         {
-          "text": "...Orbiter, it's not your fault.",
-          "dialogue_after_selection": []
+          "text": "...Orbiter, it's not your fault."
         },
         {
-          "text": "Orbiter, you saved my life.",
-          "dialogue_after_selection": []
+          "text": "Orbiter, you saved my life."
         }
       ]
     },
@@ -335,12 +327,10 @@
       "type": "choice",
       "options": [
         {
-          "text": "Yeah, let's go together.",
-          "dialogue_after_selection": []
+          "text": "Yeah, let's go together."
         },
         {
-          "text": "I'm looking forward to the adventure.",
-          "dialogue_after_selection": []
+          "text": "I'm looking forward to the adventure."
         }
       ]
     },
@@ -348,7 +338,7 @@
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "—Yeah! Yay—!!"
+      "text": "—Yeah!<br>Yay—!!"
     },
     {
       "type": "character",
@@ -366,52 +356,52 @@
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "Let's go on adventures to all the stars together!<br>It's a promise, [Player]!"
+      "text": "Let's go on adventures<br>to all the stars together!<br>It's a promise, [Player]!"
     },
     {
       "type": "narrator",
-      "text": "Orbiter, excited, embraced [Player]."
+      "text": "An excited Orbiter<br>embraced [Player]."
     },
     {
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "Alright, I have to study even harder <br>to become an astronaut!"
+      "text": "Alright, I have to study even harder<br>to become an astronaut!"
     },
     {
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "...Ah, but before that! <br>[Player], would you go out together with me tomorrow?"
+      "text": "...Ah, but before that!<br>[Player], would you go out<br>together with me tomorrow?"
     },
     {
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "The festival stalls that were set up <br>for the ceremony are gradually reopening!"
+      "text": "The festival stalls that were set up<br>for the ceremony are gradually reopening!"
     },
     {
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "I've always wanted to go—! <br>Tomorrow's your day off, right? <br>[Player], you'll come along, right?"
+      "text": "I've always wanted to go—!<br>Tomorrow's your day off, right?<br>[Player], you'll come along, right?"
     },
     {
       "type": "character",
       "name": "Orbiter",
       "avatar": "../char/orbiter.png",
-      "text": "Let's take a walk together! <br>I'll buy souvenirs for Captain, Andrew and the others!"
+      "text": "Let's take a walk together!<br>I'll buy souvenirs for Captain,<br>Andrew and the others!"
     },
     {
       "type": "narrator",
-      "text": "Orbiter held [Player]'s hand and continued talking cheerfully. <br>[Player] gently squeezed his hand back."
+      "text": "Orbiter held [Player]'s hand and continued talking cheerfully.<br>[Player] gently squeezed his hand back."
     },
     {
       "type": "narrator",
-      "text": "—From the window of the ceremony hall, <br>the blue Earth glowed gently."
+      "text": "—From the window of the ceremony hall,<br>the blue Earth glowed gently."
     },
     {
       "type": "narrator",
-      "text": "The two's cheerful voices, <br>would echo for eternity for all to hear."
+      "text": "The two's cheerful voices,<br>would echo for eternity for all to hear."
     }
   ]

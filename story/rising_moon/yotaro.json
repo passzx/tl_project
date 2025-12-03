@@ -1,5 +1,9 @@
 [
   {
+    "type": "bg",
+    "bg": "../bg/lah/ikebukuro_sunshinest_night.png"
+  },
+  {
     "type": "narrator",
     "text": "Although the incident was resolved,<br>the scars of the damage still remained<br>at the ceremony hall of Archimedes Colony."
   },
@@ -15,16 +19,13 @@
       "type": "choice",
       "options": [
         {
-          "text": "Now, what should I do?",
-          "dialogue_after_selection": []
+          "text": "Now, what should I do?"
         },
         {
-          "text": "I probably can't go too far.",
-          "dialogue_after_selection": []
+          "text": "I probably can't go too far."
         },
         {
-          "text": "Somewhere to kill time, let's see...",
-          "dialogue_after_selection": []
+          "text": "Somewhere to kill time, let's see..."
         }
       ]
     },
@@ -48,12 +49,10 @@
       "type": "choice",
       "options": [
         {
-          "text": "That's my line...",
-          "dialogue_after_selection": []
+          "text": "That's my line..."
         },
         {
-          "text": "I thought you had already left the moon!?",
-          "dialogue_after_selection": []
+          "text": "I thought you had already left the moon!?"
         }
       ]
     },
@@ -139,18 +138,19 @@
       "type": "choice",
       "options": [
         {
-          "text": "...Oh, in that case, I know a good place!",
-          "dialogue_after_selection": []
+          "text": "...Oh, in that case, I know a good place!"
         },
         {
-          "text": "It's a shop a colleague told me about.",
-          "dialogue_after_selection": []
+          "text": "It's a shop a colleague told me about."
         },
         {
-          "text": "Yotaro-kun, do you like sweets?",
-          "dialogue_after_selection": []
+          "text": "Yotaro-kun, do you like sweets?"
         }
       ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/trainlounge_party.png"
     },
     {
       "type": "narrator",
@@ -176,12 +176,10 @@
       "type": "choice",
       "options": [
         {
-          "text": "I'm the one paying, so don't worry about it.",
-          "dialogue_after_selection": []
+          "text": "I'm the one paying, so don't worry about it."
         },
         {
-          "text": "I-It's more than I expected, but it's fine either way...",
-          "dialogue_after_selection": []
+          "text": "I-It's more than I expected, but it's fine either way..."
         }
       ]
     },
@@ -225,7 +223,7 @@
               "type": "character",
               "name": "Yotaro",
               "avatar": "../char/yotaro.png",
-              "text": "Ah, s-sorry. I wasn't thinking at all..."
+              "text": "Ah, s-sorry.<br>I wasn't thinking at all..."
             },
             {
               "type": "character",
@@ -240,8 +238,7 @@
           ]
         },
         {
-          "text": "Yeah, it's very delicious!",
-          "dialogue_after_selection": []
+          "text": "Yeah, it's very delicious!"
         }
       ]
     },
@@ -279,12 +276,10 @@
       "type": "choice",
       "options": [
         {
-          "text": "You observe with taste and smell, right?",
-          "dialogue_after_selection": []
+          "text": "You observe with taste and smell, right?"
         },
         {
-          "text": "What's that like?",
-          "dialogue_after_selection": []
+          "text": "What's that like?"
         }
       ]
     },
@@ -316,12 +311,10 @@
       "type": "choice",
       "options": [
         {
-          "text": "E-Embarrassing...?",
-          "dialogue_after_selection": []
+          "text": "E-Embarrassing...?"
         },
         {
-          "text": "That's a sense I don't understand...",
-          "dialogue_after_selection": []
+          "text": "That's a sense I don't understand..."
         }
       ]
     },
@@ -373,13 +366,13 @@
       "type": "character",
       "name": "Yotaro",
       "avatar": "../char/yotaro.png",
-      "text": "Yet... you were the kind of person,<br>who would choose to fight alongside<br>both me and Gaisei-kun."
+      "text": "Yet... You were the kind of person,<br>who would choose to fight alongside<br>both me and Gaisei-kun."
     },
     {
       "type": "character",
       "name": "Yotaro",
       "avatar": "../char/yotaro.png",
-      "text": "You treat others without discrimination,<br>and you even accept to cooperate on operating with me..."
+      "text": "You treat others without discrimination,<br>and you even accept to cooperate<br>on operating with me..."
     },
     {
       "type": "narrator",
@@ -421,7 +414,7 @@
       "type": "character",
       "name": "Yotaro",
       "avatar": "../char/yotaro.png",
-      "text": "However, I will definitely repay you for the cake today.<br>I don't like being in debt myself."
+      "text": "However, I will definitely<br>repay you for the cake today.<br>I don't like being in debt myself."
     },
     {
       "type": "character",
@@ -443,12 +436,10 @@
       "type": "choice",
       "options": [
         {
-          "text": "Thank you, Yotaro-kun.",
-          "dialogue_after_selection": []
+          "text": "Thank you, Yotaro-kun."
         },
         {
-          "text": "I'll keep it safe.",
-          "dialogue_after_selection": []
+          "text": "I'll keep it safe."
         }
       ]
     },
